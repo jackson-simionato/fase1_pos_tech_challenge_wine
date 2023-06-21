@@ -1,125 +1,125 @@
-pais_origem,pais_destino,litros_exportados,valor_exportacao
-Brasil,Rússia,39230153,25559026
-Brasil,Paraguai,25423559,32364257
-Brasil,Estados Unidos,3822251,10046712
-Brasil,China,2411701,4372268
-Brasil,Espanha,1993000,3808552
-Brasil,Japão,1502311,2612375
-Brasil,Países Baixos,1410166,4119122
-Brasil,Reino Unido,1305329,4717554
-Brasil,Haiti,1238100,1586194
-Brasil,"Alemanha, República Democrática",1020933,2739079
-Brasil,Portugal,526742,739088
-Brasil,Bélgica,402916,1392832
-Brasil,França,318208,706582
-Brasil,Cuba,273697,309724
-Brasil,Austrália,273290,457230
-Brasil,Canadá,198480,1110471
-Brasil,Angola,190731,621181
-Brasil,Suíça,177400,956117
-Brasil,Bolívia,176876,244657
-Brasil,Uruguai,155478,222511
-Brasil,Polônia,154475,611080
-Brasil,"Tcheca, República",150527,536018
-Brasil,Curaçao,150446,253733
-Brasil,Hong Kong,139761,415676
-Brasil,Nigéria,129407,208177
-Brasil,Antilhas Holandesas,114027,160864
-Brasil,Estônia,107768,144886
-Brasil,Suécia,99449,350827
-Brasil,Finlândia,86763,537432
-Brasil,Taiwan (FORMOSA),82458,287987
-Brasil,Chile,82041,129939
-Brasil,Dinamarca,81582,386745
-Brasil,Luxemburgo,67290,371165
-Brasil,Gana,66229,90377
-Brasil,Venezuela,52995,83847
-Brasil,Panamá,51476,114154
-Brasil,Argentina,50532,218452
-Brasil,Noruega,41688,232180
-Brasil,Colômbia,35669,73949
-Brasil,Cingapura,34837,108474
-Brasil,Itália,31677,155007
-Brasil,Suriname,28576,47633
-Brasil,Peru,24668,53789
-Brasil,"Marshall, Ilhas",23113,60422
-Brasil,Guine Equatorial,20684,81903
-Brasil,Guatemala,18964,37839
-Brasil,Libéria,17808,63852
-Brasil,Quênia,17471,45547
-Brasil,Irlanda,16970,104717
-Brasil,Serra Leoa,15783,26722
-Brasil,Benin,15399,37765
-Brasil,Nova Zelândia,13967,75053
-Brasil,Filipinas,13847,30607
-Brasil,Catar,13339,81608
-Brasil,Bahamas,12886,70829
-Brasil,Cabo Verde,12625,50363
-Brasil,Emirados Arabes Unidos,12531,59378
-Brasil,Malta,11095,35162
-Brasil,Vietnã,9669,12736
-Brasil,México,8773,59229
-Brasil,Grécia,8560,23830
-Brasil,Nova Caledônia,7227,11924
-Brasil,Togo,7061,9823
-Brasil,Equador,6482,7412
-Brasil,Chipre,5284,13638
-Brasil,"Coreia, Republica Sul",4900,19872
-Brasil,Guiana,4569,14067
-Brasil,Singapura,4504,14346
-Brasil,Tailândia,2843,7179
-Brasil,São Tomé e Príncipe,2184,2357
-Brasil,Camarões,1749,7654
-Brasil,Antígua e Barbuda,1685,5872
-Brasil,Aruba,1350,2435
-Brasil,Trinidade Tobago,891,4320
-Brasil,Turquia,818,1237
-Brasil,Barein,792,3066
-Brasil,Gibraltar,792,2953
-Brasil,Áustria,675,5220
-Brasil,Hungria,627,4686
-Brasil,República Dominicana,601,2438
-Brasil,"Eslovaca, Republica",585,16063
-Brasil,Dominica,460,634
-Brasil,Barbados,395,1407
-Brasil,Letônia,387,3723
-Brasil,Congo,360,570
-Brasil,Namibia,340,722
-Brasil,"Cayman, Ilhas",265,1004
-Brasil,Honduras,176,610
-Brasil,Irã,137,322
-Brasil,Ilha de Man,136,741
-Brasil,Bulgária,117,1579
-Brasil,Guiana Francesa,90,32
-Brasil,India,71,369
-Brasil,Malásia,63,143
-Brasil,Costa Rica,55,200
-Brasil,El Salvador,55,100
-Brasil,Guine Bissau,48,90
-Brasil,Bósnia-Herzegovina,45,52
-Brasil,Montenegro,32,131
-Brasil,Brasil,31,46
-Brasil,África do Sul,30,116
-Brasil,Nicaragua,24,24
-Brasil,Croácia,21,123
-Brasil,Vanuatu,18,31
-Brasil,Jordânia,12,52
-Brasil,Afeganistão,11,46
-Brasil,Suazilândia,10,24
-Brasil,Comores,9,25
-Brasil,Mauritânia,9,85
-Brasil,Belice,9,29
-Brasil,São Vicente e Granadinas,8,48
-Brasil,Bangladesh,5,49
-Brasil,Indonésia,5,6
-Brasil,Tuvalu,2,4
-Brasil,Ilhas Virgens,0,0
-Brasil,Líbano,0,0
-Brasil,Iraque,0,0
-Brasil,Porto Rico,0,0
-Brasil,Tanzânia,0,0
-Brasil,Senegal,0,0
-Brasil,Jamaica,0,0
-Brasil,Anguilla,0,0
-Brasil,Costa do Marfim,0,0
-Brasil,Tunísia,0,0
+pais_origem,pais_destino,iso_cod,litros_exportados,valor_exportacao,temp_anual_media
+Brasil,Rússia,RUS,39.230153,25.559026,-5.35
+Brasil,Paraguai,PRY,25.423559,32.364257,23.55
+Brasil,Estados Unidos,USA,3.822251,10.046712,8.55
+Brasil,China,CHN,2.411701,4.372268,7.5
+Brasil,Espanha,ESP,1.993,3.808552,13.3
+Brasil,Japão,JPN,1.502311,2.612375,11.15
+Brasil,Países Baixos,NLD,1.410166,4.119122,9.25
+Brasil,Reino Unido,GBR,1.305329,4.717554,8.45
+Brasil,Haiti,HTI,1.2381,1.586194,24.9
+Brasil,Alemanha,DEU,1.020933,2.739079,8.4
+Brasil,Portugal,PRT,0.526742,0.739088,15.15
+Brasil,Bélgica,BEL,0.402916,1.392832,9.55
+Brasil,França,FRA,0.318208,0.706582,10.7
+Brasil,Cuba,CUB,0.273697,0.309724,25.2
+Brasil,Austrália,AUS,0.27329,0.45723,21.65
+Brasil,Canadá,CAN,0.19848,1.110471,-5.1
+Brasil,Angola,AGO,0.190731,0.621181,21.55
+Brasil,Suíça,CHE,0.1774,0.956117,5.1
+Brasil,Bolívia,BOL,0.176876,0.244657,21.55
+Brasil,Uruguai,URY,0.155478,0.222511,17.55
+Brasil,Polônia,POL,0.154475,0.61108,7.85
+Brasil,República Tcheca,CZE,0.150527,0.536018,7.55
+Brasil,Curaçao,CUW,0.150446,0.253733,28.0
+Brasil,Hong Kong,HKG,0.139761,0.415676,21.45
+Brasil,Nigéria,NGA,0.129407,0.208177,27.0
+Brasil,Antilhas Holandesas,,0.114027,0.160864,28.0
+Brasil,Estônia,EST,0.107768,0.144886,2.0
+Brasil,Suécia,SWE,0.099449,0.350827,1.75
+Brasil,Finlândia,FIN,0.086763,0.537432,1.55
+Brasil,Taiwan,TWN,0.082458,0.287987,24.0
+Brasil,Chile,CHL,0.082041,0.129939,8.45
+Brasil,Dinamarca,DNK,0.081582,0.386745,-3.7
+Brasil,Luxemburgo,LUX,0.06729,0.371165,8.65
+Brasil,Gana,GHA,0.066229,0.090377,27.2
+Brasil,Venezuela,VEN,0.052995,0.083847,25.35
+Brasil,Panamá,PAN,0.051476,0.114154,25.4
+Brasil,Argentina,ARG,0.050532,0.218452,14.8
+Brasil,Noruega,NOR,0.041688,0.23218,1.5
+Brasil,Colômbia,COL,0.035669,0.073949,24.5
+Brasil,Singapura,SGP,0.034837,0.108474,26.45
+Brasil,Itália,ITA,0.031677,0.155007,13.45
+Brasil,Suriname,SUR,0.028576,0.047633,25.7
+Brasil,Peru,PER,0.024668,0.053789,19.6
+Brasil,"Marshall, Ilhas",MHL,0.023113,0.060422,27.4
+Brasil,Guiné Equatorial,GNQ,0.020684,0.081903,24.55
+Brasil,Guatemala,GTM,0.018964,0.037839,23.45
+Brasil,Libéria,LBR,0.017808,0.063852,25.3
+Brasil,Quênia,KEN,0.017471,0.045547,24.75
+Brasil,Irlanda,IRL,0.01697,0.104717,9.3
+Brasil,Serra Leoa,SLE,0.015783,0.026722,26.05
+Brasil,Benim,BEN,0.015399,0.037765,27.55
+Brasil,Nova Zelândia,NZL,0.013967,0.075053,19.53
+Brasil,Filipinas,PHL,0.013847,0.030607,25.55
+Brasil,Catar,QAT,0.013339,0.081608,27.15
+Brasil,Bahamas,BHS,0.012886,0.070829,24.85
+Brasil,Cabo Verde,CPV,0.012625,0.050363,23.3
+Brasil,Emirados Árabes Unidos,ARE,0.012531,0.059378,26.65
+Brasil,Malta,MLT,0.011095,0.035162,19.2
+Brasil,Vietnã,VNM,0.009669,0.012736,24.45
+Brasil,México,MEX,0.008773,0.059229,21.0
+Brasil,Grécia,GRC,0.00856,0.02383,15.4
+Brasil,Nova Caledônia,NCL,0.007227,0.011924,26.0
+Brasil,Togo,TGO,0.007061,0.009823,27.15
+Brasil,Equador,ECU,0.006482,0.007412,21.85
+Brasil,Chipre,CYP,0.005284,0.013638,18.45
+Brasil,Coréia do Sul,KOR,0.0049,0.019872,11.5
+Brasil,Guiana,GUY,0.004569,0.014067,26.0
+Brasil,Singapura,SGP,0.004504,0.014346,26.45
+Brasil,Tailândia,THA,0.002843,0.007179,26.3
+Brasil,São Tomé e Príncipe,STP,0.002184,0.002357,23.75
+Brasil,Camarões,CMR,0.001749,0.007654,24.6
+Brasil,Antígua e Barbuda,ATG,0.001685,0.005872,25.85
+Brasil,Aruba,ABW,0.00135,0.002435,28.0
+Brasil,Trinidad e Tobago,TTO,0.000891,0.00432,25.75
+Brasil,Turquia,TUR,0.000818,0.001237,9.9
+Brasil,Barein,BHR,0.000792,0.003066,26.8
+Brasil,Gibraltar,GIB,0.000792,0.002953,19.0
+Brasil,Áustria,AUT,0.000675,0.00522,6.35
+Brasil,Hungria,HUN,0.000627,0.004686,9.75
+Brasil,República Dominicana,DOM,0.000601,0.002438,24.55
+Brasil,Eslováquia,SVK,0.000585,0.016063,6.8
+Brasil,Dominica,DMA,0.00046,0.000634,22.35
+Brasil,Barbados,BRB,0.000395,0.001407,26.0
+Brasil,Letônia,LVA,0.000387,0.003723,5.6
+Brasil,Congo,COG,0.00036,0.00057,25.0
+Brasil,Namíbia,NAM,0.00034,0.000722,19.95
+Brasil,Ilhas Cayman,CYM,0.000265,0.001004,28.0
+Brasil,Honduras,HND,0.000176,0.00061,23.5
+Brasil,Irã,IRN,0.000137,0.000322,17.25
+Brasil,Ilha de Man,IMN,0.000136,0.000741,11.0
+Brasil,Bulgária,BGR,0.000117,0.001579,10.55
+Brasil,Guiana Francesa,GUF,9e-05,3.2e-05,25.0
+Brasil,Índia,IND,7.1e-05,0.000369,23.65
+Brasil,Malásia,MYS,6.3e-05,0.000143,25.4
+Brasil,Costa Rica,CRI,5.5e-05,0.0002,24.8
+Brasil,El Salvador,SLV,5.5e-05,0.0001,24.45
+Brasil,Guiné-Bissau,GNB,4.8e-05,9e-05,26.75
+Brasil,Bósnia-Herzegovina,BIH,4.5e-05,5.2e-05,9.85
+Brasil,Montenegro,MNE,3.2e-05,0.000131,10.55
+Brasil,Brasil,BRA,3.1e-05,4.6e-05,24.95
+Brasil,África do Sul,ZAF,3e-05,0.000116,17.75
+Brasil,Nicarágua,NIC,2.4e-05,2.4e-05,24.9
+Brasil,Croácia,HRV,2.1e-05,0.000123,10.9
+Brasil,Vanuatu,VUT,1.8e-05,3.1e-05,23.95
+Brasil,Jordânia,JOR,1.2e-05,5.2e-05,18.3
+Brasil,Afeganistão,AFG,1.1e-05,4.6e-05,12.6
+Brasil,Suazilândia,,1e-05,2.4e-05,19.0
+Brasil,Comores,COM,9e-06,2.5e-05,25.3
+Brasil,Mauritânia,MRT,9e-06,8.5e-05,27.65
+Brasil,Belize,BLZ,9e-06,2.9e-05,25.35
+Brasil,São Vicente e Granadinas,VCT,8e-06,4.8e-05,26.8
+Brasil,Bangladesh,BGD,5e-06,4.9e-05,25.0
+Brasil,Indonésia,IDN,5e-06,6e-06,25.85
+Brasil,Tuvalu,TUV,2e-06,4e-06,27.65
+Brasil,Ilhas Virgens,VIR,0.0,0.0,28.0
+Brasil,Líbano,LBN,0.0,0.0,15.0
+Brasil,Iraque,IRQ,0.0,0.0,21.4
+Brasil,Porto Rico,PRI,0.0,0.0,27.0
+Brasil,Tanzânia,TZA,0.0,0.0,22.35
+Brasil,Senegal,SEN,0.0,0.0,27.85
+Brasil,Jamaica,JAM,0.0,0.0,24.95
+Brasil,Anguilla,,0.0,0.0,26.0
+Brasil,Costa do Marfim,CIV,0.0,0.0,26.35
+Brasil,Tunísia,TUN,0.0,0.0,19.2

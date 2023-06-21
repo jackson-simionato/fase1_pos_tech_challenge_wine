@@ -7,9 +7,9 @@ xtick.labelbottom : False
 ytick.left : False
 ytick.labelleft: True
 font.size : 14
-font.weight : "light"
-text.color : "#ff2a00"
-font.family : "Liberation Serif"
-ytick.labelcolor : "#4d4d4d"
+font.weight : light
+text.color : ff2a00
+font.family : Liberation Serif
+ytick.labelcolor : 4d4d4d
 ytick.labelsize : 14
 ytick.labelright : True
