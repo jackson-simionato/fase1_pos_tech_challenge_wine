@@ -1,0 +1,6449 @@
+pais_destino,ano,litros_exportados,valor_exportacao,iso_num,iso_cod
+Afeganistão,1970,0,0,4.0,AFG
+África do Sul,1970,0,0,710.0,ZAF
+Alemanha,1970,0,0,276.0,DEU
+Angola,1970,0,0,24.0,AGO
+Anguilla,1970,0,0,,
+Antígua e Barbuda,1970,0,0,28.0,ATG
+Antilhas Holandesas,1970,280,207,,
+Argentina,1970,0,0,32.0,ARG
+Aruba,1970,0,0,533.0,ABW
+Austrália,1970,0,0,36.0,AUS
+Áustria,1970,0,0,40.0,AUT
+Bahamas,1970,0,0,44.0,BHS
+Bangladesh,1970,0,0,50.0,BGD
+Barbados,1970,0,0,52.0,BRB
+Barein,1970,0,0,48.0,BHR
+Bélgica,1970,0,0,56.0,BEL
+Belize,1970,0,0,84.0,BLZ
+Benim,1970,0,0,204.0,BEN
+Bolívia,1970,2512,675,68.0,BOL
+Bósnia-Herzegovina,1970,0,0,70.0,BIH
+Brasil,1970,0,0,76.0,BRA
+Bulgária,1970,0,0,100.0,BGR
+Cabo Verde,1970,0,0,132.0,CPV
+Camarões,1970,0,0,120.0,CMR
+Canadá,1970,0,0,124.0,CAN
+Catar,1970,0,0,634.0,QAT
+Ilhas Cayman,1970,0,0,136.0,CYM
+Chile,1970,0,0,152.0,CHL
+China,1970,0,0,156.0,CHN
+Chipre,1970,0,0,196.0,CYP
+Singapura,1970,0,0,702.0,SGP
+Colômbia,1970,14205,6650,170.0,COL
+Comores,1970,0,0,174.0,COM
+Congo,1970,0,0,178.0,COG
+Coréia do Sul,1970,0,0,410.0,KOR
+Costa do Marfim,1970,0,0,384.0,CIV
+Costa Rica,1970,0,0,188.0,CRI
+Croácia,1970,0,0,191.0,HRV
+Cuba,1970,0,0,192.0,CUB
+Curaçao,1970,0,0,531.0,CUW
+Dinamarca,1970,0,0,208.0,DNK
+Dominica,1970,0,0,212.0,DMA
+El Salvador,1970,0,0,222.0,SLV
+Emirados Árabes Unidos,1970,0,0,784.0,ARE
+Equador,1970,0,0,218.0,ECU
+Eslováquia,1970,0,0,703.0,SVK
+Espanha,1970,0,0,724.0,ESP
+Estados Unidos,1970,11200,4200,840.0,USA
+Estônia,1970,0,0,233.0,EST
+Filipinas,1970,0,0,608.0,PHL
+Finlândia,1970,0,0,246.0,FIN
+França,1970,0,0,250.0,FRA
+Gana,1970,0,0,288.0,GHA
+Gibraltar,1970,0,0,292.0,GIB
+Grécia,1970,0,0,300.0,GRC
+Guatemala,1970,0,0,320.0,GTM
+Guiana,1970,114,36,328.0,GUY
+Guiana Francesa,1970,0,0,254.0,GUF
+Guiné-Bissau,1970,0,0,624.0,GNB
+Guiné Equatorial,1970,0,0,226.0,GNQ
+Haiti,1970,0,0,332.0,HTI
+Honduras,1970,0,0,340.0,HND
+Hong Kong,1970,0,0,344.0,HKG
+Hungria,1970,0,0,348.0,HUN
+Ilha de Man,1970,0,0,833.0,IMN
+Ilhas Virgens,1970,0,0,850.0,VIR
+Índia,1970,0,0,356.0,IND
+Indonésia,1970,0,0,360.0,IDN
+Irã,1970,0,0,364.0,IRN
+Iraque,1970,0,0,368.0,IRQ
+Irlanda,1970,0,0,372.0,IRL
+Itália,1970,0,0,380.0,ITA
+Jamaica,1970,0,0,388.0,JAM
+Japão,1970,0,0,392.0,JPN
+Jordânia,1970,0,0,400.0,JOR
+Letônia,1970,0,0,428.0,LVA
+Líbano,1970,0,0,422.0,LBN
+Libéria,1970,4160,1190,430.0,LBR
+Luxemburgo,1970,0,0,442.0,LUX
+Malásia,1970,0,0,458.0,MYS
+Malta,1970,0,0,470.0,MLT
+"Marshall, Ilhas",1970,0,0,584.0,MHL
+Mauritânia,1970,0,0,478.0,MRT
+México,1970,0,0,484.0,MEX
+Montenegro,1970,0,0,499.0,MNE
+Namíbia,1970,0,0,516.0,NAM
+Nicarágua,1970,0,0,558.0,NIC
+Nigéria,1970,0,0,566.0,NGA
+Noruega,1970,0,0,578.0,NOR
+Nova Caledônia,1970,0,0,540.0,NCL
+Nova Zelândia,1970,0,0,554.0,NZL
+Países Baixos,1970,0,0,528.0,NLD
+Panamá,1970,0,0,591.0,PAN
+Paraguai,1970,89846,23980,600.0,PRY
+Peru,1970,0,0,604.0,PER
+Polônia,1970,0,0,616.0,POL
+Porto Rico,1970,0,0,630.0,PRI
+Portugal,1970,0,0,620.0,PRT
+Quênia,1970,0,0,404.0,KEN
+Reino Unido,1970,0,0,826.0,GBR
+República Dominicana,1970,0,0,214.0,DOM
+Rússia,1970,0,0,643.0,RUS
+São Tomé e Príncipe,1970,0,0,678.0,STP
+São Vicente e Granadinas,1970,0,0,670.0,VCT
+Senegal,1970,0,0,686.0,SEN
+Serra Leoa,1970,0,0,694.0,SLE
+Singapura,1970,0,0,702.0,SGP
+Suazilândia,1970,0,0,,
+Suécia,1970,0,0,752.0,SWE
+Suíça,1970,0,0,756.0,CHE
+Suriname,1970,0,0,740.0,SUR
+Tailândia,1970,0,0,764.0,THA
+Taiwan,1970,0,0,158.0,TWN
+Tanzânia,1970,13692,3562,834.0,TZA
+República Tcheca,1970,0,0,203.0,CZE
+Togo,1970,0,0,768.0,TGO
+Trinidad e Tobago,1970,0,0,780.0,TTO
+Tunísia,1970,0,0,788.0,TUN
+Turquia,1970,0,0,792.0,TUR
+Tuvalu,1970,0,0,798.0,TUV
+Uruguai,1970,0,0,858.0,URY
+Vanuatu,1970,0,0,548.0,VUT
+Venezuela,1970,0,0,862.0,VEN
+Vietnã,1970,0,0,704.0,VNM
+Afeganistão,1971,0,0,4.0,AFG
+África do Sul,1971,0,0,710.0,ZAF
+Alemanha,1971,0,0,276.0,DEU
+Angola,1971,0,0,24.0,AGO
+Anguilla,1971,0,0,,
+Antígua e Barbuda,1971,0,0,28.0,ATG
+Antilhas Holandesas,1971,4800,3705,,
+Argentina,1971,0,0,32.0,ARG
+Aruba,1971,0,0,533.0,ABW
+Austrália,1971,0,0,36.0,AUS
+Áustria,1971,0,0,40.0,AUT
+Bahamas,1971,0,0,44.0,BHS
+Bangladesh,1971,0,0,50.0,BGD
+Barbados,1971,0,0,52.0,BRB
+Barein,1971,0,0,48.0,BHR
+Bélgica,1971,0,0,56.0,BEL
+Belize,1971,0,0,84.0,BLZ
+Benim,1971,0,0,204.0,BEN
+Bolívia,1971,9100,2700,68.0,BOL
+Bósnia-Herzegovina,1971,0,0,70.0,BIH
+Brasil,1971,0,0,76.0,BRA
+Bulgária,1971,0,0,100.0,BGR
+Cabo Verde,1971,0,0,132.0,CPV
+Camarões,1971,0,0,120.0,CMR
+Canadá,1971,0,0,124.0,CAN
+Catar,1971,0,0,634.0,QAT
+Ilhas Cayman,1971,0,0,136.0,CYM
+Chile,1971,0,0,152.0,CHL
+China,1971,0,0,156.0,CHN
+Chipre,1971,0,0,196.0,CYP
+Singapura,1971,0,0,702.0,SGP
+Colômbia,1971,3780,2475,170.0,COL
+Comores,1971,0,0,174.0,COM
+Congo,1971,0,0,178.0,COG
+Coréia do Sul,1971,0,0,410.0,KOR
+Costa do Marfim,1971,0,0,384.0,CIV
+Costa Rica,1971,0,0,188.0,CRI
+Croácia,1971,0,0,191.0,HRV
+Cuba,1971,0,0,192.0,CUB
+Curaçao,1971,0,0,531.0,CUW
+Dinamarca,1971,0,0,208.0,DNK
+Dominica,1971,0,0,212.0,DMA
+El Salvador,1971,0,0,222.0,SLV
+Emirados Árabes Unidos,1971,0,0,784.0,ARE
+Equador,1971,0,0,218.0,ECU
+Eslováquia,1971,0,0,703.0,SVK
+Espanha,1971,0,0,724.0,ESP
+Estados Unidos,1971,22400,8400,840.0,USA
+Estônia,1971,0,0,233.0,EST
+Filipinas,1971,0,0,608.0,PHL
+Finlândia,1971,0,0,246.0,FIN
+França,1971,220,110,250.0,FRA
+Gana,1971,0,0,288.0,GHA
+Gibraltar,1971,0,0,292.0,GIB
+Grécia,1971,0,0,300.0,GRC
+Guatemala,1971,0,0,320.0,GTM
+Guiana,1971,0,0,328.0,GUY
+Guiana Francesa,1971,0,0,254.0,GUF
+Guiné-Bissau,1971,0,0,624.0,GNB
+Guiné Equatorial,1971,0,0,226.0,GNQ
+Haiti,1971,0,0,332.0,HTI
+Honduras,1971,0,0,340.0,HND
+Hong Kong,1971,0,0,344.0,HKG
+Hungria,1971,0,0,348.0,HUN
+Ilha de Man,1971,0,0,833.0,IMN
+Ilhas Virgens,1971,0,0,850.0,VIR
+Índia,1971,0,0,356.0,IND
+Indonésia,1971,0,0,360.0,IDN
+Irã,1971,0,0,364.0,IRN
+Iraque,1971,0,0,368.0,IRQ
+Irlanda,1971,0,0,372.0,IRL
+Itália,1971,0,0,380.0,ITA
+Jamaica,1971,0,0,388.0,JAM
+Japão,1971,0,0,392.0,JPN
+Jordânia,1971,0,0,400.0,JOR
+Letônia,1971,0,0,428.0,LVA
+Líbano,1971,0,0,422.0,LBN
+Libéria,1971,0,0,430.0,LBR
+Luxemburgo,1971,0,0,442.0,LUX
+Malásia,1971,0,0,458.0,MYS
+Malta,1971,0,0,470.0,MLT
+"Marshall, Ilhas",1971,0,0,584.0,MHL
+Mauritânia,1971,0,0,478.0,MRT
+México,1971,0,0,484.0,MEX
+Montenegro,1971,0,0,499.0,MNE
+Namíbia,1971,0,0,516.0,NAM
+Nicarágua,1971,0,0,558.0,NIC
+Nigéria,1971,0,0,566.0,NGA
+Noruega,1971,0,0,578.0,NOR
+Nova Caledônia,1971,0,0,540.0,NCL
+Nova Zelândia,1971,0,0,554.0,NZL
+Países Baixos,1971,0,0,528.0,NLD
+Panamá,1971,0,0,591.0,PAN
+Paraguai,1971,237805,64075,600.0,PRY
+Peru,1971,0,0,604.0,PER
+Polônia,1971,0,0,616.0,POL
+Porto Rico,1971,0,0,630.0,PRI
+Portugal,1971,0,0,620.0,PRT
+Quênia,1971,0,0,404.0,KEN
+Reino Unido,1971,0,0,826.0,GBR
+República Dominicana,1971,0,0,214.0,DOM
+Rússia,1971,0,0,643.0,RUS
+São Tomé e Príncipe,1971,0,0,678.0,STP
+São Vicente e Granadinas,1971,0,0,670.0,VCT
+Senegal,1971,0,0,686.0,SEN
+Serra Leoa,1971,0,0,694.0,SLE
+Singapura,1971,0,0,702.0,SGP
+Suazilândia,1971,0,0,,
+Suécia,1971,0,0,752.0,SWE
+Suíça,1971,0,0,756.0,CHE
+Suriname,1971,0,0,740.0,SUR
+Tailândia,1971,0,0,764.0,THA
+Taiwan,1971,0,0,158.0,TWN
+Tanzânia,1971,0,0,834.0,TZA
+República Tcheca,1971,0,0,203.0,CZE
+Togo,1971,0,0,768.0,TGO
+Trinidad e Tobago,1971,0,0,780.0,TTO
+Tunísia,1971,0,0,788.0,TUN
+Turquia,1971,0,0,792.0,TUR
+Tuvalu,1971,0,0,798.0,TUV
+Uruguai,1971,0,0,858.0,URY
+Vanuatu,1971,0,0,548.0,VUT
+Venezuela,1971,3200,2000,862.0,VEN
+Vietnã,1971,0,0,704.0,VNM
+Afeganistão,1972,0,0,4.0,AFG
+África do Sul,1972,0,0,710.0,ZAF
+Alemanha,1972,4168,2630,276.0,DEU
+Angola,1972,0,0,24.0,AGO
+Anguilla,1972,0,0,,
+Antígua e Barbuda,1972,0,0,28.0,ATG
+Antilhas Holandesas,1972,3000,1936,,
+Argentina,1972,0,0,32.0,ARG
+Aruba,1972,0,0,533.0,ABW
+Austrália,1972,0,0,36.0,AUS
+Áustria,1972,0,0,40.0,AUT
+Bahamas,1972,0,0,44.0,BHS
+Bangladesh,1972,0,0,50.0,BGD
+Barbados,1972,840,600,52.0,BRB
+Barein,1972,0,0,48.0,BHR
+Bélgica,1972,0,0,56.0,BEL
+Belize,1972,450,260,84.0,BLZ
+Benim,1972,0,0,204.0,BEN
+Bolívia,1972,34692,11327,68.0,BOL
+Bósnia-Herzegovina,1972,0,0,70.0,BIH
+Brasil,1972,0,0,76.0,BRA
+Bulgária,1972,0,0,100.0,BGR
+Cabo Verde,1972,0,0,132.0,CPV
+Camarões,1972,0,0,120.0,CMR
+Canadá,1972,0,0,124.0,CAN
+Catar,1972,0,0,634.0,QAT
+Ilhas Cayman,1972,0,0,136.0,CYM
+Chile,1972,0,0,152.0,CHL
+China,1972,0,0,156.0,CHN
+Chipre,1972,0,0,196.0,CYP
+Singapura,1972,0,0,702.0,SGP
+Colômbia,1972,1294,771,170.0,COL
+Comores,1972,0,0,174.0,COM
+Congo,1972,0,0,178.0,COG
+Coréia do Sul,1972,0,0,410.0,KOR
+Costa do Marfim,1972,0,0,384.0,CIV
+Costa Rica,1972,0,0,188.0,CRI
+Croácia,1972,0,0,191.0,HRV
+Cuba,1972,0,0,192.0,CUB
+Curaçao,1972,0,0,531.0,CUW
+Dinamarca,1972,0,0,208.0,DNK
+Dominica,1972,0,0,212.0,DMA
+El Salvador,1972,1600,1035,222.0,SLV
+Emirados Árabes Unidos,1972,0,0,784.0,ARE
+Equador,1972,0,0,218.0,ECU
+Eslováquia,1972,0,0,703.0,SVK
+Espanha,1972,0,0,724.0,ESP
+Estados Unidos,1972,40333,16177,840.0,USA
+Estônia,1972,0,0,233.0,EST
+Filipinas,1972,0,0,608.0,PHL
+Finlândia,1972,0,0,246.0,FIN
+França,1972,0,0,250.0,FRA
+Gana,1972,0,0,288.0,GHA
+Gibraltar,1972,0,0,292.0,GIB
+Grécia,1972,0,0,300.0,GRC
+Guatemala,1972,0,0,320.0,GTM
+Guiana,1972,252,180,328.0,GUY
+Guiana Francesa,1972,0,0,254.0,GUF
+Guiné-Bissau,1972,0,0,624.0,GNB
+Guiné Equatorial,1972,0,0,226.0,GNQ
+Haiti,1972,1008,720,332.0,HTI
+Honduras,1972,0,0,340.0,HND
+Hong Kong,1972,0,0,344.0,HKG
+Hungria,1972,0,0,348.0,HUN
+Ilha de Man,1972,0,0,833.0,IMN
+Ilhas Virgens,1972,0,0,850.0,VIR
+Índia,1972,0,0,356.0,IND
+Indonésia,1972,0,0,360.0,IDN
+Irã,1972,0,0,364.0,IRN
+Iraque,1972,0,0,368.0,IRQ
+Irlanda,1972,0,0,372.0,IRL
+Itália,1972,0,0,380.0,ITA
+Jamaica,1972,0,0,388.0,JAM
+Japão,1972,84,60,392.0,JPN
+Jordânia,1972,0,0,400.0,JOR
+Letônia,1972,0,0,428.0,LVA
+Líbano,1972,0,0,422.0,LBN
+Libéria,1972,0,0,430.0,LBR
+Luxemburgo,1972,0,0,442.0,LUX
+Malásia,1972,0,0,458.0,MYS
+Malta,1972,0,0,470.0,MLT
+"Marshall, Ilhas",1972,0,0,584.0,MHL
+Mauritânia,1972,0,0,478.0,MRT
+México,1972,0,0,484.0,MEX
+Montenegro,1972,0,0,499.0,MNE
+Namíbia,1972,0,0,516.0,NAM
+Nicarágua,1972,0,0,558.0,NIC
+Nigéria,1972,0,0,566.0,NGA
+Noruega,1972,0,0,578.0,NOR
+Nova Caledônia,1972,0,0,540.0,NCL
+Nova Zelândia,1972,0,0,554.0,NZL
+Países Baixos,1972,0,0,528.0,NLD
+Panamá,1972,0,0,591.0,PAN
+Paraguai,1972,291625,84402,600.0,PRY
+Peru,1972,0,0,604.0,PER
+Polônia,1972,0,0,616.0,POL
+Porto Rico,1972,0,0,630.0,PRI
+Portugal,1972,0,0,620.0,PRT
+Quênia,1972,0,0,404.0,KEN
+Reino Unido,1972,198,159,826.0,GBR
+República Dominicana,1972,0,0,214.0,DOM
+Rússia,1972,0,0,643.0,RUS
+São Tomé e Príncipe,1972,0,0,678.0,STP
+São Vicente e Granadinas,1972,0,0,670.0,VCT
+Senegal,1972,0,0,686.0,SEN
+Serra Leoa,1972,0,0,694.0,SLE
+Singapura,1972,0,0,702.0,SGP
+Suazilândia,1972,0,0,,
+Suécia,1972,0,0,752.0,SWE
+Suíça,1972,126,90,756.0,CHE
+Suriname,1972,0,0,740.0,SUR
+Tailândia,1972,0,0,764.0,THA
+Taiwan,1972,0,0,158.0,TWN
+Tanzânia,1972,0,0,834.0,TZA
+República Tcheca,1972,0,0,203.0,CZE
+Togo,1972,0,0,768.0,TGO
+Trinidad e Tobago,1972,0,0,780.0,TTO
+Tunísia,1972,0,0,788.0,TUN
+Turquia,1972,0,0,792.0,TUR
+Tuvalu,1972,0,0,798.0,TUV
+Uruguai,1972,0,0,858.0,URY
+Vanuatu,1972,0,0,548.0,VUT
+Venezuela,1972,1350,750,862.0,VEN
+Vietnã,1972,0,0,704.0,VNM
+Afeganistão,1973,0,0,4.0,AFG
+África do Sul,1973,0,0,710.0,ZAF
+Alemanha,1973,12000,8250,276.0,DEU
+Angola,1973,0,0,24.0,AGO
+Anguilla,1973,0,0,,
+Antígua e Barbuda,1973,0,0,28.0,ATG
+Antilhas Holandesas,1973,0,0,,
+Argentina,1973,0,0,32.0,ARG
+Aruba,1973,0,0,533.0,ABW
+Austrália,1973,0,0,36.0,AUS
+Áustria,1973,0,0,40.0,AUT
+Bahamas,1973,0,0,44.0,BHS
+Bangladesh,1973,0,0,50.0,BGD
+Barbados,1973,10905,6383,52.0,BRB
+Barein,1973,0,0,48.0,BHR
+Bélgica,1973,0,0,56.0,BEL
+Belize,1973,0,0,84.0,BLZ
+Benim,1973,0,0,204.0,BEN
+Bolívia,1973,61944,16687,68.0,BOL
+Bósnia-Herzegovina,1973,0,0,70.0,BIH
+Brasil,1973,0,0,76.0,BRA
+Bulgária,1973,0,0,100.0,BGR
+Cabo Verde,1973,0,0,132.0,CPV
+Camarões,1973,0,0,120.0,CMR
+Canadá,1973,0,0,124.0,CAN
+Catar,1973,0,0,634.0,QAT
+Ilhas Cayman,1973,0,0,136.0,CYM
+Chile,1973,0,0,152.0,CHL
+China,1973,0,0,156.0,CHN
+Chipre,1973,0,0,196.0,CYP
+Singapura,1973,0,0,702.0,SGP
+Colômbia,1973,3050,2370,170.0,COL
+Comores,1973,0,0,174.0,COM
+Congo,1973,0,0,178.0,COG
+Coréia do Sul,1973,0,0,410.0,KOR
+Costa do Marfim,1973,0,0,384.0,CIV
+Costa Rica,1973,0,0,188.0,CRI
+Croácia,1973,0,0,191.0,HRV
+Cuba,1973,0,0,192.0,CUB
+Curaçao,1973,0,0,531.0,CUW
+Dinamarca,1973,0,0,208.0,DNK
+Dominica,1973,0,0,212.0,DMA
+El Salvador,1973,0,0,222.0,SLV
+Emirados Árabes Unidos,1973,0,0,784.0,ARE
+Equador,1973,0,0,218.0,ECU
+Eslováquia,1973,0,0,703.0,SVK
+Espanha,1973,0,0,724.0,ESP
+Estados Unidos,1973,36054,17222,840.0,USA
+Estônia,1973,0,0,233.0,EST
+Filipinas,1973,0,0,608.0,PHL
+Finlândia,1973,0,0,246.0,FIN
+França,1973,238,161,250.0,FRA
+Gana,1973,0,0,288.0,GHA
+Gibraltar,1973,0,0,292.0,GIB
+Grécia,1973,0,0,300.0,GRC
+Guatemala,1973,0,0,320.0,GTM
+Guiana,1973,0,0,328.0,GUY
+Guiana Francesa,1973,0,0,254.0,GUF
+Guiné-Bissau,1973,0,0,624.0,GNB
+Guiné Equatorial,1973,0,0,226.0,GNQ
+Haiti,1973,1008,811,332.0,HTI
+Honduras,1973,800,550,340.0,HND
+Hong Kong,1973,0,0,344.0,HKG
+Hungria,1973,0,0,348.0,HUN
+Ilha de Man,1973,0,0,833.0,IMN
+Ilhas Virgens,1973,0,0,850.0,VIR
+Índia,1973,0,0,356.0,IND
+Indonésia,1973,0,0,360.0,IDN
+Irã,1973,0,0,364.0,IRN
+Iraque,1973,0,0,368.0,IRQ
+Irlanda,1973,0,0,372.0,IRL
+Itália,1973,0,0,380.0,ITA
+Jamaica,1973,0,0,388.0,JAM
+Japão,1973,802,559,392.0,JPN
+Jordânia,1973,0,0,400.0,JOR
+Letônia,1973,0,0,428.0,LVA
+Líbano,1973,0,0,422.0,LBN
+Libéria,1973,0,0,430.0,LBR
+Luxemburgo,1973,0,0,442.0,LUX
+Malásia,1973,0,0,458.0,MYS
+Malta,1973,0,0,470.0,MLT
+"Marshall, Ilhas",1973,0,0,584.0,MHL
+Mauritânia,1973,0,0,478.0,MRT
+México,1973,0,0,484.0,MEX
+Montenegro,1973,0,0,499.0,MNE
+Namíbia,1973,0,0,516.0,NAM
+Nicarágua,1973,0,0,558.0,NIC
+Nigéria,1973,0,0,566.0,NGA
+Noruega,1973,0,0,578.0,NOR
+Nova Caledônia,1973,0,0,540.0,NCL
+Nova Zelândia,1973,0,0,554.0,NZL
+Países Baixos,1973,0,0,528.0,NLD
+Panamá,1973,0,0,591.0,PAN
+Paraguai,1973,332433,115041,600.0,PRY
+Peru,1973,0,0,604.0,PER
+Polônia,1973,0,0,616.0,POL
+Porto Rico,1973,0,0,630.0,PRI
+Portugal,1973,0,0,620.0,PRT
+Quênia,1973,0,0,404.0,KEN
+Reino Unido,1973,0,0,826.0,GBR
+República Dominicana,1973,0,0,214.0,DOM
+Rússia,1973,0,0,643.0,RUS
+São Tomé e Príncipe,1973,0,0,678.0,STP
+São Vicente e Granadinas,1973,0,0,670.0,VCT
+Senegal,1973,0,0,686.0,SEN
+Serra Leoa,1973,0,0,694.0,SLE
+Singapura,1973,0,0,702.0,SGP
+Suazilândia,1973,0,0,,
+Suécia,1973,0,0,752.0,SWE
+Suíça,1973,0,0,756.0,CHE
+Suriname,1973,0,0,740.0,SUR
+Tailândia,1973,0,0,764.0,THA
+Taiwan,1973,0,0,158.0,TWN
+Tanzânia,1973,0,0,834.0,TZA
+República Tcheca,1973,0,0,203.0,CZE
+Togo,1973,0,0,768.0,TGO
+Trinidad e Tobago,1973,336,300,780.0,TTO
+Tunísia,1973,0,0,788.0,TUN
+Turquia,1973,0,0,792.0,TUR
+Tuvalu,1973,0,0,798.0,TUV
+Uruguai,1973,0,0,858.0,URY
+Vanuatu,1973,0,0,548.0,VUT
+Venezuela,1973,11700,6458,862.0,VEN
+Vietnã,1973,0,0,704.0,VNM
+Afeganistão,1974,0,0,4.0,AFG
+África do Sul,1974,0,0,710.0,ZAF
+Alemanha,1974,0,0,276.0,DEU
+Angola,1974,0,0,24.0,AGO
+Anguilla,1974,0,0,,
+Antígua e Barbuda,1974,0,0,28.0,ATG
+Antilhas Holandesas,1974,0,0,,
+Argentina,1974,0,0,32.0,ARG
+Aruba,1974,0,0,533.0,ABW
+Austrália,1974,0,0,36.0,AUS
+Áustria,1974,0,0,40.0,AUT
+Bahamas,1974,0,0,44.0,BHS
+Bangladesh,1974,0,0,50.0,BGD
+Barbados,1974,7682,5246,52.0,BRB
+Barein,1974,0,0,48.0,BHR
+Bélgica,1974,0,0,56.0,BEL
+Belize,1974,0,0,84.0,BLZ
+Benim,1974,0,0,204.0,BEN
+Bolívia,1974,9795,5591,68.0,BOL
+Bósnia-Herzegovina,1974,0,0,70.0,BIH
+Brasil,1974,0,0,76.0,BRA
+Bulgária,1974,0,0,100.0,BGR
+Cabo Verde,1974,0,0,132.0,CPV
+Camarões,1974,0,0,120.0,CMR
+Canadá,1974,19404,18130,124.0,CAN
+Catar,1974,0,0,634.0,QAT
+Ilhas Cayman,1974,0,0,136.0,CYM
+Chile,1974,0,0,152.0,CHL
+China,1974,0,0,156.0,CHN
+Chipre,1974,0,0,196.0,CYP
+Singapura,1974,0,0,702.0,SGP
+Colômbia,1974,4752,5220,170.0,COL
+Comores,1974,0,0,174.0,COM
+Congo,1974,0,0,178.0,COG
+Coréia do Sul,1974,0,0,410.0,KOR
+Costa do Marfim,1974,0,0,384.0,CIV
+Costa Rica,1974,0,0,188.0,CRI
+Croácia,1974,0,0,191.0,HRV
+Cuba,1974,0,0,192.0,CUB
+Curaçao,1974,0,0,531.0,CUW
+Dinamarca,1974,0,0,208.0,DNK
+Dominica,1974,0,0,212.0,DMA
+El Salvador,1974,0,0,222.0,SLV
+Emirados Árabes Unidos,1974,0,0,784.0,ARE
+Equador,1974,0,0,218.0,ECU
+Eslováquia,1974,0,0,703.0,SVK
+Espanha,1974,0,0,724.0,ESP
+Estados Unidos,1974,56769,22715,840.0,USA
+Estônia,1974,0,0,233.0,EST
+Filipinas,1974,0,0,608.0,PHL
+Finlândia,1974,0,0,246.0,FIN
+França,1974,792,675,250.0,FRA
+Gana,1974,0,0,288.0,GHA
+Gibraltar,1974,0,0,292.0,GIB
+Grécia,1974,0,0,300.0,GRC
+Guatemala,1974,0,0,320.0,GTM
+Guiana,1974,0,0,328.0,GUY
+Guiana Francesa,1974,0,0,254.0,GUF
+Guiné-Bissau,1974,0,0,624.0,GNB
+Guiné Equatorial,1974,0,0,226.0,GNQ
+Haiti,1974,0,0,332.0,HTI
+Honduras,1974,0,0,340.0,HND
+Hong Kong,1974,0,0,344.0,HKG
+Hungria,1974,0,0,348.0,HUN
+Ilha de Man,1974,0,0,833.0,IMN
+Ilhas Virgens,1974,0,0,850.0,VIR
+Índia,1974,0,0,356.0,IND
+Indonésia,1974,0,0,360.0,IDN
+Irã,1974,0,0,364.0,IRN
+Iraque,1974,0,0,368.0,IRQ
+Irlanda,1974,0,0,372.0,IRL
+Itália,1974,0,0,380.0,ITA
+Jamaica,1974,0,0,388.0,JAM
+Japão,1974,0,0,392.0,JPN
+Jordânia,1974,0,0,400.0,JOR
+Letônia,1974,0,0,428.0,LVA
+Líbano,1974,0,0,422.0,LBN
+Libéria,1974,0,0,430.0,LBR
+Luxemburgo,1974,0,0,442.0,LUX
+Malásia,1974,0,0,458.0,MYS
+Malta,1974,0,0,470.0,MLT
+"Marshall, Ilhas",1974,0,0,584.0,MHL
+Mauritânia,1974,0,0,478.0,MRT
+México,1974,4055,3052,484.0,MEX
+Montenegro,1974,0,0,499.0,MNE
+Namíbia,1974,0,0,516.0,NAM
+Nicarágua,1974,0,0,558.0,NIC
+Nigéria,1974,0,0,566.0,NGA
+Noruega,1974,0,0,578.0,NOR
+Nova Caledônia,1974,0,0,540.0,NCL
+Nova Zelândia,1974,0,0,554.0,NZL
+Países Baixos,1974,0,0,528.0,NLD
+Panamá,1974,0,0,591.0,PAN
+Paraguai,1974,243294,119429,600.0,PRY
+Peru,1974,0,0,604.0,PER
+Polônia,1974,0,0,616.0,POL
+Porto Rico,1974,0,0,630.0,PRI
+Portugal,1974,0,0,620.0,PRT
+Quênia,1974,0,0,404.0,KEN
+Reino Unido,1974,0,0,826.0,GBR
+República Dominicana,1974,0,0,214.0,DOM
+Rússia,1974,0,0,643.0,RUS
+São Tomé e Príncipe,1974,0,0,678.0,STP
+São Vicente e Granadinas,1974,0,0,670.0,VCT
+Senegal,1974,0,0,686.0,SEN
+Serra Leoa,1974,0,0,694.0,SLE
+Singapura,1974,0,0,702.0,SGP
+Suazilândia,1974,0,0,,
+Suécia,1974,0,0,752.0,SWE
+Suíça,1974,0,0,756.0,CHE
+Suriname,1974,0,0,740.0,SUR
+Tailândia,1974,0,0,764.0,THA
+Taiwan,1974,0,0,158.0,TWN
+Tanzânia,1974,0,0,834.0,TZA
+República Tcheca,1974,0,0,203.0,CZE
+Togo,1974,0,0,768.0,TGO
+Trinidad e Tobago,1974,612,563,780.0,TTO
+Tunísia,1974,0,0,788.0,TUN
+Turquia,1974,0,0,792.0,TUR
+Tuvalu,1974,0,0,798.0,TUV
+Uruguai,1974,0,0,858.0,URY
+Vanuatu,1974,0,0,548.0,VUT
+Venezuela,1974,9830,5250,862.0,VEN
+Vietnã,1974,0,0,704.0,VNM
+Afeganistão,1975,0,0,4.0,AFG
+África do Sul,1975,0,0,710.0,ZAF
+Alemanha,1975,0,0,276.0,DEU
+Angola,1975,0,0,24.0,AGO
+Anguilla,1975,0,0,,
+Antígua e Barbuda,1975,0,0,28.0,ATG
+Antilhas Holandesas,1975,1800,1600,,
+Argentina,1975,0,0,32.0,ARG
+Aruba,1975,0,0,533.0,ABW
+Austrália,1975,0,0,36.0,AUS
+Áustria,1975,0,0,40.0,AUT
+Bahamas,1975,0,0,44.0,BHS
+Bangladesh,1975,0,0,50.0,BGD
+Barbados,1975,6336,5890,52.0,BRB
+Barein,1975,0,0,48.0,BHR
+Bélgica,1975,0,0,56.0,BEL
+Belize,1975,0,0,84.0,BLZ
+Benim,1975,0,0,204.0,BEN
+Bolívia,1975,12971,7239,68.0,BOL
+Bósnia-Herzegovina,1975,0,0,70.0,BIH
+Brasil,1975,0,0,76.0,BRA
+Bulgária,1975,0,0,100.0,BGR
+Cabo Verde,1975,0,0,132.0,CPV
+Camarões,1975,0,0,120.0,CMR
+Canadá,1975,3564,3330,124.0,CAN
+Catar,1975,0,0,634.0,QAT
+Ilhas Cayman,1975,0,0,136.0,CYM
+Chile,1975,0,0,152.0,CHL
+China,1975,0,0,156.0,CHN
+Chipre,1975,0,0,196.0,CYP
+Singapura,1975,0,0,702.0,SGP
+Colômbia,1975,0,0,170.0,COL
+Comores,1975,0,0,174.0,COM
+Congo,1975,0,0,178.0,COG
+Coréia do Sul,1975,0,0,410.0,KOR
+Costa do Marfim,1975,0,0,384.0,CIV
+Costa Rica,1975,0,0,188.0,CRI
+Croácia,1975,0,0,191.0,HRV
+Cuba,1975,0,0,192.0,CUB
+Curaçao,1975,0,0,531.0,CUW
+Dinamarca,1975,0,0,208.0,DNK
+Dominica,1975,0,0,212.0,DMA
+El Salvador,1975,389,386,222.0,SLV
+Emirados Árabes Unidos,1975,0,0,784.0,ARE
+Equador,1975,0,0,218.0,ECU
+Eslováquia,1975,0,0,703.0,SVK
+Espanha,1975,0,0,724.0,ESP
+Estados Unidos,1975,286712,88095,840.0,USA
+Estônia,1975,0,0,233.0,EST
+Filipinas,1975,0,0,608.0,PHL
+Finlândia,1975,0,0,246.0,FIN
+França,1975,0,0,250.0,FRA
+Gana,1975,0,0,288.0,GHA
+Gibraltar,1975,0,0,292.0,GIB
+Grécia,1975,0,0,300.0,GRC
+Guatemala,1975,0,0,320.0,GTM
+Guiana,1975,0,0,328.0,GUY
+Guiana Francesa,1975,0,0,254.0,GUF
+Guiné-Bissau,1975,0,0,624.0,GNB
+Guiné Equatorial,1975,0,0,226.0,GNQ
+Haiti,1975,0,0,332.0,HTI
+Honduras,1975,400,340,340.0,HND
+Hong Kong,1975,0,0,344.0,HKG
+Hungria,1975,0,0,348.0,HUN
+Ilha de Man,1975,0,0,833.0,IMN
+Ilhas Virgens,1975,0,0,850.0,VIR
+Índia,1975,0,0,356.0,IND
+Indonésia,1975,0,0,360.0,IDN
+Irã,1975,0,0,364.0,IRN
+Iraque,1975,0,0,368.0,IRQ
+Irlanda,1975,0,0,372.0,IRL
+Itália,1975,0,0,380.0,ITA
+Jamaica,1975,0,0,388.0,JAM
+Japão,1975,800,249,392.0,JPN
+Jordânia,1975,0,0,400.0,JOR
+Letônia,1975,0,0,428.0,LVA
+Líbano,1975,0,0,422.0,LBN
+Libéria,1975,0,0,430.0,LBR
+Luxemburgo,1975,0,0,442.0,LUX
+Malásia,1975,0,0,458.0,MYS
+Malta,1975,0,0,470.0,MLT
+"Marshall, Ilhas",1975,0,0,584.0,MHL
+Mauritânia,1975,0,0,478.0,MRT
+México,1975,0,0,484.0,MEX
+Montenegro,1975,0,0,499.0,MNE
+Namíbia,1975,0,0,516.0,NAM
+Nicarágua,1975,0,0,558.0,NIC
+Nigéria,1975,0,0,566.0,NGA
+Noruega,1975,111,101,578.0,NOR
+Nova Caledônia,1975,0,0,540.0,NCL
+Nova Zelândia,1975,0,0,554.0,NZL
+Países Baixos,1975,0,0,528.0,NLD
+Panamá,1975,0,0,591.0,PAN
+Paraguai,1975,371050,159863,600.0,PRY
+Peru,1975,0,0,604.0,PER
+Polônia,1975,0,0,616.0,POL
+Porto Rico,1975,0,0,630.0,PRI
+Portugal,1975,0,0,620.0,PRT
+Quênia,1975,0,0,404.0,KEN
+Reino Unido,1975,0,0,826.0,GBR
+República Dominicana,1975,0,0,214.0,DOM
+Rússia,1975,0,0,643.0,RUS
+São Tomé e Príncipe,1975,0,0,678.0,STP
+São Vicente e Granadinas,1975,0,0,670.0,VCT
+Senegal,1975,0,0,686.0,SEN
+Serra Leoa,1975,0,0,694.0,SLE
+Singapura,1975,0,0,702.0,SGP
+Suazilândia,1975,0,0,,
+Suécia,1975,0,0,752.0,SWE
+Suíça,1975,0,0,756.0,CHE
+Suriname,1975,0,0,740.0,SUR
+Tailândia,1975,0,0,764.0,THA
+Taiwan,1975,0,0,158.0,TWN
+Tanzânia,1975,0,0,834.0,TZA
+República Tcheca,1975,0,0,203.0,CZE
+Togo,1975,0,0,768.0,TGO
+Trinidad e Tobago,1975,0,0,780.0,TTO
+Tunísia,1975,0,0,788.0,TUN
+Turquia,1975,0,0,792.0,TUR
+Tuvalu,1975,0,0,798.0,TUV
+Uruguai,1975,0,0,858.0,URY
+Vanuatu,1975,0,0,548.0,VUT
+Venezuela,1975,4050,2488,862.0,VEN
+Vietnã,1975,0,0,704.0,VNM
+Afeganistão,1976,0,0,4.0,AFG
+África do Sul,1976,0,0,710.0,ZAF
+Alemanha,1976,0,0,276.0,DEU
+Angola,1976,0,0,24.0,AGO
+Anguilla,1976,0,0,,
+Antígua e Barbuda,1976,0,0,28.0,ATG
+Antilhas Holandesas,1976,0,0,,
+Argentina,1976,0,0,32.0,ARG
+Aruba,1976,0,0,533.0,ABW
+Austrália,1976,0,0,36.0,AUS
+Áustria,1976,0,0,40.0,AUT
+Bahamas,1976,0,0,44.0,BHS
+Bangladesh,1976,0,0,50.0,BGD
+Barbados,1976,8419,8598,52.0,BRB
+Barein,1976,0,0,48.0,BHR
+Bélgica,1976,0,0,56.0,BEL
+Belize,1976,0,0,84.0,BLZ
+Benim,1976,0,0,204.0,BEN
+Bolívia,1976,64509,16754,68.0,BOL
+Bósnia-Herzegovina,1976,0,0,70.0,BIH
+Brasil,1976,0,0,76.0,BRA
+Bulgária,1976,0,0,100.0,BGR
+Cabo Verde,1976,0,0,132.0,CPV
+Camarões,1976,0,0,120.0,CMR
+Canadá,1976,7920,7400,124.0,CAN
+Catar,1976,0,0,634.0,QAT
+Ilhas Cayman,1976,0,0,136.0,CYM
+Chile,1976,0,0,152.0,CHL
+China,1976,0,0,156.0,CHN
+Chipre,1976,0,0,196.0,CYP
+Singapura,1976,0,0,702.0,SGP
+Colômbia,1976,0,0,170.0,COL
+Comores,1976,0,0,174.0,COM
+Congo,1976,0,0,178.0,COG
+Coréia do Sul,1976,0,0,410.0,KOR
+Costa do Marfim,1976,0,0,384.0,CIV
+Costa Rica,1976,0,0,188.0,CRI
+Croácia,1976,0,0,191.0,HRV
+Cuba,1976,0,0,192.0,CUB
+Curaçao,1976,0,0,531.0,CUW
+Dinamarca,1976,0,0,208.0,DNK
+Dominica,1976,0,0,212.0,DMA
+El Salvador,1976,2923,4029,222.0,SLV
+Emirados Árabes Unidos,1976,0,0,784.0,ARE
+Equador,1976,0,0,218.0,ECU
+Eslováquia,1976,0,0,703.0,SVK
+Espanha,1976,0,0,724.0,ESP
+Estados Unidos,1976,124352,43745,840.0,USA
+Estônia,1976,0,0,233.0,EST
+Filipinas,1976,0,0,608.0,PHL
+Finlândia,1976,0,0,246.0,FIN
+França,1976,0,0,250.0,FRA
+Gana,1976,0,0,288.0,GHA
+Gibraltar,1976,0,0,292.0,GIB
+Grécia,1976,0,0,300.0,GRC
+Guatemala,1976,0,0,320.0,GTM
+Guiana,1976,0,0,328.0,GUY
+Guiana Francesa,1976,0,0,254.0,GUF
+Guiné-Bissau,1976,0,0,624.0,GNB
+Guiné Equatorial,1976,0,0,226.0,GNQ
+Haiti,1976,0,0,332.0,HTI
+Honduras,1976,0,0,340.0,HND
+Hong Kong,1976,0,0,344.0,HKG
+Hungria,1976,0,0,348.0,HUN
+Ilha de Man,1976,0,0,833.0,IMN
+Ilhas Virgens,1976,0,0,850.0,VIR
+Índia,1976,0,0,356.0,IND
+Indonésia,1976,0,0,360.0,IDN
+Irã,1976,0,0,364.0,IRN
+Iraque,1976,0,0,368.0,IRQ
+Irlanda,1976,0,0,372.0,IRL
+Itália,1976,0,0,380.0,ITA
+Jamaica,1976,0,0,388.0,JAM
+Japão,1976,0,0,392.0,JPN
+Jordânia,1976,0,0,400.0,JOR
+Letônia,1976,0,0,428.0,LVA
+Líbano,1976,0,0,422.0,LBN
+Libéria,1976,0,0,430.0,LBR
+Luxemburgo,1976,0,0,442.0,LUX
+Malásia,1976,0,0,458.0,MYS
+Malta,1976,0,0,470.0,MLT
+"Marshall, Ilhas",1976,0,0,584.0,MHL
+Mauritânia,1976,0,0,478.0,MRT
+México,1976,0,0,484.0,MEX
+Montenegro,1976,0,0,499.0,MNE
+Namíbia,1976,0,0,516.0,NAM
+Nicarágua,1976,0,0,558.0,NIC
+Nigéria,1976,0,0,566.0,NGA
+Noruega,1976,0,0,578.0,NOR
+Nova Caledônia,1976,0,0,540.0,NCL
+Nova Zelândia,1976,0,0,554.0,NZL
+Países Baixos,1976,0,0,528.0,NLD
+Panamá,1976,0,0,591.0,PAN
+Paraguai,1976,545762,215643,600.0,PRY
+Peru,1976,0,0,604.0,PER
+Polônia,1976,0,0,616.0,POL
+Porto Rico,1976,0,0,630.0,PRI
+Portugal,1976,0,0,620.0,PRT
+Quênia,1976,0,0,404.0,KEN
+Reino Unido,1976,0,0,826.0,GBR
+República Dominicana,1976,0,0,214.0,DOM
+Rússia,1976,0,0,643.0,RUS
+São Tomé e Príncipe,1976,0,0,678.0,STP
+São Vicente e Granadinas,1976,0,0,670.0,VCT
+Senegal,1976,0,0,686.0,SEN
+Serra Leoa,1976,0,0,694.0,SLE
+Singapura,1976,0,0,702.0,SGP
+Suazilândia,1976,0,0,,
+Suécia,1976,0,0,752.0,SWE
+Suíça,1976,0,0,756.0,CHE
+Suriname,1976,0,0,740.0,SUR
+Tailândia,1976,0,0,764.0,THA
+Taiwan,1976,0,0,158.0,TWN
+Tanzânia,1976,0,0,834.0,TZA
+República Tcheca,1976,0,0,203.0,CZE
+Togo,1976,0,0,768.0,TGO
+Trinidad e Tobago,1976,0,0,780.0,TTO
+Tunísia,1976,0,0,788.0,TUN
+Turquia,1976,0,0,792.0,TUR
+Tuvalu,1976,0,0,798.0,TUV
+Uruguai,1976,0,0,858.0,URY
+Vanuatu,1976,0,0,548.0,VUT
+Venezuela,1976,0,0,862.0,VEN
+Vietnã,1976,0,0,704.0,VNM
+Afeganistão,1977,0,0,4.0,AFG
+África do Sul,1977,0,0,710.0,ZAF
+Alemanha,1977,0,0,276.0,DEU
+Angola,1977,0,0,24.0,AGO
+Anguilla,1977,0,0,,
+Antígua e Barbuda,1977,0,0,28.0,ATG
+Antilhas Holandesas,1977,0,0,,
+Argentina,1977,0,0,32.0,ARG
+Aruba,1977,0,0,533.0,ABW
+Austrália,1977,0,0,36.0,AUS
+Áustria,1977,0,0,40.0,AUT
+Bahamas,1977,0,0,44.0,BHS
+Bangladesh,1977,0,0,50.0,BGD
+Barbados,1977,8796,10010,52.0,BRB
+Barein,1977,0,0,48.0,BHR
+Bélgica,1977,0,0,56.0,BEL
+Belize,1977,0,0,84.0,BLZ
+Benim,1977,0,0,204.0,BEN
+Bolívia,1977,3710,2414,68.0,BOL
+Bósnia-Herzegovina,1977,0,0,70.0,BIH
+Brasil,1977,0,0,76.0,BRA
+Bulgária,1977,0,0,100.0,BGR
+Cabo Verde,1977,0,0,132.0,CPV
+Camarões,1977,0,0,120.0,CMR
+Canadá,1977,1188,1350,124.0,CAN
+Catar,1977,0,0,634.0,QAT
+Ilhas Cayman,1977,0,0,136.0,CYM
+Chile,1977,0,0,152.0,CHL
+China,1977,0,0,156.0,CHN
+Chipre,1977,0,0,196.0,CYP
+Singapura,1977,0,0,702.0,SGP
+Colômbia,1977,0,0,170.0,COL
+Comores,1977,0,0,174.0,COM
+Congo,1977,0,0,178.0,COG
+Coréia do Sul,1977,0,0,410.0,KOR
+Costa do Marfim,1977,0,0,384.0,CIV
+Costa Rica,1977,0,0,188.0,CRI
+Croácia,1977,0,0,191.0,HRV
+Cuba,1977,0,0,192.0,CUB
+Curaçao,1977,0,0,531.0,CUW
+Dinamarca,1977,0,0,208.0,DNK
+Dominica,1977,0,0,212.0,DMA
+El Salvador,1977,45,37,222.0,SLV
+Emirados Árabes Unidos,1977,0,0,784.0,ARE
+Equador,1977,0,0,218.0,ECU
+Eslováquia,1977,0,0,703.0,SVK
+Espanha,1977,0,0,724.0,ESP
+Estados Unidos,1977,456371,196703,840.0,USA
+Estônia,1977,0,0,233.0,EST
+Filipinas,1977,0,0,608.0,PHL
+Finlândia,1977,0,0,246.0,FIN
+França,1977,0,0,250.0,FRA
+Gana,1977,0,0,288.0,GHA
+Gibraltar,1977,0,0,292.0,GIB
+Grécia,1977,0,0,300.0,GRC
+Guatemala,1977,0,0,320.0,GTM
+Guiana,1977,0,0,328.0,GUY
+Guiana Francesa,1977,0,0,254.0,GUF
+Guiné-Bissau,1977,0,0,624.0,GNB
+Guiné Equatorial,1977,0,0,226.0,GNQ
+Haiti,1977,0,0,332.0,HTI
+Honduras,1977,0,0,340.0,HND
+Hong Kong,1977,0,0,344.0,HKG
+Hungria,1977,0,0,348.0,HUN
+Ilha de Man,1977,0,0,833.0,IMN
+Ilhas Virgens,1977,0,0,850.0,VIR
+Índia,1977,0,0,356.0,IND
+Indonésia,1977,0,0,360.0,IDN
+Irã,1977,0,0,364.0,IRN
+Iraque,1977,0,0,368.0,IRQ
+Irlanda,1977,0,0,372.0,IRL
+Itália,1977,0,0,380.0,ITA
+Jamaica,1977,0,0,388.0,JAM
+Japão,1977,0,0,392.0,JPN
+Jordânia,1977,0,0,400.0,JOR
+Letônia,1977,0,0,428.0,LVA
+Líbano,1977,0,0,422.0,LBN
+Libéria,1977,0,0,430.0,LBR
+Luxemburgo,1977,0,0,442.0,LUX
+Malásia,1977,0,0,458.0,MYS
+Malta,1977,0,0,470.0,MLT
+"Marshall, Ilhas",1977,0,0,584.0,MHL
+Mauritânia,1977,0,0,478.0,MRT
+México,1977,0,0,484.0,MEX
+Montenegro,1977,0,0,499.0,MNE
+Namíbia,1977,0,0,516.0,NAM
+Nicarágua,1977,0,0,558.0,NIC
+Nigéria,1977,0,0,566.0,NGA
+Noruega,1977,0,0,578.0,NOR
+Nova Caledônia,1977,0,0,540.0,NCL
+Nova Zelândia,1977,0,0,554.0,NZL
+Países Baixos,1977,0,0,528.0,NLD
+Panamá,1977,450,350,591.0,PAN
+Paraguai,1977,524621,265879,600.0,PRY
+Peru,1977,0,0,604.0,PER
+Polônia,1977,0,0,616.0,POL
+Porto Rico,1977,0,0,630.0,PRI
+Portugal,1977,0,0,620.0,PRT
+Quênia,1977,0,0,404.0,KEN
+Reino Unido,1977,0,0,826.0,GBR
+República Dominicana,1977,0,0,214.0,DOM
+Rússia,1977,0,0,643.0,RUS
+São Tomé e Príncipe,1977,0,0,678.0,STP
+São Vicente e Granadinas,1977,0,0,670.0,VCT
+Senegal,1977,0,0,686.0,SEN
+Serra Leoa,1977,0,0,694.0,SLE
+Singapura,1977,0,0,702.0,SGP
+Suazilândia,1977,0,0,,
+Suécia,1977,0,0,752.0,SWE
+Suíça,1977,0,0,756.0,CHE
+Suriname,1977,0,0,740.0,SUR
+Tailândia,1977,0,0,764.0,THA
+Taiwan,1977,0,0,158.0,TWN
+Tanzânia,1977,0,0,834.0,TZA
+República Tcheca,1977,0,0,203.0,CZE
+Togo,1977,0,0,768.0,TGO
+Trinidad e Tobago,1977,2520,1813,780.0,TTO
+Tunísia,1977,0,0,788.0,TUN
+Turquia,1977,0,0,792.0,TUR
+Tuvalu,1977,0,0,798.0,TUV
+Uruguai,1977,1384,720,858.0,URY
+Vanuatu,1977,0,0,548.0,VUT
+Venezuela,1977,0,0,862.0,VEN
+Vietnã,1977,0,0,704.0,VNM
+Afeganistão,1978,0,0,4.0,AFG
+África do Sul,1978,0,0,710.0,ZAF
+Alemanha,1978,0,0,276.0,DEU
+Angola,1978,0,0,24.0,AGO
+Anguilla,1978,0,0,,
+Antígua e Barbuda,1978,0,0,28.0,ATG
+Antilhas Holandesas,1978,0,0,,
+Argentina,1978,0,0,32.0,ARG
+Aruba,1978,0,0,533.0,ABW
+Austrália,1978,0,0,36.0,AUS
+Áustria,1978,0,0,40.0,AUT
+Bahamas,1978,0,0,44.0,BHS
+Bangladesh,1978,0,0,50.0,BGD
+Barbados,1978,10023,10955,52.0,BRB
+Barein,1978,0,0,48.0,BHR
+Bélgica,1978,0,0,56.0,BEL
+Belize,1978,0,0,84.0,BLZ
+Benim,1978,0,0,204.0,BEN
+Bolívia,1978,972,662,68.0,BOL
+Bósnia-Herzegovina,1978,0,0,70.0,BIH
+Brasil,1978,0,0,76.0,BRA
+Bulgária,1978,0,0,100.0,BGR
+Cabo Verde,1978,0,0,132.0,CPV
+Camarões,1978,0,0,120.0,CMR
+Canadá,1978,0,0,124.0,CAN
+Catar,1978,0,0,634.0,QAT
+Ilhas Cayman,1978,0,0,136.0,CYM
+Chile,1978,0,0,152.0,CHL
+China,1978,0,0,156.0,CHN
+Chipre,1978,0,0,196.0,CYP
+Singapura,1978,0,0,702.0,SGP
+Colômbia,1978,0,0,170.0,COL
+Comores,1978,0,0,174.0,COM
+Congo,1978,0,0,178.0,COG
+Coréia do Sul,1978,0,0,410.0,KOR
+Costa do Marfim,1978,0,0,384.0,CIV
+Costa Rica,1978,0,0,188.0,CRI
+Croácia,1978,0,0,191.0,HRV
+Cuba,1978,0,0,192.0,CUB
+Curaçao,1978,0,0,531.0,CUW
+Dinamarca,1978,0,0,208.0,DNK
+Dominica,1978,0,0,212.0,DMA
+El Salvador,1978,1030,1244,222.0,SLV
+Emirados Árabes Unidos,1978,0,0,784.0,ARE
+Equador,1978,0,0,218.0,ECU
+Eslováquia,1978,0,0,703.0,SVK
+Espanha,1978,0,0,724.0,ESP
+Estados Unidos,1978,130562,59691,840.0,USA
+Estônia,1978,0,0,233.0,EST
+Filipinas,1978,0,0,608.0,PHL
+Finlândia,1978,0,0,246.0,FIN
+França,1978,0,0,250.0,FRA
+Gana,1978,0,0,288.0,GHA
+Gibraltar,1978,0,0,292.0,GIB
+Grécia,1978,0,0,300.0,GRC
+Guatemala,1978,0,0,320.0,GTM
+Guiana,1978,0,0,328.0,GUY
+Guiana Francesa,1978,0,0,254.0,GUF
+Guiné-Bissau,1978,122,72,624.0,GNB
+Guiné Equatorial,1978,0,0,226.0,GNQ
+Haiti,1978,0,0,332.0,HTI
+Honduras,1978,0,0,340.0,HND
+Hong Kong,1978,0,0,344.0,HKG
+Hungria,1978,0,0,348.0,HUN
+Ilha de Man,1978,0,0,833.0,IMN
+Ilhas Virgens,1978,0,0,850.0,VIR
+Índia,1978,0,0,356.0,IND
+Indonésia,1978,0,0,360.0,IDN
+Irã,1978,0,0,364.0,IRN
+Iraque,1978,0,0,368.0,IRQ
+Irlanda,1978,0,0,372.0,IRL
+Itália,1978,0,0,380.0,ITA
+Jamaica,1978,0,0,388.0,JAM
+Japão,1978,3108,5080,392.0,JPN
+Jordânia,1978,0,0,400.0,JOR
+Letônia,1978,0,0,428.0,LVA
+Líbano,1978,0,0,422.0,LBN
+Libéria,1978,0,0,430.0,LBR
+Luxemburgo,1978,0,0,442.0,LUX
+Malásia,1978,0,0,458.0,MYS
+Malta,1978,0,0,470.0,MLT
+"Marshall, Ilhas",1978,0,0,584.0,MHL
+Mauritânia,1978,0,0,478.0,MRT
+México,1978,0,0,484.0,MEX
+Montenegro,1978,0,0,499.0,MNE
+Namíbia,1978,0,0,516.0,NAM
+Nicarágua,1978,0,0,558.0,NIC
+Nigéria,1978,259,405,566.0,NGA
+Noruega,1978,0,0,578.0,NOR
+Nova Caledônia,1978,0,0,540.0,NCL
+Nova Zelândia,1978,0,0,554.0,NZL
+Países Baixos,1978,0,0,528.0,NLD
+Panamá,1978,0,0,591.0,PAN
+Paraguai,1978,384269,219251,600.0,PRY
+Peru,1978,0,0,604.0,PER
+Polônia,1978,0,0,616.0,POL
+Porto Rico,1978,0,0,630.0,PRI
+Portugal,1978,0,0,620.0,PRT
+Quênia,1978,0,0,404.0,KEN
+Reino Unido,1978,0,0,826.0,GBR
+República Dominicana,1978,0,0,214.0,DOM
+Rússia,1978,0,0,643.0,RUS
+São Tomé e Príncipe,1978,0,0,678.0,STP
+São Vicente e Granadinas,1978,0,0,670.0,VCT
+Senegal,1978,0,0,686.0,SEN
+Serra Leoa,1978,0,0,694.0,SLE
+Singapura,1978,0,0,702.0,SGP
+Suazilândia,1978,0,0,,
+Suécia,1978,0,0,752.0,SWE
+Suíça,1978,0,0,756.0,CHE
+Suriname,1978,0,0,740.0,SUR
+Tailândia,1978,0,0,764.0,THA
+Taiwan,1978,0,0,158.0,TWN
+Tanzânia,1978,0,0,834.0,TZA
+República Tcheca,1978,0,0,203.0,CZE
+Togo,1978,0,0,768.0,TGO
+Trinidad e Tobago,1978,3844,2931,780.0,TTO
+Tunísia,1978,0,0,788.0,TUN
+Turquia,1978,0,0,792.0,TUR
+Tuvalu,1978,0,0,798.0,TUV
+Uruguai,1978,13396,5128,858.0,URY
+Vanuatu,1978,0,0,548.0,VUT
+Venezuela,1978,0,0,862.0,VEN
+Vietnã,1978,0,0,704.0,VNM
+Afeganistão,1979,0,0,4.0,AFG
+África do Sul,1979,0,0,710.0,ZAF
+Alemanha,1979,5400,6500,276.0,DEU
+Angola,1979,3465756,2387643,24.0,AGO
+Anguilla,1979,0,0,,
+Antígua e Barbuda,1979,0,0,28.0,ATG
+Antilhas Holandesas,1979,4500,1349,,
+Argentina,1979,0,0,32.0,ARG
+Aruba,1979,0,0,533.0,ABW
+Austrália,1979,0,0,36.0,AUS
+Áustria,1979,0,0,40.0,AUT
+Bahamas,1979,0,0,44.0,BHS
+Bangladesh,1979,0,0,50.0,BGD
+Barbados,1979,3129,4650,52.0,BRB
+Barein,1979,0,0,48.0,BHR
+Bélgica,1979,0,0,56.0,BEL
+Belize,1979,0,0,84.0,BLZ
+Benim,1979,0,0,204.0,BEN
+Bolívia,1979,10052,5687,68.0,BOL
+Bósnia-Herzegovina,1979,0,0,70.0,BIH
+Brasil,1979,0,0,76.0,BRA
+Bulgária,1979,0,0,100.0,BGR
+Cabo Verde,1979,0,0,132.0,CPV
+Camarões,1979,0,0,120.0,CMR
+Canadá,1979,0,0,124.0,CAN
+Catar,1979,0,0,634.0,QAT
+Ilhas Cayman,1979,0,0,136.0,CYM
+Chile,1979,0,0,152.0,CHL
+China,1979,0,0,156.0,CHN
+Chipre,1979,0,0,196.0,CYP
+Singapura,1979,0,0,702.0,SGP
+Colômbia,1979,0,0,170.0,COL
+Comores,1979,0,0,174.0,COM
+Congo,1979,0,0,178.0,COG
+Coréia do Sul,1979,0,0,410.0,KOR
+Costa do Marfim,1979,0,0,384.0,CIV
+Costa Rica,1979,0,0,188.0,CRI
+Croácia,1979,0,0,191.0,HRV
+Cuba,1979,0,0,192.0,CUB
+Curaçao,1979,0,0,531.0,CUW
+Dinamarca,1979,0,0,208.0,DNK
+Dominica,1979,0,0,212.0,DMA
+El Salvador,1979,28,57,222.0,SLV
+Emirados Árabes Unidos,1979,0,0,784.0,ARE
+Equador,1979,0,0,218.0,ECU
+Eslováquia,1979,0,0,703.0,SVK
+Espanha,1979,0,0,724.0,ESP
+Estados Unidos,1979,248154,99495,840.0,USA
+Estônia,1979,0,0,233.0,EST
+Filipinas,1979,0,0,608.0,PHL
+Finlândia,1979,0,0,246.0,FIN
+França,1979,0,0,250.0,FRA
+Gana,1979,355,841,288.0,GHA
+Gibraltar,1979,0,0,292.0,GIB
+Grécia,1979,0,0,300.0,GRC
+Guatemala,1979,0,0,320.0,GTM
+Guiana,1979,0,0,328.0,GUY
+Guiana Francesa,1979,0,0,254.0,GUF
+Guiné-Bissau,1979,0,0,624.0,GNB
+Guiné Equatorial,1979,0,0,226.0,GNQ
+Haiti,1979,0,0,332.0,HTI
+Honduras,1979,0,0,340.0,HND
+Hong Kong,1979,0,0,344.0,HKG
+Hungria,1979,0,0,348.0,HUN
+Ilha de Man,1979,0,0,833.0,IMN
+Ilhas Virgens,1979,5500,1592,850.0,VIR
+Índia,1979,0,0,356.0,IND
+Indonésia,1979,0,0,360.0,IDN
+Irã,1979,0,0,364.0,IRN
+Iraque,1979,0,0,368.0,IRQ
+Irlanda,1979,0,0,372.0,IRL
+Itália,1979,0,0,380.0,ITA
+Jamaica,1979,0,0,388.0,JAM
+Japão,1979,2760,1932,392.0,JPN
+Jordânia,1979,0,0,400.0,JOR
+Letônia,1979,0,0,428.0,LVA
+Líbano,1979,0,0,422.0,LBN
+Libéria,1979,0,0,430.0,LBR
+Luxemburgo,1979,0,0,442.0,LUX
+Malásia,1979,0,0,458.0,MYS
+Malta,1979,0,0,470.0,MLT
+"Marshall, Ilhas",1979,0,0,584.0,MHL
+Mauritânia,1979,0,0,478.0,MRT
+México,1979,0,0,484.0,MEX
+Montenegro,1979,0,0,499.0,MNE
+Namíbia,1979,0,0,516.0,NAM
+Nicarágua,1979,0,0,558.0,NIC
+Nigéria,1979,0,0,566.0,NGA
+Noruega,1979,0,0,578.0,NOR
+Nova Caledônia,1979,0,0,540.0,NCL
+Nova Zelândia,1979,0,0,554.0,NZL
+Países Baixos,1979,0,0,528.0,NLD
+Panamá,1979,0,0,591.0,PAN
+Paraguai,1979,536369,279188,600.0,PRY
+Peru,1979,0,0,604.0,PER
+Polônia,1979,0,0,616.0,POL
+Porto Rico,1979,0,0,630.0,PRI
+Portugal,1979,0,0,620.0,PRT
+Quênia,1979,0,0,404.0,KEN
+Reino Unido,1979,622,1220,826.0,GBR
+República Dominicana,1979,0,0,214.0,DOM
+Rússia,1979,0,0,643.0,RUS
+São Tomé e Príncipe,1979,0,0,678.0,STP
+São Vicente e Granadinas,1979,0,0,670.0,VCT
+Senegal,1979,0,0,686.0,SEN
+Serra Leoa,1979,0,0,694.0,SLE
+Singapura,1979,0,0,702.0,SGP
+Suazilândia,1979,0,0,,
+Suécia,1979,0,0,752.0,SWE
+Suíça,1979,0,0,756.0,CHE
+Suriname,1979,0,0,740.0,SUR
+Tailândia,1979,0,0,764.0,THA
+Taiwan,1979,0,0,158.0,TWN
+Tanzânia,1979,0,0,834.0,TZA
+República Tcheca,1979,0,0,203.0,CZE
+Togo,1979,0,0,768.0,TGO
+Trinidad e Tobago,1979,4074,3050,780.0,TTO
+Tunísia,1979,0,0,788.0,TUN
+Turquia,1979,0,0,792.0,TUR
+Tuvalu,1979,0,0,798.0,TUV
+Uruguai,1979,31374,12285,858.0,URY
+Vanuatu,1979,0,0,548.0,VUT
+Venezuela,1979,0,0,862.0,VEN
+Vietnã,1979,0,0,704.0,VNM
+Afeganistão,1980,0,0,4.0,AFG
+África do Sul,1980,0,0,710.0,ZAF
+Alemanha,1980,0,0,276.0,DEU
+Angola,1980,1682244,1118023,24.0,AGO
+Anguilla,1980,0,0,,
+Antígua e Barbuda,1980,0,0,28.0,ATG
+Antilhas Holandesas,1980,11773,6586,,
+Argentina,1980,0,0,32.0,ARG
+Aruba,1980,0,0,533.0,ABW
+Austrália,1980,0,0,36.0,AUS
+Áustria,1980,0,0,40.0,AUT
+Bahamas,1980,0,0,44.0,BHS
+Bangladesh,1980,0,0,50.0,BGD
+Barbados,1980,17660,18433,52.0,BRB
+Barein,1980,0,0,48.0,BHR
+Bélgica,1980,0,0,56.0,BEL
+Belize,1980,0,0,84.0,BLZ
+Benim,1980,0,0,204.0,BEN
+Bolívia,1980,13811,11845,68.0,BOL
+Bósnia-Herzegovina,1980,0,0,70.0,BIH
+Brasil,1980,0,0,76.0,BRA
+Bulgária,1980,0,0,100.0,BGR
+Cabo Verde,1980,0,0,132.0,CPV
+Camarões,1980,0,0,120.0,CMR
+Canadá,1980,444217,105039,124.0,CAN
+Catar,1980,0,0,634.0,QAT
+Ilhas Cayman,1980,0,0,136.0,CYM
+Chile,1980,0,0,152.0,CHL
+China,1980,0,0,156.0,CHN
+Chipre,1980,0,0,196.0,CYP
+Singapura,1980,0,0,702.0,SGP
+Colômbia,1980,0,0,170.0,COL
+Comores,1980,0,0,174.0,COM
+Congo,1980,0,0,178.0,COG
+Coréia do Sul,1980,0,0,410.0,KOR
+Costa do Marfim,1980,60,118,384.0,CIV
+Costa Rica,1980,0,0,188.0,CRI
+Croácia,1980,0,0,191.0,HRV
+Cuba,1980,0,0,192.0,CUB
+Curaçao,1980,0,0,531.0,CUW
+Dinamarca,1980,0,0,208.0,DNK
+Dominica,1980,0,0,212.0,DMA
+El Salvador,1980,0,0,222.0,SLV
+Emirados Árabes Unidos,1980,0,0,784.0,ARE
+Equador,1980,0,0,218.0,ECU
+Eslováquia,1980,0,0,703.0,SVK
+Espanha,1980,0,0,724.0,ESP
+Estados Unidos,1980,128947,89288,840.0,USA
+Estônia,1980,0,0,233.0,EST
+Filipinas,1980,0,0,608.0,PHL
+Finlândia,1980,0,0,246.0,FIN
+França,1980,0,0,250.0,FRA
+Gana,1980,0,0,288.0,GHA
+Gibraltar,1980,0,0,292.0,GIB
+Grécia,1980,0,0,300.0,GRC
+Guatemala,1980,86,258,320.0,GTM
+Guiana,1980,0,0,328.0,GUY
+Guiana Francesa,1980,0,0,254.0,GUF
+Guiné-Bissau,1980,0,0,624.0,GNB
+Guiné Equatorial,1980,0,0,226.0,GNQ
+Haiti,1980,0,0,332.0,HTI
+Honduras,1980,0,0,340.0,HND
+Hong Kong,1980,0,0,344.0,HKG
+Hungria,1980,0,0,348.0,HUN
+Ilha de Man,1980,0,0,833.0,IMN
+Ilhas Virgens,1980,0,0,850.0,VIR
+Índia,1980,0,0,356.0,IND
+Indonésia,1980,0,0,360.0,IDN
+Irã,1980,0,0,364.0,IRN
+Iraque,1980,0,0,368.0,IRQ
+Irlanda,1980,0,0,372.0,IRL
+Itália,1980,0,0,380.0,ITA
+Jamaica,1980,0,0,388.0,JAM
+Japão,1980,12870,15755,392.0,JPN
+Jordânia,1980,0,0,400.0,JOR
+Letônia,1980,0,0,428.0,LVA
+Líbano,1980,0,0,422.0,LBN
+Libéria,1980,0,0,430.0,LBR
+Luxemburgo,1980,0,0,442.0,LUX
+Malásia,1980,0,0,458.0,MYS
+Malta,1980,0,0,470.0,MLT
+"Marshall, Ilhas",1980,0,0,584.0,MHL
+Mauritânia,1980,0,0,478.0,MRT
+México,1980,0,0,484.0,MEX
+Montenegro,1980,0,0,499.0,MNE
+Namíbia,1980,0,0,516.0,NAM
+Nicarágua,1980,0,0,558.0,NIC
+Nigéria,1980,0,0,566.0,NGA
+Noruega,1980,0,0,578.0,NOR
+Nova Caledônia,1980,0,0,540.0,NCL
+Nova Zelândia,1980,0,0,554.0,NZL
+Países Baixos,1980,0,0,528.0,NLD
+Panamá,1980,0,0,591.0,PAN
+Paraguai,1980,493790,334829,600.0,PRY
+Peru,1980,0,0,604.0,PER
+Polônia,1980,0,0,616.0,POL
+Porto Rico,1980,0,0,630.0,PRI
+Portugal,1980,0,0,620.0,PRT
+Quênia,1980,0,0,404.0,KEN
+Reino Unido,1980,0,0,826.0,GBR
+República Dominicana,1980,0,0,214.0,DOM
+Rússia,1980,0,0,643.0,RUS
+São Tomé e Príncipe,1980,0,0,678.0,STP
+São Vicente e Granadinas,1980,0,0,670.0,VCT
+Senegal,1980,284,556,686.0,SEN
+Serra Leoa,1980,0,0,694.0,SLE
+Singapura,1980,0,0,702.0,SGP
+Suazilândia,1980,0,0,,
+Suécia,1980,0,0,752.0,SWE
+Suíça,1980,0,0,756.0,CHE
+Suriname,1980,0,0,740.0,SUR
+Tailândia,1980,0,0,764.0,THA
+Taiwan,1980,0,0,158.0,TWN
+Tanzânia,1980,0,0,834.0,TZA
+República Tcheca,1980,0,0,203.0,CZE
+Togo,1980,0,0,768.0,TGO
+Trinidad e Tobago,1980,9684,6807,780.0,TTO
+Tunísia,1980,0,0,788.0,TUN
+Turquia,1980,0,0,792.0,TUR
+Tuvalu,1980,0,0,798.0,TUV
+Uruguai,1980,7602,7500,858.0,URY
+Vanuatu,1980,0,0,548.0,VUT
+Venezuela,1980,0,0,862.0,VEN
+Vietnã,1980,0,0,704.0,VNM
+Afeganistão,1981,0,0,4.0,AFG
+África do Sul,1981,0,0,710.0,ZAF
+Alemanha,1981,0,0,276.0,DEU
+Angola,1981,0,0,24.0,AGO
+Anguilla,1981,0,0,,
+Antígua e Barbuda,1981,0,0,28.0,ATG
+Antilhas Holandesas,1981,0,0,,
+Argentina,1981,0,0,32.0,ARG
+Aruba,1981,0,0,533.0,ABW
+Austrália,1981,0,0,36.0,AUS
+Áustria,1981,0,0,40.0,AUT
+Bahamas,1981,0,0,44.0,BHS
+Bangladesh,1981,0,0,50.0,BGD
+Barbados,1981,15314,17387,52.0,BRB
+Barein,1981,0,0,48.0,BHR
+Bélgica,1981,0,0,56.0,BEL
+Belize,1981,0,0,84.0,BLZ
+Benim,1981,0,0,204.0,BEN
+Bolívia,1981,24038,28535,68.0,BOL
+Bósnia-Herzegovina,1981,0,0,70.0,BIH
+Brasil,1981,0,0,76.0,BRA
+Bulgária,1981,0,0,100.0,BGR
+Cabo Verde,1981,0,0,132.0,CPV
+Camarões,1981,0,0,120.0,CMR
+Canadá,1981,128710,42769,124.0,CAN
+Catar,1981,0,0,634.0,QAT
+Ilhas Cayman,1981,0,0,136.0,CYM
+Chile,1981,0,0,152.0,CHL
+China,1981,0,0,156.0,CHN
+Chipre,1981,0,0,196.0,CYP
+Singapura,1981,0,0,702.0,SGP
+Colômbia,1981,0,0,170.0,COL
+Comores,1981,0,0,174.0,COM
+Congo,1981,0,0,178.0,COG
+Coréia do Sul,1981,0,0,410.0,KOR
+Costa do Marfim,1981,0,0,384.0,CIV
+Costa Rica,1981,0,0,188.0,CRI
+Croácia,1981,0,0,191.0,HRV
+Cuba,1981,0,0,192.0,CUB
+Curaçao,1981,0,0,531.0,CUW
+Dinamarca,1981,0,0,208.0,DNK
+Dominica,1981,0,0,212.0,DMA
+El Salvador,1981,0,0,222.0,SLV
+Emirados Árabes Unidos,1981,0,0,784.0,ARE
+Equador,1981,0,0,218.0,ECU
+Eslováquia,1981,0,0,703.0,SVK
+Espanha,1981,54,65,724.0,ESP
+Estados Unidos,1981,132264,79886,840.0,USA
+Estônia,1981,0,0,233.0,EST
+Filipinas,1981,0,0,608.0,PHL
+Finlândia,1981,0,0,246.0,FIN
+França,1981,0,0,250.0,FRA
+Gana,1981,0,0,288.0,GHA
+Gibraltar,1981,0,0,292.0,GIB
+Grécia,1981,0,0,300.0,GRC
+Guatemala,1981,0,0,320.0,GTM
+Guiana,1981,0,0,328.0,GUY
+Guiana Francesa,1981,0,0,254.0,GUF
+Guiné-Bissau,1981,0,0,624.0,GNB
+Guiné Equatorial,1981,0,0,226.0,GNQ
+Haiti,1981,1858,2564,332.0,HTI
+Honduras,1981,0,0,340.0,HND
+Hong Kong,1981,0,0,344.0,HKG
+Hungria,1981,0,0,348.0,HUN
+Ilha de Man,1981,0,0,833.0,IMN
+Ilhas Virgens,1981,0,0,850.0,VIR
+Índia,1981,0,0,356.0,IND
+Indonésia,1981,0,0,360.0,IDN
+Irã,1981,0,0,364.0,IRN
+Iraque,1981,0,0,368.0,IRQ
+Irlanda,1981,0,0,372.0,IRL
+Itália,1981,0,0,380.0,ITA
+Jamaica,1981,0,0,388.0,JAM
+Japão,1981,1800,1580,392.0,JPN
+Jordânia,1981,0,0,400.0,JOR
+Letônia,1981,0,0,428.0,LVA
+Líbano,1981,0,0,422.0,LBN
+Libéria,1981,4083,5640,430.0,LBR
+Luxemburgo,1981,0,0,442.0,LUX
+Malásia,1981,0,0,458.0,MYS
+Malta,1981,0,0,470.0,MLT
+"Marshall, Ilhas",1981,0,0,584.0,MHL
+Mauritânia,1981,0,0,478.0,MRT
+México,1981,0,0,484.0,MEX
+Montenegro,1981,0,0,499.0,MNE
+Namíbia,1981,0,0,516.0,NAM
+Nicarágua,1981,0,0,558.0,NIC
+Nigéria,1981,0,0,566.0,NGA
+Noruega,1981,0,0,578.0,NOR
+Nova Caledônia,1981,0,0,540.0,NCL
+Nova Zelândia,1981,0,0,554.0,NZL
+Países Baixos,1981,0,0,528.0,NLD
+Panamá,1981,0,0,591.0,PAN
+Paraguai,1981,433535,279997,600.0,PRY
+Peru,1981,0,0,604.0,PER
+Polônia,1981,0,0,616.0,POL
+Porto Rico,1981,0,0,630.0,PRI
+Portugal,1981,0,0,620.0,PRT
+Quênia,1981,0,0,404.0,KEN
+Reino Unido,1981,270,493,826.0,GBR
+República Dominicana,1981,0,0,214.0,DOM
+Rússia,1981,0,0,643.0,RUS
+São Tomé e Príncipe,1981,0,0,678.0,STP
+São Vicente e Granadinas,1981,0,0,670.0,VCT
+Senegal,1981,178,369,686.0,SEN
+Serra Leoa,1981,0,0,694.0,SLE
+Singapura,1981,0,0,702.0,SGP
+Suazilândia,1981,0,0,,
+Suécia,1981,0,0,752.0,SWE
+Suíça,1981,0,0,756.0,CHE
+Suriname,1981,0,0,740.0,SUR
+Tailândia,1981,0,0,764.0,THA
+Taiwan,1981,0,0,158.0,TWN
+Tanzânia,1981,1548,3645,834.0,TZA
+República Tcheca,1981,0,0,203.0,CZE
+Togo,1981,0,0,768.0,TGO
+Trinidad e Tobago,1981,0,0,780.0,TTO
+Tunísia,1981,0,0,788.0,TUN
+Turquia,1981,0,0,792.0,TUR
+Tuvalu,1981,0,0,798.0,TUV
+Uruguai,1981,0,0,858.0,URY
+Vanuatu,1981,0,0,548.0,VUT
+Venezuela,1981,0,0,862.0,VEN
+Vietnã,1981,0,0,704.0,VNM
+Afeganistão,1982,0,0,4.0,AFG
+África do Sul,1982,0,0,710.0,ZAF
+Alemanha,1982,0,0,276.0,DEU
+Angola,1982,0,0,24.0,AGO
+Anguilla,1982,0,0,,
+Antígua e Barbuda,1982,0,0,28.0,ATG
+Antilhas Holandesas,1982,0,0,,
+Argentina,1982,0,0,32.0,ARG
+Aruba,1982,0,0,533.0,ABW
+Austrália,1982,0,0,36.0,AUS
+Áustria,1982,0,0,40.0,AUT
+Bahamas,1982,0,0,44.0,BHS
+Bangladesh,1982,0,0,50.0,BGD
+Barbados,1982,534,1070,52.0,BRB
+Barein,1982,0,0,48.0,BHR
+Bélgica,1982,0,0,56.0,BEL
+Belize,1982,0,0,84.0,BLZ
+Benim,1982,0,0,204.0,BEN
+Bolívia,1982,10370,8555,68.0,BOL
+Bósnia-Herzegovina,1982,0,0,70.0,BIH
+Brasil,1982,0,0,76.0,BRA
+Bulgária,1982,0,0,100.0,BGR
+Cabo Verde,1982,0,0,132.0,CPV
+Camarões,1982,0,0,120.0,CMR
+Canadá,1982,0,0,124.0,CAN
+Catar,1982,0,0,634.0,QAT
+Ilhas Cayman,1982,0,0,136.0,CYM
+Chile,1982,0,0,152.0,CHL
+China,1982,0,0,156.0,CHN
+Chipre,1982,0,0,196.0,CYP
+Singapura,1982,0,0,702.0,SGP
+Colômbia,1982,0,0,170.0,COL
+Comores,1982,0,0,174.0,COM
+Congo,1982,0,0,178.0,COG
+Coréia do Sul,1982,0,0,410.0,KOR
+Costa do Marfim,1982,0,0,384.0,CIV
+Costa Rica,1982,0,0,188.0,CRI
+Croácia,1982,0,0,191.0,HRV
+Cuba,1982,0,0,192.0,CUB
+Curaçao,1982,0,0,531.0,CUW
+Dinamarca,1982,0,0,208.0,DNK
+Dominica,1982,0,0,212.0,DMA
+El Salvador,1982,0,0,222.0,SLV
+Emirados Árabes Unidos,1982,0,0,784.0,ARE
+Equador,1982,0,0,218.0,ECU
+Eslováquia,1982,0,0,703.0,SVK
+Espanha,1982,0,0,724.0,ESP
+Estados Unidos,1982,88704,53219,840.0,USA
+Estônia,1982,0,0,233.0,EST
+Filipinas,1982,0,0,608.0,PHL
+Finlândia,1982,0,0,246.0,FIN
+França,1982,0,0,250.0,FRA
+Gana,1982,0,0,288.0,GHA
+Gibraltar,1982,0,0,292.0,GIB
+Grécia,1982,0,0,300.0,GRC
+Guatemala,1982,0,0,320.0,GTM
+Guiana,1982,0,0,328.0,GUY
+Guiana Francesa,1982,0,0,254.0,GUF
+Guiné-Bissau,1982,0,0,624.0,GNB
+Guiné Equatorial,1982,0,0,226.0,GNQ
+Haiti,1982,0,0,332.0,HTI
+Honduras,1982,0,0,340.0,HND
+Hong Kong,1982,0,0,344.0,HKG
+Hungria,1982,0,0,348.0,HUN
+Ilha de Man,1982,0,0,833.0,IMN
+Ilhas Virgens,1982,0,0,850.0,VIR
+Índia,1982,0,0,356.0,IND
+Indonésia,1982,0,0,360.0,IDN
+Irã,1982,0,0,364.0,IRN
+Iraque,1982,0,0,368.0,IRQ
+Irlanda,1982,0,0,372.0,IRL
+Itália,1982,0,0,380.0,ITA
+Jamaica,1982,0,0,388.0,JAM
+Japão,1982,20754,10900,392.0,JPN
+Jordânia,1982,0,0,400.0,JOR
+Letônia,1982,0,0,428.0,LVA
+Líbano,1982,0,0,422.0,LBN
+Libéria,1982,0,0,430.0,LBR
+Luxemburgo,1982,0,0,442.0,LUX
+Malásia,1982,0,0,458.0,MYS
+Malta,1982,0,0,470.0,MLT
+"Marshall, Ilhas",1982,0,0,584.0,MHL
+Mauritânia,1982,0,0,478.0,MRT
+México,1982,0,0,484.0,MEX
+Montenegro,1982,0,0,499.0,MNE
+Namíbia,1982,0,0,516.0,NAM
+Nicarágua,1982,0,0,558.0,NIC
+Nigéria,1982,0,0,566.0,NGA
+Noruega,1982,0,0,578.0,NOR
+Nova Caledônia,1982,0,0,540.0,NCL
+Nova Zelândia,1982,0,0,554.0,NZL
+Países Baixos,1982,0,0,528.0,NLD
+Panamá,1982,0,0,591.0,PAN
+Paraguai,1982,465539,285267,600.0,PRY
+Peru,1982,0,0,604.0,PER
+Polônia,1982,0,0,616.0,POL
+Porto Rico,1982,0,0,630.0,PRI
+Portugal,1982,0,0,620.0,PRT
+Quênia,1982,0,0,404.0,KEN
+Reino Unido,1982,9936,17250,826.0,GBR
+República Dominicana,1982,0,0,214.0,DOM
+Rússia,1982,0,0,643.0,RUS
+São Tomé e Príncipe,1982,0,0,678.0,STP
+São Vicente e Granadinas,1982,0,0,670.0,VCT
+Senegal,1982,567,940,686.0,SEN
+Serra Leoa,1982,0,0,694.0,SLE
+Singapura,1982,0,0,702.0,SGP
+Suazilândia,1982,0,0,,
+Suécia,1982,0,0,752.0,SWE
+Suíça,1982,0,0,756.0,CHE
+Suriname,1982,0,0,740.0,SUR
+Tailândia,1982,0,0,764.0,THA
+Taiwan,1982,0,0,158.0,TWN
+Tanzânia,1982,0,0,834.0,TZA
+República Tcheca,1982,0,0,203.0,CZE
+Togo,1982,0,0,768.0,TGO
+Trinidad e Tobago,1982,0,0,780.0,TTO
+Tunísia,1982,0,0,788.0,TUN
+Turquia,1982,0,0,792.0,TUR
+Tuvalu,1982,0,0,798.0,TUV
+Uruguai,1982,0,0,858.0,URY
+Vanuatu,1982,0,0,548.0,VUT
+Venezuela,1982,0,0,862.0,VEN
+Vietnã,1982,0,0,704.0,VNM
+Afeganistão,1983,0,0,4.0,AFG
+África do Sul,1983,0,0,710.0,ZAF
+Alemanha,1983,0,0,276.0,DEU
+Angola,1983,0,0,24.0,AGO
+Anguilla,1983,0,0,,
+Antígua e Barbuda,1983,0,0,28.0,ATG
+Antilhas Holandesas,1983,0,0,,
+Argentina,1983,0,0,32.0,ARG
+Aruba,1983,0,0,533.0,ABW
+Austrália,1983,0,0,36.0,AUS
+Áustria,1983,0,0,40.0,AUT
+Bahamas,1983,0,0,44.0,BHS
+Bangladesh,1983,0,0,50.0,BGD
+Barbados,1983,3162,2807,52.0,BRB
+Barein,1983,0,0,48.0,BHR
+Bélgica,1983,0,0,56.0,BEL
+Belize,1983,0,0,84.0,BLZ
+Benim,1983,0,0,204.0,BEN
+Bolívia,1983,5882,5660,68.0,BOL
+Bósnia-Herzegovina,1983,0,0,70.0,BIH
+Brasil,1983,0,0,76.0,BRA
+Bulgária,1983,0,0,100.0,BGR
+Cabo Verde,1983,0,0,132.0,CPV
+Camarões,1983,0,0,120.0,CMR
+Canadá,1983,0,0,124.0,CAN
+Catar,1983,0,0,634.0,QAT
+Ilhas Cayman,1983,0,0,136.0,CYM
+Chile,1983,0,0,152.0,CHL
+China,1983,0,0,156.0,CHN
+Chipre,1983,0,0,196.0,CYP
+Singapura,1983,0,0,702.0,SGP
+Colômbia,1983,0,0,170.0,COL
+Comores,1983,0,0,174.0,COM
+Congo,1983,0,0,178.0,COG
+Coréia do Sul,1983,0,0,410.0,KOR
+Costa do Marfim,1983,0,0,384.0,CIV
+Costa Rica,1983,0,0,188.0,CRI
+Croácia,1983,0,0,191.0,HRV
+Cuba,1983,0,0,192.0,CUB
+Curaçao,1983,0,0,531.0,CUW
+Dinamarca,1983,0,0,208.0,DNK
+Dominica,1983,0,0,212.0,DMA
+El Salvador,1983,0,0,222.0,SLV
+Emirados Árabes Unidos,1983,0,0,784.0,ARE
+Equador,1983,0,0,218.0,ECU
+Eslováquia,1983,0,0,703.0,SVK
+Espanha,1983,0,0,724.0,ESP
+Estados Unidos,1983,64512,34084,840.0,USA
+Estônia,1983,0,0,233.0,EST
+Filipinas,1983,0,0,608.0,PHL
+Finlândia,1983,0,0,246.0,FIN
+França,1983,0,0,250.0,FRA
+Gana,1983,0,0,288.0,GHA
+Gibraltar,1983,0,0,292.0,GIB
+Grécia,1983,0,0,300.0,GRC
+Guatemala,1983,0,0,320.0,GTM
+Guiana,1983,0,0,328.0,GUY
+Guiana Francesa,1983,0,0,254.0,GUF
+Guiné-Bissau,1983,0,0,624.0,GNB
+Guiné Equatorial,1983,0,0,226.0,GNQ
+Haiti,1983,0,0,332.0,HTI
+Honduras,1983,0,0,340.0,HND
+Hong Kong,1983,0,0,344.0,HKG
+Hungria,1983,0,0,348.0,HUN
+Ilha de Man,1983,0,0,833.0,IMN
+Ilhas Virgens,1983,0,0,850.0,VIR
+Índia,1983,0,0,356.0,IND
+Indonésia,1983,0,0,360.0,IDN
+Irã,1983,0,0,364.0,IRN
+Iraque,1983,0,0,368.0,IRQ
+Irlanda,1983,0,0,372.0,IRL
+Itália,1983,0,0,380.0,ITA
+Jamaica,1983,0,0,388.0,JAM
+Japão,1983,900,1300,392.0,JPN
+Jordânia,1983,0,0,400.0,JOR
+Letônia,1983,0,0,428.0,LVA
+Líbano,1983,0,0,422.0,LBN
+Libéria,1983,0,0,430.0,LBR
+Luxemburgo,1983,0,0,442.0,LUX
+Malásia,1983,0,0,458.0,MYS
+Malta,1983,0,0,470.0,MLT
+"Marshall, Ilhas",1983,0,0,584.0,MHL
+Mauritânia,1983,0,0,478.0,MRT
+México,1983,0,0,484.0,MEX
+Montenegro,1983,0,0,499.0,MNE
+Namíbia,1983,0,0,516.0,NAM
+Nicarágua,1983,0,0,558.0,NIC
+Nigéria,1983,0,0,566.0,NGA
+Noruega,1983,163,120,578.0,NOR
+Nova Caledônia,1983,0,0,540.0,NCL
+Nova Zelândia,1983,0,0,554.0,NZL
+Países Baixos,1983,0,0,528.0,NLD
+Panamá,1983,0,0,591.0,PAN
+Paraguai,1983,575802,275231,600.0,PRY
+Peru,1983,0,0,604.0,PER
+Polônia,1983,0,0,616.0,POL
+Porto Rico,1983,0,0,630.0,PRI
+Portugal,1983,0,0,620.0,PRT
+Quênia,1983,0,0,404.0,KEN
+Reino Unido,1983,0,0,826.0,GBR
+República Dominicana,1983,0,0,214.0,DOM
+Rússia,1983,0,0,643.0,RUS
+São Tomé e Príncipe,1983,0,0,678.0,STP
+São Vicente e Granadinas,1983,0,0,670.0,VCT
+Senegal,1983,353,443,686.0,SEN
+Serra Leoa,1983,0,0,694.0,SLE
+Singapura,1983,0,0,702.0,SGP
+Suazilândia,1983,0,0,,
+Suécia,1983,0,0,752.0,SWE
+Suíça,1983,0,0,756.0,CHE
+Suriname,1983,0,0,740.0,SUR
+Tailândia,1983,0,0,764.0,THA
+Taiwan,1983,0,0,158.0,TWN
+Tanzânia,1983,0,0,834.0,TZA
+República Tcheca,1983,0,0,203.0,CZE
+Togo,1983,0,0,768.0,TGO
+Trinidad e Tobago,1983,0,0,780.0,TTO
+Tunísia,1983,0,0,788.0,TUN
+Turquia,1983,0,0,792.0,TUR
+Tuvalu,1983,0,0,798.0,TUV
+Uruguai,1983,0,0,858.0,URY
+Vanuatu,1983,0,0,548.0,VUT
+Venezuela,1983,0,0,862.0,VEN
+Vietnã,1983,0,0,704.0,VNM
+Afeganistão,1984,0,0,4.0,AFG
+África do Sul,1984,0,0,710.0,ZAF
+Alemanha,1984,0,0,276.0,DEU
+Angola,1984,0,0,24.0,AGO
+Anguilla,1984,0,0,,
+Antígua e Barbuda,1984,0,0,28.0,ATG
+Antilhas Holandesas,1984,0,0,,
+Argentina,1984,0,0,32.0,ARG
+Aruba,1984,0,0,533.0,ABW
+Austrália,1984,0,0,36.0,AUS
+Áustria,1984,0,0,40.0,AUT
+Bahamas,1984,0,0,44.0,BHS
+Bangladesh,1984,0,0,50.0,BGD
+Barbados,1984,4206,4466,52.0,BRB
+Barein,1984,0,0,48.0,BHR
+Bélgica,1984,0,0,56.0,BEL
+Belize,1984,0,0,84.0,BLZ
+Benim,1984,0,0,204.0,BEN
+Bolívia,1984,5665,5917,68.0,BOL
+Bósnia-Herzegovina,1984,0,0,70.0,BIH
+Brasil,1984,0,0,76.0,BRA
+Bulgária,1984,0,0,100.0,BGR
+Cabo Verde,1984,0,0,132.0,CPV
+Camarões,1984,0,0,120.0,CMR
+Canadá,1984,0,0,124.0,CAN
+Catar,1984,0,0,634.0,QAT
+Ilhas Cayman,1984,0,0,136.0,CYM
+Chile,1984,0,0,152.0,CHL
+China,1984,0,0,156.0,CHN
+Chipre,1984,0,0,196.0,CYP
+Singapura,1984,0,0,702.0,SGP
+Colômbia,1984,0,0,170.0,COL
+Comores,1984,0,0,174.0,COM
+Congo,1984,0,0,178.0,COG
+Coréia do Sul,1984,0,0,410.0,KOR
+Costa do Marfim,1984,0,0,384.0,CIV
+Costa Rica,1984,0,0,188.0,CRI
+Croácia,1984,0,0,191.0,HRV
+Cuba,1984,0,0,192.0,CUB
+Curaçao,1984,0,0,531.0,CUW
+Dinamarca,1984,0,0,208.0,DNK
+Dominica,1984,0,0,212.0,DMA
+El Salvador,1984,0,0,222.0,SLV
+Emirados Árabes Unidos,1984,0,0,784.0,ARE
+Equador,1984,0,0,218.0,ECU
+Eslováquia,1984,0,0,703.0,SVK
+Espanha,1984,0,0,724.0,ESP
+Estados Unidos,1984,32256,17417,840.0,USA
+Estônia,1984,0,0,233.0,EST
+Filipinas,1984,0,0,608.0,PHL
+Finlândia,1984,0,0,246.0,FIN
+França,1984,0,0,250.0,FRA
+Gana,1984,0,0,288.0,GHA
+Gibraltar,1984,0,0,292.0,GIB
+Grécia,1984,0,0,300.0,GRC
+Guatemala,1984,0,0,320.0,GTM
+Guiana,1984,0,0,328.0,GUY
+Guiana Francesa,1984,0,0,254.0,GUF
+Guiné-Bissau,1984,0,0,624.0,GNB
+Guiné Equatorial,1984,0,0,226.0,GNQ
+Haiti,1984,0,0,332.0,HTI
+Honduras,1984,0,0,340.0,HND
+Hong Kong,1984,0,0,344.0,HKG
+Hungria,1984,0,0,348.0,HUN
+Ilha de Man,1984,0,0,833.0,IMN
+Ilhas Virgens,1984,0,0,850.0,VIR
+Índia,1984,0,0,356.0,IND
+Indonésia,1984,0,0,360.0,IDN
+Irã,1984,0,0,364.0,IRN
+Iraque,1984,359,624,368.0,IRQ
+Irlanda,1984,0,0,372.0,IRL
+Itália,1984,0,0,380.0,ITA
+Jamaica,1984,0,0,388.0,JAM
+Japão,1984,1800,2200,392.0,JPN
+Jordânia,1984,0,0,400.0,JOR
+Letônia,1984,0,0,428.0,LVA
+Líbano,1984,0,0,422.0,LBN
+Libéria,1984,0,0,430.0,LBR
+Luxemburgo,1984,0,0,442.0,LUX
+Malásia,1984,0,0,458.0,MYS
+Malta,1984,0,0,470.0,MLT
+"Marshall, Ilhas",1984,0,0,584.0,MHL
+Mauritânia,1984,0,0,478.0,MRT
+México,1984,0,0,484.0,MEX
+Montenegro,1984,0,0,499.0,MNE
+Namíbia,1984,0,0,516.0,NAM
+Nicarágua,1984,0,0,558.0,NIC
+Nigéria,1984,0,0,566.0,NGA
+Noruega,1984,0,0,578.0,NOR
+Nova Caledônia,1984,0,0,540.0,NCL
+Nova Zelândia,1984,0,0,554.0,NZL
+Países Baixos,1984,0,0,528.0,NLD
+Panamá,1984,0,0,591.0,PAN
+Paraguai,1984,646792,290660,600.0,PRY
+Peru,1984,570,447,604.0,PER
+Polônia,1984,0,0,616.0,POL
+Porto Rico,1984,0,0,630.0,PRI
+Portugal,1984,0,0,620.0,PRT
+Quênia,1984,0,0,404.0,KEN
+Reino Unido,1984,0,0,826.0,GBR
+República Dominicana,1984,0,0,214.0,DOM
+Rússia,1984,0,0,643.0,RUS
+São Tomé e Príncipe,1984,0,0,678.0,STP
+São Vicente e Granadinas,1984,0,0,670.0,VCT
+Senegal,1984,0,0,686.0,SEN
+Serra Leoa,1984,0,0,694.0,SLE
+Singapura,1984,0,0,702.0,SGP
+Suazilândia,1984,0,0,,
+Suécia,1984,0,0,752.0,SWE
+Suíça,1984,15225,12180,756.0,CHE
+Suriname,1984,0,0,740.0,SUR
+Tailândia,1984,0,0,764.0,THA
+Taiwan,1984,0,0,158.0,TWN
+Tanzânia,1984,0,0,834.0,TZA
+República Tcheca,1984,0,0,203.0,CZE
+Togo,1984,0,0,768.0,TGO
+Trinidad e Tobago,1984,0,0,780.0,TTO
+Tunísia,1984,0,0,788.0,TUN
+Turquia,1984,0,0,792.0,TUR
+Tuvalu,1984,0,0,798.0,TUV
+Uruguai,1984,0,0,858.0,URY
+Vanuatu,1984,0,0,548.0,VUT
+Venezuela,1984,0,0,862.0,VEN
+Vietnã,1984,0,0,704.0,VNM
+Afeganistão,1985,0,0,4.0,AFG
+África do Sul,1985,0,0,710.0,ZAF
+Alemanha,1985,67,136,276.0,DEU
+Angola,1985,339,1082,24.0,AGO
+Anguilla,1985,0,0,,
+Antígua e Barbuda,1985,0,0,28.0,ATG
+Antilhas Holandesas,1985,0,0,,
+Argentina,1985,0,0,32.0,ARG
+Aruba,1985,0,0,533.0,ABW
+Austrália,1985,0,0,36.0,AUS
+Áustria,1985,0,0,40.0,AUT
+Bahamas,1985,0,0,44.0,BHS
+Bangladesh,1985,0,0,50.0,BGD
+Barbados,1985,1143,1559,52.0,BRB
+Barein,1985,0,0,48.0,BHR
+Bélgica,1985,0,0,56.0,BEL
+Belize,1985,0,0,84.0,BLZ
+Benim,1985,0,0,204.0,BEN
+Bolívia,1985,50618,28110,68.0,BOL
+Bósnia-Herzegovina,1985,0,0,70.0,BIH
+Brasil,1985,0,0,76.0,BRA
+Bulgária,1985,0,0,100.0,BGR
+Cabo Verde,1985,0,0,132.0,CPV
+Camarões,1985,0,0,120.0,CMR
+Canadá,1985,0,0,124.0,CAN
+Catar,1985,0,0,634.0,QAT
+Ilhas Cayman,1985,0,0,136.0,CYM
+Chile,1985,0,0,152.0,CHL
+China,1985,0,0,156.0,CHN
+Chipre,1985,0,0,196.0,CYP
+Singapura,1985,0,0,702.0,SGP
+Colômbia,1985,0,0,170.0,COL
+Comores,1985,0,0,174.0,COM
+Congo,1985,2938,4597,178.0,COG
+Coréia do Sul,1985,0,0,410.0,KOR
+Costa do Marfim,1985,0,0,384.0,CIV
+Costa Rica,1985,168,220,188.0,CRI
+Croácia,1985,0,0,191.0,HRV
+Cuba,1985,0,0,192.0,CUB
+Curaçao,1985,0,0,531.0,CUW
+Dinamarca,1985,0,0,208.0,DNK
+Dominica,1985,0,0,212.0,DMA
+El Salvador,1985,0,0,222.0,SLV
+Emirados Árabes Unidos,1985,0,0,784.0,ARE
+Equador,1985,0,0,218.0,ECU
+Eslováquia,1985,0,0,703.0,SVK
+Espanha,1985,0,0,724.0,ESP
+Estados Unidos,1985,32256,15320,840.0,USA
+Estônia,1985,0,0,233.0,EST
+Filipinas,1985,0,0,608.0,PHL
+Finlândia,1985,0,0,246.0,FIN
+França,1985,9913,8439,250.0,FRA
+Gana,1985,0,0,288.0,GHA
+Gibraltar,1985,0,0,292.0,GIB
+Grécia,1985,0,0,300.0,GRC
+Guatemala,1985,0,0,320.0,GTM
+Guiana,1985,0,0,328.0,GUY
+Guiana Francesa,1985,0,0,254.0,GUF
+Guiné-Bissau,1985,0,0,624.0,GNB
+Guiné Equatorial,1985,0,0,226.0,GNQ
+Haiti,1985,996,1210,332.0,HTI
+Honduras,1985,0,0,340.0,HND
+Hong Kong,1985,0,0,344.0,HKG
+Hungria,1985,0,0,348.0,HUN
+Ilha de Man,1985,0,0,833.0,IMN
+Ilhas Virgens,1985,0,0,850.0,VIR
+Índia,1985,0,0,356.0,IND
+Indonésia,1985,0,0,360.0,IDN
+Irã,1985,0,0,364.0,IRN
+Iraque,1985,4084,18019,368.0,IRQ
+Irlanda,1985,0,0,372.0,IRL
+Itália,1985,0,0,380.0,ITA
+Jamaica,1985,0,0,388.0,JAM
+Japão,1985,1800,2200,392.0,JPN
+Jordânia,1985,0,0,400.0,JOR
+Letônia,1985,0,0,428.0,LVA
+Líbano,1985,0,0,422.0,LBN
+Libéria,1985,0,0,430.0,LBR
+Luxemburgo,1985,0,0,442.0,LUX
+Malásia,1985,0,0,458.0,MYS
+Malta,1985,0,0,470.0,MLT
+"Marshall, Ilhas",1985,0,0,584.0,MHL
+Mauritânia,1985,0,0,478.0,MRT
+México,1985,0,0,484.0,MEX
+Montenegro,1985,0,0,499.0,MNE
+Namíbia,1985,0,0,516.0,NAM
+Nicarágua,1985,0,0,558.0,NIC
+Nigéria,1985,0,0,566.0,NGA
+Noruega,1985,0,0,578.0,NOR
+Nova Caledônia,1985,0,0,540.0,NCL
+Nova Zelândia,1985,0,0,554.0,NZL
+Países Baixos,1985,0,0,528.0,NLD
+Panamá,1985,0,0,591.0,PAN
+Paraguai,1985,1192784,578194,600.0,PRY
+Peru,1985,0,0,604.0,PER
+Polônia,1985,0,0,616.0,POL
+Porto Rico,1985,0,0,630.0,PRI
+Portugal,1985,0,0,620.0,PRT
+Quênia,1985,0,0,404.0,KEN
+Reino Unido,1985,261,315,826.0,GBR
+República Dominicana,1985,0,0,214.0,DOM
+Rússia,1985,0,0,643.0,RUS
+São Tomé e Príncipe,1985,0,0,678.0,STP
+São Vicente e Granadinas,1985,0,0,670.0,VCT
+Senegal,1985,0,0,686.0,SEN
+Serra Leoa,1985,0,0,694.0,SLE
+Singapura,1985,0,0,702.0,SGP
+Suazilândia,1985,0,0,,
+Suécia,1985,0,0,752.0,SWE
+Suíça,1985,0,0,756.0,CHE
+Suriname,1985,0,0,740.0,SUR
+Tailândia,1985,0,0,764.0,THA
+Taiwan,1985,0,0,158.0,TWN
+Tanzânia,1985,0,0,834.0,TZA
+República Tcheca,1985,0,0,203.0,CZE
+Togo,1985,0,0,768.0,TGO
+Trinidad e Tobago,1985,4500,5750,780.0,TTO
+Tunísia,1985,0,0,788.0,TUN
+Turquia,1985,0,0,792.0,TUR
+Tuvalu,1985,0,0,798.0,TUV
+Uruguai,1985,0,0,858.0,URY
+Vanuatu,1985,0,0,548.0,VUT
+Venezuela,1985,0,0,862.0,VEN
+Vietnã,1985,0,0,704.0,VNM
+Afeganistão,1986,0,0,4.0,AFG
+África do Sul,1986,0,0,710.0,ZAF
+Alemanha,1986,1037,1750,276.0,DEU
+Angola,1986,774,1718,24.0,AGO
+Anguilla,1986,130,80,,
+Antígua e Barbuda,1986,0,0,28.0,ATG
+Antilhas Holandesas,1986,0,0,,
+Argentina,1986,0,0,32.0,ARG
+Aruba,1986,0,0,533.0,ABW
+Austrália,1986,0,0,36.0,AUS
+Áustria,1986,0,0,40.0,AUT
+Bahamas,1986,0,0,44.0,BHS
+Bangladesh,1986,0,0,50.0,BGD
+Barbados,1986,0,0,52.0,BRB
+Barein,1986,0,0,48.0,BHR
+Bélgica,1986,0,0,56.0,BEL
+Belize,1986,0,0,84.0,BLZ
+Benim,1986,0,0,204.0,BEN
+Bolívia,1986,64960,45993,68.0,BOL
+Bósnia-Herzegovina,1986,0,0,70.0,BIH
+Brasil,1986,0,0,76.0,BRA
+Bulgária,1986,0,0,100.0,BGR
+Cabo Verde,1986,0,0,132.0,CPV
+Camarões,1986,0,0,120.0,CMR
+Canadá,1986,0,0,124.0,CAN
+Catar,1986,0,0,634.0,QAT
+Ilhas Cayman,1986,0,0,136.0,CYM
+Chile,1986,0,0,152.0,CHL
+China,1986,0,0,156.0,CHN
+Chipre,1986,0,0,196.0,CYP
+Singapura,1986,0,0,702.0,SGP
+Colômbia,1986,0,0,170.0,COL
+Comores,1986,0,0,174.0,COM
+Congo,1986,1903,1974,178.0,COG
+Coréia do Sul,1986,0,0,410.0,KOR
+Costa do Marfim,1986,0,0,384.0,CIV
+Costa Rica,1986,0,0,188.0,CRI
+Croácia,1986,0,0,191.0,HRV
+Cuba,1986,0,0,192.0,CUB
+Curaçao,1986,0,0,531.0,CUW
+Dinamarca,1986,0,0,208.0,DNK
+Dominica,1986,0,0,212.0,DMA
+El Salvador,1986,0,0,222.0,SLV
+Emirados Árabes Unidos,1986,0,0,784.0,ARE
+Equador,1986,0,0,218.0,ECU
+Eslováquia,1986,0,0,703.0,SVK
+Espanha,1986,0,0,724.0,ESP
+Estados Unidos,1986,132813,113888,840.0,USA
+Estônia,1986,0,0,233.0,EST
+Filipinas,1986,0,0,608.0,PHL
+Finlândia,1986,0,0,246.0,FIN
+França,1986,0,0,250.0,FRA
+Gana,1986,0,0,288.0,GHA
+Gibraltar,1986,0,0,292.0,GIB
+Grécia,1986,0,0,300.0,GRC
+Guatemala,1986,0,0,320.0,GTM
+Guiana,1986,0,0,328.0,GUY
+Guiana Francesa,1986,0,0,254.0,GUF
+Guiné-Bissau,1986,0,0,624.0,GNB
+Guiné Equatorial,1986,0,0,226.0,GNQ
+Haiti,1986,0,0,332.0,HTI
+Honduras,1986,0,0,340.0,HND
+Hong Kong,1986,0,0,344.0,HKG
+Hungria,1986,0,0,348.0,HUN
+Ilha de Man,1986,0,0,833.0,IMN
+Ilhas Virgens,1986,0,0,850.0,VIR
+Índia,1986,0,0,356.0,IND
+Indonésia,1986,0,0,360.0,IDN
+Irã,1986,0,0,364.0,IRN
+Iraque,1986,2298,9596,368.0,IRQ
+Irlanda,1986,0,0,372.0,IRL
+Itália,1986,0,0,380.0,ITA
+Jamaica,1986,0,0,388.0,JAM
+Japão,1986,45,480,392.0,JPN
+Jordânia,1986,240,300,400.0,JOR
+Letônia,1986,0,0,428.0,LVA
+Líbano,1986,0,0,422.0,LBN
+Libéria,1986,0,0,430.0,LBR
+Luxemburgo,1986,0,0,442.0,LUX
+Malásia,1986,0,0,458.0,MYS
+Malta,1986,0,0,470.0,MLT
+"Marshall, Ilhas",1986,0,0,584.0,MHL
+Mauritânia,1986,0,0,478.0,MRT
+México,1986,0,0,484.0,MEX
+Montenegro,1986,0,0,499.0,MNE
+Namíbia,1986,0,0,516.0,NAM
+Nicarágua,1986,0,0,558.0,NIC
+Nigéria,1986,0,0,566.0,NGA
+Noruega,1986,0,0,578.0,NOR
+Nova Caledônia,1986,0,0,540.0,NCL
+Nova Zelândia,1986,0,0,554.0,NZL
+Países Baixos,1986,17284,23900,528.0,NLD
+Panamá,1986,0,0,591.0,PAN
+Paraguai,1986,2265984,1385212,600.0,PRY
+Peru,1986,0,0,604.0,PER
+Polônia,1986,0,0,616.0,POL
+Porto Rico,1986,0,0,630.0,PRI
+Portugal,1986,0,0,620.0,PRT
+Quênia,1986,0,0,404.0,KEN
+Reino Unido,1986,0,0,826.0,GBR
+República Dominicana,1986,0,0,214.0,DOM
+Rússia,1986,0,0,643.0,RUS
+São Tomé e Príncipe,1986,0,0,678.0,STP
+São Vicente e Granadinas,1986,0,0,670.0,VCT
+Senegal,1986,0,0,686.0,SEN
+Serra Leoa,1986,0,0,694.0,SLE
+Singapura,1986,0,0,702.0,SGP
+Suazilândia,1986,0,0,,
+Suécia,1986,0,0,752.0,SWE
+Suíça,1986,108,182,756.0,CHE
+Suriname,1986,0,0,740.0,SUR
+Tailândia,1986,0,0,764.0,THA
+Taiwan,1986,0,0,158.0,TWN
+Tanzânia,1986,0,0,834.0,TZA
+República Tcheca,1986,0,0,203.0,CZE
+Togo,1986,0,0,768.0,TGO
+Trinidad e Tobago,1986,0,0,780.0,TTO
+Tunísia,1986,0,0,788.0,TUN
+Turquia,1986,0,0,792.0,TUR
+Tuvalu,1986,0,0,798.0,TUV
+Uruguai,1986,0,0,858.0,URY
+Vanuatu,1986,0,0,548.0,VUT
+Venezuela,1986,0,0,862.0,VEN
+Vietnã,1986,0,0,704.0,VNM
+Afeganistão,1987,0,0,4.0,AFG
+África do Sul,1987,0,0,710.0,ZAF
+Alemanha,1987,2700,4044,276.0,DEU
+Angola,1987,1316,3847,24.0,AGO
+Anguilla,1987,324,106,,
+Antígua e Barbuda,1987,0,0,28.0,ATG
+Antilhas Holandesas,1987,0,0,,
+Argentina,1987,0,0,32.0,ARG
+Aruba,1987,0,0,533.0,ABW
+Austrália,1987,0,0,36.0,AUS
+Áustria,1987,0,0,40.0,AUT
+Bahamas,1987,0,0,44.0,BHS
+Bangladesh,1987,0,0,50.0,BGD
+Barbados,1987,0,0,52.0,BRB
+Barein,1987,0,0,48.0,BHR
+Bélgica,1987,0,0,56.0,BEL
+Belize,1987,0,0,84.0,BLZ
+Benim,1987,0,0,204.0,BEN
+Bolívia,1987,67710,69603,68.0,BOL
+Bósnia-Herzegovina,1987,0,0,70.0,BIH
+Brasil,1987,0,0,76.0,BRA
+Bulgária,1987,0,0,100.0,BGR
+Cabo Verde,1987,0,0,132.0,CPV
+Camarões,1987,0,0,120.0,CMR
+Canadá,1987,0,0,124.0,CAN
+Catar,1987,0,0,634.0,QAT
+Ilhas Cayman,1987,0,0,136.0,CYM
+Chile,1987,0,0,152.0,CHL
+China,1987,0,0,156.0,CHN
+Chipre,1987,0,0,196.0,CYP
+Singapura,1987,0,0,702.0,SGP
+Colômbia,1987,0,0,170.0,COL
+Comores,1987,0,0,174.0,COM
+Congo,1987,0,0,178.0,COG
+Coréia do Sul,1987,0,0,410.0,KOR
+Costa do Marfim,1987,0,0,384.0,CIV
+Costa Rica,1987,750,887,188.0,CRI
+Croácia,1987,0,0,191.0,HRV
+Cuba,1987,0,0,192.0,CUB
+Curaçao,1987,0,0,531.0,CUW
+Dinamarca,1987,0,0,208.0,DNK
+Dominica,1987,0,0,212.0,DMA
+El Salvador,1987,0,0,222.0,SLV
+Emirados Árabes Unidos,1987,0,0,784.0,ARE
+Equador,1987,0,0,218.0,ECU
+Eslováquia,1987,0,0,703.0,SVK
+Espanha,1987,0,0,724.0,ESP
+Estados Unidos,1987,77445,50356,840.0,USA
+Estônia,1987,0,0,233.0,EST
+Filipinas,1987,0,0,608.0,PHL
+Finlândia,1987,0,0,246.0,FIN
+França,1987,2580,9460,250.0,FRA
+Gana,1987,0,0,288.0,GHA
+Gibraltar,1987,0,0,292.0,GIB
+Grécia,1987,0,0,300.0,GRC
+Guatemala,1987,0,0,320.0,GTM
+Guiana,1987,0,0,328.0,GUY
+Guiana Francesa,1987,0,0,254.0,GUF
+Guiné-Bissau,1987,0,0,624.0,GNB
+Guiné Equatorial,1987,0,0,226.0,GNQ
+Haiti,1987,0,0,332.0,HTI
+Honduras,1987,0,0,340.0,HND
+Hong Kong,1987,0,0,344.0,HKG
+Hungria,1987,0,0,348.0,HUN
+Ilha de Man,1987,0,0,833.0,IMN
+Ilhas Virgens,1987,0,0,850.0,VIR
+Índia,1987,0,0,356.0,IND
+Indonésia,1987,0,0,360.0,IDN
+Irã,1987,0,0,364.0,IRN
+Iraque,1987,86,255,368.0,IRQ
+Irlanda,1987,0,0,372.0,IRL
+Itália,1987,0,0,380.0,ITA
+Jamaica,1987,0,0,388.0,JAM
+Japão,1987,2964,4824,392.0,JPN
+Jordânia,1987,0,0,400.0,JOR
+Letônia,1987,0,0,428.0,LVA
+Líbano,1987,4698,2409,422.0,LBN
+Libéria,1987,0,0,430.0,LBR
+Luxemburgo,1987,0,0,442.0,LUX
+Malásia,1987,0,0,458.0,MYS
+Malta,1987,0,0,470.0,MLT
+"Marshall, Ilhas",1987,0,0,584.0,MHL
+Mauritânia,1987,0,0,478.0,MRT
+México,1987,0,0,484.0,MEX
+Montenegro,1987,0,0,499.0,MNE
+Namíbia,1987,0,0,516.0,NAM
+Nicarágua,1987,0,0,558.0,NIC
+Nigéria,1987,0,0,566.0,NGA
+Noruega,1987,0,0,578.0,NOR
+Nova Caledônia,1987,0,0,540.0,NCL
+Nova Zelândia,1987,0,0,554.0,NZL
+Países Baixos,1987,0,0,528.0,NLD
+Panamá,1987,0,0,591.0,PAN
+Paraguai,1987,862410,678723,600.0,PRY
+Peru,1987,0,0,604.0,PER
+Polônia,1987,0,0,616.0,POL
+Porto Rico,1987,0,0,630.0,PRI
+Portugal,1987,0,0,620.0,PRT
+Quênia,1987,0,0,404.0,KEN
+Reino Unido,1987,12800,14300,826.0,GBR
+República Dominicana,1987,0,0,214.0,DOM
+Rússia,1987,0,0,643.0,RUS
+São Tomé e Príncipe,1987,0,0,678.0,STP
+São Vicente e Granadinas,1987,0,0,670.0,VCT
+Senegal,1987,0,0,686.0,SEN
+Serra Leoa,1987,0,0,694.0,SLE
+Singapura,1987,0,0,702.0,SGP
+Suazilândia,1987,0,0,,
+Suécia,1987,0,0,752.0,SWE
+Suíça,1987,0,0,756.0,CHE
+Suriname,1987,0,0,740.0,SUR
+Tailândia,1987,0,0,764.0,THA
+Taiwan,1987,0,0,158.0,TWN
+Tanzânia,1987,0,0,834.0,TZA
+República Tcheca,1987,0,0,203.0,CZE
+Togo,1987,0,0,768.0,TGO
+Trinidad e Tobago,1987,0,0,780.0,TTO
+Tunísia,1987,0,0,788.0,TUN
+Turquia,1987,0,0,792.0,TUR
+Tuvalu,1987,0,0,798.0,TUV
+Uruguai,1987,0,0,858.0,URY
+Vanuatu,1987,0,0,548.0,VUT
+Venezuela,1987,0,0,862.0,VEN
+Vietnã,1987,0,0,704.0,VNM
+Afeganistão,1988,0,0,4.0,AFG
+África do Sul,1988,0,0,710.0,ZAF
+Alemanha,1988,2205,3921,276.0,DEU
+Angola,1988,18500,12950,24.0,AGO
+Anguilla,1988,0,0,,
+Antígua e Barbuda,1988,0,0,28.0,ATG
+Antilhas Holandesas,1988,0,0,,
+Argentina,1988,360,960,32.0,ARG
+Aruba,1988,0,0,533.0,ABW
+Austrália,1988,0,0,36.0,AUS
+Áustria,1988,388,2025,40.0,AUT
+Bahamas,1988,0,0,44.0,BHS
+Bangladesh,1988,0,0,50.0,BGD
+Barbados,1988,1546,2186,52.0,BRB
+Barein,1988,0,0,48.0,BHR
+Bélgica,1988,0,0,56.0,BEL
+Belize,1988,0,0,84.0,BLZ
+Benim,1988,0,0,204.0,BEN
+Bolívia,1988,26496,18304,68.0,BOL
+Bósnia-Herzegovina,1988,0,0,70.0,BIH
+Brasil,1988,0,0,76.0,BRA
+Bulgária,1988,0,0,100.0,BGR
+Cabo Verde,1988,0,0,132.0,CPV
+Camarões,1988,0,0,120.0,CMR
+Canadá,1988,2000,4213,124.0,CAN
+Catar,1988,0,0,634.0,QAT
+Ilhas Cayman,1988,0,0,136.0,CYM
+Chile,1988,0,0,152.0,CHL
+China,1988,0,0,156.0,CHN
+Chipre,1988,0,0,196.0,CYP
+Singapura,1988,0,0,702.0,SGP
+Colômbia,1988,0,0,170.0,COL
+Comores,1988,0,0,174.0,COM
+Congo,1988,0,0,178.0,COG
+Coréia do Sul,1988,0,0,410.0,KOR
+Costa do Marfim,1988,0,0,384.0,CIV
+Costa Rica,1988,0,0,188.0,CRI
+Croácia,1988,0,0,191.0,HRV
+Cuba,1988,0,0,192.0,CUB
+Curaçao,1988,0,0,531.0,CUW
+Dinamarca,1988,36054,45979,208.0,DNK
+Dominica,1988,0,0,212.0,DMA
+El Salvador,1988,1550,1267,222.0,SLV
+Emirados Árabes Unidos,1988,0,0,784.0,ARE
+Equador,1988,0,0,218.0,ECU
+Eslováquia,1988,0,0,703.0,SVK
+Espanha,1988,0,0,724.0,ESP
+Estados Unidos,1988,1058917,1113623,840.0,USA
+Estônia,1988,0,0,233.0,EST
+Filipinas,1988,0,0,608.0,PHL
+Finlândia,1988,0,0,246.0,FIN
+França,1988,131,415,250.0,FRA
+Gana,1988,0,0,288.0,GHA
+Gibraltar,1988,0,0,292.0,GIB
+Grécia,1988,0,0,300.0,GRC
+Guatemala,1988,0,0,320.0,GTM
+Guiana,1988,0,0,328.0,GUY
+Guiana Francesa,1988,0,0,254.0,GUF
+Guiné-Bissau,1988,0,0,624.0,GNB
+Guiné Equatorial,1988,0,0,226.0,GNQ
+Haiti,1988,0,0,332.0,HTI
+Honduras,1988,0,0,340.0,HND
+Hong Kong,1988,0,0,344.0,HKG
+Hungria,1988,0,0,348.0,HUN
+Ilha de Man,1988,0,0,833.0,IMN
+Ilhas Virgens,1988,0,0,850.0,VIR
+Índia,1988,0,0,356.0,IND
+Indonésia,1988,0,0,360.0,IDN
+Irã,1988,0,0,364.0,IRN
+Iraque,1988,0,0,368.0,IRQ
+Irlanda,1988,0,0,372.0,IRL
+Itália,1988,0,0,380.0,ITA
+Jamaica,1988,0,0,388.0,JAM
+Japão,1988,35647,41926,392.0,JPN
+Jordânia,1988,0,0,400.0,JOR
+Letônia,1988,0,0,428.0,LVA
+Líbano,1988,16906,9673,422.0,LBN
+Libéria,1988,0,0,430.0,LBR
+Luxemburgo,1988,0,0,442.0,LUX
+Malásia,1988,0,0,458.0,MYS
+Malta,1988,0,0,470.0,MLT
+"Marshall, Ilhas",1988,0,0,584.0,MHL
+Mauritânia,1988,0,0,478.0,MRT
+México,1988,0,0,484.0,MEX
+Montenegro,1988,0,0,499.0,MNE
+Namíbia,1988,0,0,516.0,NAM
+Nicarágua,1988,0,0,558.0,NIC
+Nigéria,1988,0,0,566.0,NGA
+Noruega,1988,0,0,578.0,NOR
+Nova Caledônia,1988,0,0,540.0,NCL
+Nova Zelândia,1988,0,0,554.0,NZL
+Países Baixos,1988,0,0,528.0,NLD
+Panamá,1988,1600,1980,591.0,PAN
+Paraguai,1988,945007,397497,600.0,PRY
+Peru,1988,0,0,604.0,PER
+Polônia,1988,0,0,616.0,POL
+Porto Rico,1988,0,0,630.0,PRI
+Portugal,1988,0,0,620.0,PRT
+Quênia,1988,0,0,404.0,KEN
+Reino Unido,1988,0,0,826.0,GBR
+República Dominicana,1988,0,0,214.0,DOM
+Rússia,1988,0,0,643.0,RUS
+São Tomé e Príncipe,1988,0,0,678.0,STP
+São Vicente e Granadinas,1988,0,0,670.0,VCT
+Senegal,1988,0,0,686.0,SEN
+Serra Leoa,1988,0,0,694.0,SLE
+Singapura,1988,0,0,702.0,SGP
+Suazilândia,1988,0,0,,
+Suécia,1988,0,0,752.0,SWE
+Suíça,1988,0,0,756.0,CHE
+Suriname,1988,0,0,740.0,SUR
+Tailândia,1988,0,0,764.0,THA
+Taiwan,1988,0,0,158.0,TWN
+Tanzânia,1988,0,0,834.0,TZA
+República Tcheca,1988,0,0,203.0,CZE
+Togo,1988,0,0,768.0,TGO
+Trinidad e Tobago,1988,0,0,780.0,TTO
+Tunísia,1988,0,0,788.0,TUN
+Turquia,1988,0,0,792.0,TUR
+Tuvalu,1988,0,0,798.0,TUV
+Uruguai,1988,0,0,858.0,URY
+Vanuatu,1988,0,0,548.0,VUT
+Venezuela,1988,0,0,862.0,VEN
+Vietnã,1988,0,0,704.0,VNM
+Afeganistão,1989,0,0,4.0,AFG
+África do Sul,1989,0,0,710.0,ZAF
+Alemanha,1989,197,510,276.0,DEU
+Angola,1989,168,134,24.0,AGO
+Anguilla,1989,0,0,,
+Antígua e Barbuda,1989,0,0,28.0,ATG
+Antilhas Holandesas,1989,540,1326,,
+Argentina,1989,0,0,32.0,ARG
+Aruba,1989,0,0,533.0,ABW
+Austrália,1989,0,0,36.0,AUS
+Áustria,1989,0,0,40.0,AUT
+Bahamas,1989,0,0,44.0,BHS
+Bangladesh,1989,0,0,50.0,BGD
+Barbados,1989,0,0,52.0,BRB
+Barein,1989,0,0,48.0,BHR
+Bélgica,1989,0,0,56.0,BEL
+Belize,1989,0,0,84.0,BLZ
+Benim,1989,0,0,204.0,BEN
+Bolívia,1989,26382,24405,68.0,BOL
+Bósnia-Herzegovina,1989,0,0,70.0,BIH
+Brasil,1989,0,0,76.0,BRA
+Bulgária,1989,0,0,100.0,BGR
+Cabo Verde,1989,0,0,132.0,CPV
+Camarões,1989,0,0,120.0,CMR
+Canadá,1989,756,1344,124.0,CAN
+Catar,1989,0,0,634.0,QAT
+Ilhas Cayman,1989,0,0,136.0,CYM
+Chile,1989,900,1800,152.0,CHL
+China,1989,0,0,156.0,CHN
+Chipre,1989,0,0,196.0,CYP
+Singapura,1989,0,0,702.0,SGP
+Colômbia,1989,0,0,170.0,COL
+Comores,1989,0,0,174.0,COM
+Congo,1989,0,0,178.0,COG
+Coréia do Sul,1989,0,0,410.0,KOR
+Costa do Marfim,1989,0,0,384.0,CIV
+Costa Rica,1989,0,0,188.0,CRI
+Croácia,1989,0,0,191.0,HRV
+Cuba,1989,0,0,192.0,CUB
+Curaçao,1989,0,0,531.0,CUW
+Dinamarca,1989,32743,43989,208.0,DNK
+Dominica,1989,0,0,212.0,DMA
+El Salvador,1989,0,0,222.0,SLV
+Emirados Árabes Unidos,1989,0,0,784.0,ARE
+Equador,1989,0,0,218.0,ECU
+Eslováquia,1989,0,0,703.0,SVK
+Espanha,1989,0,0,724.0,ESP
+Estados Unidos,1989,2518993,2792829,840.0,USA
+Estônia,1989,0,0,233.0,EST
+Filipinas,1989,0,0,608.0,PHL
+Finlândia,1989,0,0,246.0,FIN
+França,1989,3015,5493,250.0,FRA
+Gana,1989,0,0,288.0,GHA
+Gibraltar,1989,0,0,292.0,GIB
+Grécia,1989,0,0,300.0,GRC
+Guatemala,1989,0,0,320.0,GTM
+Guiana,1989,0,0,328.0,GUY
+Guiana Francesa,1989,0,0,254.0,GUF
+Guiné-Bissau,1989,0,0,624.0,GNB
+Guiné Equatorial,1989,0,0,226.0,GNQ
+Haiti,1989,180,510,332.0,HTI
+Honduras,1989,0,0,340.0,HND
+Hong Kong,1989,0,0,344.0,HKG
+Hungria,1989,0,0,348.0,HUN
+Ilha de Man,1989,0,0,833.0,IMN
+Ilhas Virgens,1989,0,0,850.0,VIR
+Índia,1989,0,0,356.0,IND
+Indonésia,1989,0,0,360.0,IDN
+Irã,1989,0,0,364.0,IRN
+Iraque,1989,0,0,368.0,IRQ
+Irlanda,1989,0,0,372.0,IRL
+Itália,1989,0,0,380.0,ITA
+Jamaica,1989,0,0,388.0,JAM
+Japão,1989,38620,41708,392.0,JPN
+Jordânia,1989,0,0,400.0,JOR
+Letônia,1989,0,0,428.0,LVA
+Líbano,1989,0,0,422.0,LBN
+Libéria,1989,0,0,430.0,LBR
+Luxemburgo,1989,0,0,442.0,LUX
+Malásia,1989,0,0,458.0,MYS
+Malta,1989,0,0,470.0,MLT
+"Marshall, Ilhas",1989,0,0,584.0,MHL
+Mauritânia,1989,0,0,478.0,MRT
+México,1989,0,0,484.0,MEX
+Montenegro,1989,0,0,499.0,MNE
+Namíbia,1989,0,0,516.0,NAM
+Nicarágua,1989,0,0,558.0,NIC
+Nigéria,1989,0,0,566.0,NGA
+Noruega,1989,0,0,578.0,NOR
+Nova Caledônia,1989,0,0,540.0,NCL
+Nova Zelândia,1989,11929,20686,554.0,NZL
+Países Baixos,1989,0,0,528.0,NLD
+Panamá,1989,0,0,591.0,PAN
+Paraguai,1989,1707711,940967,600.0,PRY
+Peru,1989,0,0,604.0,PER
+Polônia,1989,0,0,616.0,POL
+Porto Rico,1989,0,0,630.0,PRI
+Portugal,1989,0,0,620.0,PRT
+Quênia,1989,0,0,404.0,KEN
+Reino Unido,1989,45225,63380,826.0,GBR
+República Dominicana,1989,0,0,214.0,DOM
+Rússia,1989,0,0,643.0,RUS
+São Tomé e Príncipe,1989,0,0,678.0,STP
+São Vicente e Granadinas,1989,0,0,670.0,VCT
+Senegal,1989,0,0,686.0,SEN
+Serra Leoa,1989,0,0,694.0,SLE
+Singapura,1989,0,0,702.0,SGP
+Suazilândia,1989,0,0,,
+Suécia,1989,559,1595,752.0,SWE
+Suíça,1989,0,0,756.0,CHE
+Suriname,1989,0,0,740.0,SUR
+Tailândia,1989,0,0,764.0,THA
+Taiwan,1989,0,0,158.0,TWN
+Tanzânia,1989,0,0,834.0,TZA
+República Tcheca,1989,0,0,203.0,CZE
+Togo,1989,0,0,768.0,TGO
+Trinidad e Tobago,1989,0,0,780.0,TTO
+Tunísia,1989,0,0,788.0,TUN
+Turquia,1989,0,0,792.0,TUR
+Tuvalu,1989,0,0,798.0,TUV
+Uruguai,1989,0,0,858.0,URY
+Vanuatu,1989,0,0,548.0,VUT
+Venezuela,1989,0,0,862.0,VEN
+Vietnã,1989,0,0,704.0,VNM
+Afeganistão,1990,0,0,4.0,AFG
+África do Sul,1990,0,0,710.0,ZAF
+Alemanha,1990,0,0,276.0,DEU
+Angola,1990,930,1090,24.0,AGO
+Anguilla,1990,0,0,,
+Antígua e Barbuda,1990,0,0,28.0,ATG
+Antilhas Holandesas,1990,1080,2652,,
+Argentina,1990,6300,15000,32.0,ARG
+Aruba,1990,0,0,533.0,ABW
+Austrália,1990,0,0,36.0,AUS
+Áustria,1990,0,0,40.0,AUT
+Bahamas,1990,0,0,44.0,BHS
+Bangladesh,1990,0,0,50.0,BGD
+Barbados,1990,0,0,52.0,BRB
+Barein,1990,0,0,48.0,BHR
+Bélgica,1990,0,0,56.0,BEL
+Belize,1990,0,0,84.0,BLZ
+Benim,1990,0,0,204.0,BEN
+Bolívia,1990,303,194,68.0,BOL
+Bósnia-Herzegovina,1990,0,0,70.0,BIH
+Brasil,1990,0,0,76.0,BRA
+Bulgária,1990,0,0,100.0,BGR
+Cabo Verde,1990,0,0,132.0,CPV
+Camarões,1990,0,0,120.0,CMR
+Canadá,1990,2925,8467,124.0,CAN
+Catar,1990,0,0,634.0,QAT
+Ilhas Cayman,1990,0,0,136.0,CYM
+Chile,1990,0,0,152.0,CHL
+China,1990,0,0,156.0,CHN
+Chipre,1990,0,0,196.0,CYP
+Singapura,1990,0,0,702.0,SGP
+Colômbia,1990,0,0,170.0,COL
+Comores,1990,0,0,174.0,COM
+Congo,1990,0,0,178.0,COG
+Coréia do Sul,1990,0,0,410.0,KOR
+Costa do Marfim,1990,0,0,384.0,CIV
+Costa Rica,1990,3097,4725,188.0,CRI
+Croácia,1990,0,0,191.0,HRV
+Cuba,1990,0,0,192.0,CUB
+Curaçao,1990,0,0,531.0,CUW
+Dinamarca,1990,36450,50880,208.0,DNK
+Dominica,1990,0,0,212.0,DMA
+El Salvador,1990,0,0,222.0,SLV
+Emirados Árabes Unidos,1990,0,0,784.0,ARE
+Equador,1990,0,0,218.0,ECU
+Eslováquia,1990,0,0,703.0,SVK
+Espanha,1990,0,0,724.0,ESP
+Estados Unidos,1990,2533882,2879276,840.0,USA
+Estônia,1990,0,0,233.0,EST
+Filipinas,1990,0,0,608.0,PHL
+Finlândia,1990,0,0,246.0,FIN
+França,1990,9515,21209,250.0,FRA
+Gana,1990,0,0,288.0,GHA
+Gibraltar,1990,0,0,292.0,GIB
+Grécia,1990,0,0,300.0,GRC
+Guatemala,1990,0,0,320.0,GTM
+Guiana,1990,0,0,328.0,GUY
+Guiana Francesa,1990,0,0,254.0,GUF
+Guiné-Bissau,1990,0,0,624.0,GNB
+Guiné Equatorial,1990,0,0,226.0,GNQ
+Haiti,1990,0,0,332.0,HTI
+Honduras,1990,2025,4387,340.0,HND
+Hong Kong,1990,0,0,344.0,HKG
+Hungria,1990,0,0,348.0,HUN
+Ilha de Man,1990,0,0,833.0,IMN
+Ilhas Virgens,1990,0,0,850.0,VIR
+Índia,1990,0,0,356.0,IND
+Indonésia,1990,0,0,360.0,IDN
+Irã,1990,0,0,364.0,IRN
+Iraque,1990,0,0,368.0,IRQ
+Irlanda,1990,0,0,372.0,IRL
+Itália,1990,0,0,380.0,ITA
+Jamaica,1990,0,0,388.0,JAM
+Japão,1990,0,0,392.0,JPN
+Jordânia,1990,0,0,400.0,JOR
+Letônia,1990,0,0,428.0,LVA
+Líbano,1990,0,0,422.0,LBN
+Libéria,1990,0,0,430.0,LBR
+Luxemburgo,1990,0,0,442.0,LUX
+Malásia,1990,0,0,458.0,MYS
+Malta,1990,0,0,470.0,MLT
+"Marshall, Ilhas",1990,0,0,584.0,MHL
+Mauritânia,1990,0,0,478.0,MRT
+México,1990,0,0,484.0,MEX
+Montenegro,1990,0,0,499.0,MNE
+Namíbia,1990,0,0,516.0,NAM
+Nicarágua,1990,0,0,558.0,NIC
+Nigéria,1990,0,0,566.0,NGA
+Noruega,1990,268,644,578.0,NOR
+Nova Caledônia,1990,0,0,540.0,NCL
+Nova Zelândia,1990,0,0,554.0,NZL
+Países Baixos,1990,900,2100,528.0,NLD
+Panamá,1990,0,0,591.0,PAN
+Paraguai,1990,815447,591663,600.0,PRY
+Peru,1990,0,0,604.0,PER
+Polônia,1990,0,0,616.0,POL
+Porto Rico,1990,0,0,630.0,PRI
+Portugal,1990,0,0,620.0,PRT
+Quênia,1990,0,0,404.0,KEN
+Reino Unido,1990,22020,26600,826.0,GBR
+República Dominicana,1990,0,0,214.0,DOM
+Rússia,1990,0,0,643.0,RUS
+São Tomé e Príncipe,1990,0,0,678.0,STP
+São Vicente e Granadinas,1990,0,0,670.0,VCT
+Senegal,1990,0,0,686.0,SEN
+Serra Leoa,1990,0,0,694.0,SLE
+Singapura,1990,0,0,702.0,SGP
+Suazilândia,1990,0,0,,
+Suécia,1990,0,0,752.0,SWE
+Suíça,1990,0,0,756.0,CHE
+Suriname,1990,0,0,740.0,SUR
+Tailândia,1990,0,0,764.0,THA
+Taiwan,1990,0,0,158.0,TWN
+Tanzânia,1990,0,0,834.0,TZA
+República Tcheca,1990,0,0,203.0,CZE
+Togo,1990,0,0,768.0,TGO
+Trinidad e Tobago,1990,0,0,780.0,TTO
+Tunísia,1990,0,0,788.0,TUN
+Turquia,1990,0,0,792.0,TUR
+Tuvalu,1990,0,0,798.0,TUV
+Uruguai,1990,0,0,858.0,URY
+Vanuatu,1990,0,0,548.0,VUT
+Venezuela,1990,0,0,862.0,VEN
+Vietnã,1990,0,0,704.0,VNM
+Afeganistão,1991,0,0,4.0,AFG
+África do Sul,1991,0,0,710.0,ZAF
+Alemanha,1991,3780,7182,276.0,DEU
+Angola,1991,125,116,24.0,AGO
+Anguilla,1991,0,0,,
+Antígua e Barbuda,1991,0,0,28.0,ATG
+Antilhas Holandesas,1991,1080,2640,,
+Argentina,1991,0,0,32.0,ARG
+Aruba,1991,0,0,533.0,ABW
+Austrália,1991,0,0,36.0,AUS
+Áustria,1991,0,0,40.0,AUT
+Bahamas,1991,0,0,44.0,BHS
+Bangladesh,1991,0,0,50.0,BGD
+Barbados,1991,0,0,52.0,BRB
+Barein,1991,0,0,48.0,BHR
+Bélgica,1991,0,0,56.0,BEL
+Belize,1991,0,0,84.0,BLZ
+Benim,1991,0,0,204.0,BEN
+Bolívia,1991,6878,10591,68.0,BOL
+Bósnia-Herzegovina,1991,0,0,70.0,BIH
+Brasil,1991,0,0,76.0,BRA
+Bulgária,1991,0,0,100.0,BGR
+Cabo Verde,1991,0,0,132.0,CPV
+Camarões,1991,0,0,120.0,CMR
+Canadá,1991,0,0,124.0,CAN
+Catar,1991,0,0,634.0,QAT
+Ilhas Cayman,1991,0,0,136.0,CYM
+Chile,1991,0,0,152.0,CHL
+China,1991,0,0,156.0,CHN
+Chipre,1991,0,0,196.0,CYP
+Singapura,1991,0,0,702.0,SGP
+Colômbia,1991,0,0,170.0,COL
+Comores,1991,0,0,174.0,COM
+Congo,1991,0,0,178.0,COG
+Coréia do Sul,1991,0,0,410.0,KOR
+Costa do Marfim,1991,0,0,384.0,CIV
+Costa Rica,1991,0,0,188.0,CRI
+Croácia,1991,0,0,191.0,HRV
+Cuba,1991,0,0,192.0,CUB
+Curaçao,1991,0,0,531.0,CUW
+Dinamarca,1991,24630,34543,208.0,DNK
+Dominica,1991,0,0,212.0,DMA
+El Salvador,1991,0,0,222.0,SLV
+Emirados Árabes Unidos,1991,0,0,784.0,ARE
+Equador,1991,0,0,218.0,ECU
+Eslováquia,1991,0,0,703.0,SVK
+Espanha,1991,0,0,724.0,ESP
+Estados Unidos,1991,2477748,3000702,840.0,USA
+Estônia,1991,0,0,233.0,EST
+Filipinas,1991,0,0,608.0,PHL
+Finlândia,1991,0,0,246.0,FIN
+França,1991,1080,3775,250.0,FRA
+Gana,1991,0,0,288.0,GHA
+Gibraltar,1991,0,0,292.0,GIB
+Grécia,1991,0,0,300.0,GRC
+Guatemala,1991,0,0,320.0,GTM
+Guiana,1991,0,0,328.0,GUY
+Guiana Francesa,1991,0,0,254.0,GUF
+Guiné-Bissau,1991,0,0,624.0,GNB
+Guiné Equatorial,1991,0,0,226.0,GNQ
+Haiti,1991,0,0,332.0,HTI
+Honduras,1991,0,0,340.0,HND
+Hong Kong,1991,0,0,344.0,HKG
+Hungria,1991,0,0,348.0,HUN
+Ilha de Man,1991,0,0,833.0,IMN
+Ilhas Virgens,1991,0,0,850.0,VIR
+Índia,1991,0,0,356.0,IND
+Indonésia,1991,0,0,360.0,IDN
+Irã,1991,0,0,364.0,IRN
+Iraque,1991,0,0,368.0,IRQ
+Irlanda,1991,0,0,372.0,IRL
+Itália,1991,0,0,380.0,ITA
+Jamaica,1991,0,0,388.0,JAM
+Japão,1991,56630,64200,392.0,JPN
+Jordânia,1991,0,0,400.0,JOR
+Letônia,1991,0,0,428.0,LVA
+Líbano,1991,0,0,422.0,LBN
+Libéria,1991,0,0,430.0,LBR
+Luxemburgo,1991,0,0,442.0,LUX
+Malásia,1991,0,0,458.0,MYS
+Malta,1991,0,0,470.0,MLT
+"Marshall, Ilhas",1991,0,0,584.0,MHL
+Mauritânia,1991,0,0,478.0,MRT
+México,1991,0,0,484.0,MEX
+Montenegro,1991,0,0,499.0,MNE
+Namíbia,1991,0,0,516.0,NAM
+Nicarágua,1991,0,0,558.0,NIC
+Nigéria,1991,0,0,566.0,NGA
+Noruega,1991,447,1200,578.0,NOR
+Nova Caledônia,1991,0,0,540.0,NCL
+Nova Zelândia,1991,0,0,554.0,NZL
+Países Baixos,1991,0,0,528.0,NLD
+Panamá,1991,0,0,591.0,PAN
+Paraguai,1991,1703732,1131271,600.0,PRY
+Peru,1991,0,0,604.0,PER
+Polônia,1991,0,0,616.0,POL
+Porto Rico,1991,0,0,630.0,PRI
+Portugal,1991,0,0,620.0,PRT
+Quênia,1991,0,0,404.0,KEN
+Reino Unido,1991,0,0,826.0,GBR
+República Dominicana,1991,0,0,214.0,DOM
+Rússia,1991,0,0,643.0,RUS
+São Tomé e Príncipe,1991,0,0,678.0,STP
+São Vicente e Granadinas,1991,0,0,670.0,VCT
+Senegal,1991,0,0,686.0,SEN
+Serra Leoa,1991,0,0,694.0,SLE
+Singapura,1991,0,0,702.0,SGP
+Suazilândia,1991,0,0,,
+Suécia,1991,0,0,752.0,SWE
+Suíça,1991,0,0,756.0,CHE
+Suriname,1991,0,0,740.0,SUR
+Tailândia,1991,0,0,764.0,THA
+Taiwan,1991,0,0,158.0,TWN
+Tanzânia,1991,0,0,834.0,TZA
+República Tcheca,1991,0,0,203.0,CZE
+Togo,1991,0,0,768.0,TGO
+Trinidad e Tobago,1991,2323,5340,780.0,TTO
+Tunísia,1991,0,0,788.0,TUN
+Turquia,1991,0,0,792.0,TUR
+Tuvalu,1991,0,0,798.0,TUV
+Uruguai,1991,0,0,858.0,URY
+Vanuatu,1991,0,0,548.0,VUT
+Venezuela,1991,0,0,862.0,VEN
+Vietnã,1991,0,0,704.0,VNM
+Afeganistão,1992,0,0,4.0,AFG
+África do Sul,1992,0,0,710.0,ZAF
+Alemanha,1992,2700,5143,276.0,DEU
+Angola,1992,292,332,24.0,AGO
+Anguilla,1992,0,0,,
+Antígua e Barbuda,1992,0,0,28.0,ATG
+Antilhas Holandesas,1992,1782,3195,,
+Argentina,1992,1125,2250,32.0,ARG
+Aruba,1992,0,0,533.0,ABW
+Austrália,1992,0,0,36.0,AUS
+Áustria,1992,0,0,40.0,AUT
+Bahamas,1992,0,0,44.0,BHS
+Bangladesh,1992,0,0,50.0,BGD
+Barbados,1992,0,0,52.0,BRB
+Barein,1992,0,0,48.0,BHR
+Bélgica,1992,0,0,56.0,BEL
+Belize,1992,0,0,84.0,BLZ
+Benim,1992,0,0,204.0,BEN
+Bolívia,1992,15802,11977,68.0,BOL
+Bósnia-Herzegovina,1992,0,0,70.0,BIH
+Brasil,1992,0,0,76.0,BRA
+Bulgária,1992,0,0,100.0,BGR
+Cabo Verde,1992,0,0,132.0,CPV
+Camarões,1992,0,0,120.0,CMR
+Canadá,1992,1503,4368,124.0,CAN
+Catar,1992,0,0,634.0,QAT
+Ilhas Cayman,1992,0,0,136.0,CYM
+Chile,1992,0,0,152.0,CHL
+China,1992,0,0,156.0,CHN
+Chipre,1992,0,0,196.0,CYP
+Singapura,1992,0,0,702.0,SGP
+Colômbia,1992,0,0,170.0,COL
+Comores,1992,0,0,174.0,COM
+Congo,1992,0,0,178.0,COG
+Coréia do Sul,1992,0,0,410.0,KOR
+Costa do Marfim,1992,0,0,384.0,CIV
+Costa Rica,1992,0,0,188.0,CRI
+Croácia,1992,0,0,191.0,HRV
+Cuba,1992,172,468,192.0,CUB
+Curaçao,1992,0,0,531.0,CUW
+Dinamarca,1992,33254,22701,208.0,DNK
+Dominica,1992,0,0,212.0,DMA
+El Salvador,1992,0,0,222.0,SLV
+Emirados Árabes Unidos,1992,0,0,784.0,ARE
+Equador,1992,0,0,218.0,ECU
+Eslováquia,1992,0,0,703.0,SVK
+Espanha,1992,21949,59106,724.0,ESP
+Estados Unidos,1992,4820749,5940169,840.0,USA
+Estônia,1992,0,0,233.0,EST
+Filipinas,1992,0,0,608.0,PHL
+Finlândia,1992,0,0,246.0,FIN
+França,1992,13884,33003,250.0,FRA
+Gana,1992,0,0,288.0,GHA
+Gibraltar,1992,0,0,292.0,GIB
+Grécia,1992,0,0,300.0,GRC
+Guatemala,1992,0,0,320.0,GTM
+Guiana,1992,0,0,328.0,GUY
+Guiana Francesa,1992,0,0,254.0,GUF
+Guiné-Bissau,1992,0,0,624.0,GNB
+Guiné Equatorial,1992,0,0,226.0,GNQ
+Haiti,1992,0,0,332.0,HTI
+Honduras,1992,6874,10220,340.0,HND
+Hong Kong,1992,0,0,344.0,HKG
+Hungria,1992,0,0,348.0,HUN
+Ilha de Man,1992,0,0,833.0,IMN
+Ilhas Virgens,1992,0,0,850.0,VIR
+Índia,1992,0,0,356.0,IND
+Indonésia,1992,0,0,360.0,IDN
+Irã,1992,0,0,364.0,IRN
+Iraque,1992,0,0,368.0,IRQ
+Irlanda,1992,0,0,372.0,IRL
+Itália,1992,0,0,380.0,ITA
+Jamaica,1992,0,0,388.0,JAM
+Japão,1992,42000,35700,392.0,JPN
+Jordânia,1992,0,0,400.0,JOR
+Letônia,1992,0,0,428.0,LVA
+Líbano,1992,1350,6400,422.0,LBN
+Libéria,1992,0,0,430.0,LBR
+Luxemburgo,1992,0,0,442.0,LUX
+Malásia,1992,0,0,458.0,MYS
+Malta,1992,0,0,470.0,MLT
+"Marshall, Ilhas",1992,0,0,584.0,MHL
+Mauritânia,1992,0,0,478.0,MRT
+México,1992,0,0,484.0,MEX
+Montenegro,1992,0,0,499.0,MNE
+Namíbia,1992,0,0,516.0,NAM
+Nicarágua,1992,0,0,558.0,NIC
+Nigéria,1992,30444,16909,566.0,NGA
+Noruega,1992,0,0,578.0,NOR
+Nova Caledônia,1992,0,0,540.0,NCL
+Nova Zelândia,1992,0,0,554.0,NZL
+Países Baixos,1992,900,2869,528.0,NLD
+Panamá,1992,0,0,591.0,PAN
+Paraguai,1992,2453167,1397338,600.0,PRY
+Peru,1992,0,0,604.0,PER
+Polônia,1992,0,0,616.0,POL
+Porto Rico,1992,0,0,630.0,PRI
+Portugal,1992,0,0,620.0,PRT
+Quênia,1992,0,0,404.0,KEN
+Reino Unido,1992,0,0,826.0,GBR
+República Dominicana,1992,0,0,214.0,DOM
+Rússia,1992,0,0,643.0,RUS
+São Tomé e Príncipe,1992,0,0,678.0,STP
+São Vicente e Granadinas,1992,0,0,670.0,VCT
+Senegal,1992,0,0,686.0,SEN
+Serra Leoa,1992,0,0,694.0,SLE
+Singapura,1992,0,0,702.0,SGP
+Suazilândia,1992,0,0,,
+Suécia,1992,0,0,752.0,SWE
+Suíça,1992,0,0,756.0,CHE
+Suriname,1992,0,0,740.0,SUR
+Tailândia,1992,0,0,764.0,THA
+Taiwan,1992,0,0,158.0,TWN
+Tanzânia,1992,0,0,834.0,TZA
+República Tcheca,1992,0,0,203.0,CZE
+Togo,1992,0,0,768.0,TGO
+Trinidad e Tobago,1992,0,0,780.0,TTO
+Tunísia,1992,106,217,788.0,TUN
+Turquia,1992,0,0,792.0,TUR
+Tuvalu,1992,0,0,798.0,TUV
+Uruguai,1992,0,0,858.0,URY
+Vanuatu,1992,0,0,548.0,VUT
+Venezuela,1992,0,0,862.0,VEN
+Vietnã,1992,0,0,704.0,VNM
+Afeganistão,1993,0,0,4.0,AFG
+África do Sul,1993,0,0,710.0,ZAF
+Alemanha,1993,0,0,276.0,DEU
+Angola,1993,189,238,24.0,AGO
+Anguilla,1993,0,0,,
+Antígua e Barbuda,1993,0,0,28.0,ATG
+Antilhas Holandesas,1993,3434,8448,,
+Argentina,1993,322990,136500,32.0,ARG
+Aruba,1993,0,0,533.0,ABW
+Austrália,1993,0,0,36.0,AUS
+Áustria,1993,0,0,40.0,AUT
+Bahamas,1993,0,0,44.0,BHS
+Bangladesh,1993,0,0,50.0,BGD
+Barbados,1993,0,0,52.0,BRB
+Barein,1993,0,0,48.0,BHR
+Bélgica,1993,4500,10560,56.0,BEL
+Belize,1993,0,0,84.0,BLZ
+Benim,1993,0,0,204.0,BEN
+Bolívia,1993,9089,20442,68.0,BOL
+Bósnia-Herzegovina,1993,0,0,70.0,BIH
+Brasil,1993,0,0,76.0,BRA
+Bulgária,1993,0,0,100.0,BGR
+Cabo Verde,1993,0,0,132.0,CPV
+Camarões,1993,0,0,120.0,CMR
+Canadá,1993,752,2184,124.0,CAN
+Catar,1993,0,0,634.0,QAT
+Ilhas Cayman,1993,0,0,136.0,CYM
+Chile,1993,160,128,152.0,CHL
+China,1993,0,0,156.0,CHN
+Chipre,1993,0,0,196.0,CYP
+Singapura,1993,0,0,702.0,SGP
+Colômbia,1993,0,0,170.0,COL
+Comores,1993,0,0,174.0,COM
+Congo,1993,0,0,178.0,COG
+Coréia do Sul,1993,0,0,410.0,KOR
+Costa do Marfim,1993,0,0,384.0,CIV
+Costa Rica,1993,0,0,188.0,CRI
+Croácia,1993,0,0,191.0,HRV
+Cuba,1993,0,0,192.0,CUB
+Curaçao,1993,0,0,531.0,CUW
+Dinamarca,1993,24221,32192,208.0,DNK
+Dominica,1993,0,0,212.0,DMA
+El Salvador,1993,0,0,222.0,SLV
+Emirados Árabes Unidos,1993,0,0,784.0,ARE
+Equador,1993,0,0,218.0,ECU
+Eslováquia,1993,0,0,703.0,SVK
+Espanha,1993,0,0,724.0,ESP
+Estados Unidos,1993,6248089,7287253,840.0,USA
+Estônia,1993,0,0,233.0,EST
+Filipinas,1993,0,0,608.0,PHL
+Finlândia,1993,0,0,246.0,FIN
+França,1993,7166,13812,250.0,FRA
+Gana,1993,0,0,288.0,GHA
+Gibraltar,1993,0,0,292.0,GIB
+Grécia,1993,0,0,300.0,GRC
+Guatemala,1993,0,0,320.0,GTM
+Guiana,1993,0,0,328.0,GUY
+Guiana Francesa,1993,0,0,254.0,GUF
+Guiné-Bissau,1993,0,0,624.0,GNB
+Guiné Equatorial,1993,0,0,226.0,GNQ
+Haiti,1993,0,0,332.0,HTI
+Honduras,1993,7606,10060,340.0,HND
+Hong Kong,1993,0,0,344.0,HKG
+Hungria,1993,0,0,348.0,HUN
+Ilha de Man,1993,0,0,833.0,IMN
+Ilhas Virgens,1993,0,0,850.0,VIR
+Índia,1993,0,0,356.0,IND
+Indonésia,1993,0,0,360.0,IDN
+Irã,1993,0,0,364.0,IRN
+Iraque,1993,0,0,368.0,IRQ
+Irlanda,1993,0,0,372.0,IRL
+Itália,1993,0,0,380.0,ITA
+Jamaica,1993,0,0,388.0,JAM
+Japão,1993,86120,105613,392.0,JPN
+Jordânia,1993,0,0,400.0,JOR
+Letônia,1993,0,0,428.0,LVA
+Líbano,1993,0,0,422.0,LBN
+Libéria,1993,0,0,430.0,LBR
+Luxemburgo,1993,0,0,442.0,LUX
+Malásia,1993,0,0,458.0,MYS
+Malta,1993,0,0,470.0,MLT
+"Marshall, Ilhas",1993,0,0,584.0,MHL
+Mauritânia,1993,0,0,478.0,MRT
+México,1993,0,0,484.0,MEX
+Montenegro,1993,0,0,499.0,MNE
+Namíbia,1993,0,0,516.0,NAM
+Nicarágua,1993,0,0,558.0,NIC
+Nigéria,1993,450,448,566.0,NGA
+Noruega,1993,0,0,578.0,NOR
+Nova Caledônia,1993,0,0,540.0,NCL
+Nova Zelândia,1993,0,0,554.0,NZL
+Países Baixos,1993,19886,27355,528.0,NLD
+Panamá,1993,0,0,591.0,PAN
+Paraguai,1993,13472058,7191046,600.0,PRY
+Peru,1993,0,0,604.0,PER
+Polônia,1993,0,0,616.0,POL
+Porto Rico,1993,0,0,630.0,PRI
+Portugal,1993,0,0,620.0,PRT
+Quênia,1993,0,0,404.0,KEN
+Reino Unido,1993,0,0,826.0,GBR
+República Dominicana,1993,0,0,214.0,DOM
+Rússia,1993,0,0,643.0,RUS
+São Tomé e Príncipe,1993,0,0,678.0,STP
+São Vicente e Granadinas,1993,0,0,670.0,VCT
+Senegal,1993,0,0,686.0,SEN
+Serra Leoa,1993,0,0,694.0,SLE
+Singapura,1993,0,0,702.0,SGP
+Suazilândia,1993,0,0,,
+Suécia,1993,0,0,752.0,SWE
+Suíça,1993,405,1184,756.0,CHE
+Suriname,1993,0,0,740.0,SUR
+Tailândia,1993,0,0,764.0,THA
+Taiwan,1993,0,0,158.0,TWN
+Tanzânia,1993,0,0,834.0,TZA
+República Tcheca,1993,0,0,203.0,CZE
+Togo,1993,0,0,768.0,TGO
+Trinidad e Tobago,1993,1360,3048,780.0,TTO
+Tunísia,1993,0,0,788.0,TUN
+Turquia,1993,0,0,792.0,TUR
+Tuvalu,1993,0,0,798.0,TUV
+Uruguai,1993,4940,10080,858.0,URY
+Vanuatu,1993,0,0,548.0,VUT
+Venezuela,1993,0,0,862.0,VEN
+Vietnã,1993,0,0,704.0,VNM
+Afeganistão,1994,0,0,4.0,AFG
+África do Sul,1994,0,0,710.0,ZAF
+Alemanha,1994,0,0,276.0,DEU
+Angola,1994,0,0,24.0,AGO
+Anguilla,1994,0,0,,
+Antígua e Barbuda,1994,0,0,28.0,ATG
+Antilhas Holandesas,1994,0,0,,
+Argentina,1994,691422,296167,32.0,ARG
+Aruba,1994,0,0,533.0,ABW
+Austrália,1994,0,0,36.0,AUS
+Áustria,1994,0,0,40.0,AUT
+Bahamas,1994,0,0,44.0,BHS
+Bangladesh,1994,0,0,50.0,BGD
+Barbados,1994,0,0,52.0,BRB
+Barein,1994,0,0,48.0,BHR
+Bélgica,1994,0,0,56.0,BEL
+Belize,1994,0,0,84.0,BLZ
+Benim,1994,0,0,204.0,BEN
+Bolívia,1994,42204,34087,68.0,BOL
+Bósnia-Herzegovina,1994,0,0,70.0,BIH
+Brasil,1994,0,0,76.0,BRA
+Bulgária,1994,0,0,100.0,BGR
+Cabo Verde,1994,117,890,132.0,CPV
+Camarões,1994,0,0,120.0,CMR
+Canadá,1994,2864,10325,124.0,CAN
+Catar,1994,0,0,634.0,QAT
+Ilhas Cayman,1994,0,0,136.0,CYM
+Chile,1994,0,0,152.0,CHL
+China,1994,0,0,156.0,CHN
+Chipre,1994,0,0,196.0,CYP
+Singapura,1994,0,0,702.0,SGP
+Colômbia,1994,0,0,170.0,COL
+Comores,1994,0,0,174.0,COM
+Congo,1994,0,0,178.0,COG
+Coréia do Sul,1994,0,0,410.0,KOR
+Costa do Marfim,1994,0,0,384.0,CIV
+Costa Rica,1994,0,0,188.0,CRI
+Croácia,1994,0,0,191.0,HRV
+Cuba,1994,0,0,192.0,CUB
+Curaçao,1994,0,0,531.0,CUW
+Dinamarca,1994,27328,38311,208.0,DNK
+Dominica,1994,0,0,212.0,DMA
+El Salvador,1994,0,0,222.0,SLV
+Emirados Árabes Unidos,1994,0,0,784.0,ARE
+Equador,1994,0,0,218.0,ECU
+Eslováquia,1994,0,0,703.0,SVK
+Espanha,1994,0,0,724.0,ESP
+Estados Unidos,1994,5674894,6777712,840.0,USA
+Estônia,1994,0,0,233.0,EST
+Filipinas,1994,0,0,608.0,PHL
+Finlândia,1994,81648,145060,246.0,FIN
+França,1994,20586,49800,250.0,FRA
+Gana,1994,0,0,288.0,GHA
+Gibraltar,1994,0,0,292.0,GIB
+Grécia,1994,0,0,300.0,GRC
+Guatemala,1994,0,0,320.0,GTM
+Guiana,1994,0,0,328.0,GUY
+Guiana Francesa,1994,0,0,254.0,GUF
+Guiné-Bissau,1994,0,0,624.0,GNB
+Guiné Equatorial,1994,0,0,226.0,GNQ
+Haiti,1994,0,0,332.0,HTI
+Honduras,1994,8952,11625,340.0,HND
+Hong Kong,1994,0,0,344.0,HKG
+Hungria,1994,0,0,348.0,HUN
+Ilha de Man,1994,0,0,833.0,IMN
+Ilhas Virgens,1994,0,0,850.0,VIR
+Índia,1994,0,0,356.0,IND
+Indonésia,1994,0,0,360.0,IDN
+Irã,1994,0,0,364.0,IRN
+Iraque,1994,0,0,368.0,IRQ
+Irlanda,1994,0,0,372.0,IRL
+Itália,1994,0,0,380.0,ITA
+Jamaica,1994,0,0,388.0,JAM
+Japão,1994,109555,132481,392.0,JPN
+Jordânia,1994,0,0,400.0,JOR
+Letônia,1994,0,0,428.0,LVA
+Líbano,1994,0,0,422.0,LBN
+Libéria,1994,0,0,430.0,LBR
+Luxemburgo,1994,0,0,442.0,LUX
+Malásia,1994,0,0,458.0,MYS
+Malta,1994,0,0,470.0,MLT
+"Marshall, Ilhas",1994,0,0,584.0,MHL
+Mauritânia,1994,0,0,478.0,MRT
+México,1994,0,0,484.0,MEX
+Montenegro,1994,0,0,499.0,MNE
+Namíbia,1994,0,0,516.0,NAM
+Nicarágua,1994,0,0,558.0,NIC
+Nigéria,1994,6666,10150,566.0,NGA
+Noruega,1994,0,0,578.0,NOR
+Nova Caledônia,1994,0,0,540.0,NCL
+Nova Zelândia,1994,0,0,554.0,NZL
+Países Baixos,1994,1073,3868,528.0,NLD
+Panamá,1994,47,1188,591.0,PAN
+Paraguai,1994,8009291,4938690,600.0,PRY
+Peru,1994,0,0,604.0,PER
+Polônia,1994,0,0,616.0,POL
+Porto Rico,1994,0,0,630.0,PRI
+Portugal,1994,0,0,620.0,PRT
+Quênia,1994,0,0,404.0,KEN
+Reino Unido,1994,176929,284738,826.0,GBR
+República Dominicana,1994,0,0,214.0,DOM
+Rússia,1994,0,0,643.0,RUS
+São Tomé e Príncipe,1994,0,0,678.0,STP
+São Vicente e Granadinas,1994,0,0,670.0,VCT
+Senegal,1994,0,0,686.0,SEN
+Serra Leoa,1994,0,0,694.0,SLE
+Singapura,1994,0,0,702.0,SGP
+Suazilândia,1994,0,0,,
+Suécia,1994,0,0,752.0,SWE
+Suíça,1994,360,1062,756.0,CHE
+Suriname,1994,0,0,740.0,SUR
+Tailândia,1994,0,0,764.0,THA
+Taiwan,1994,0,0,158.0,TWN
+Tanzânia,1994,0,0,834.0,TZA
+República Tcheca,1994,0,0,203.0,CZE
+Togo,1994,0,0,768.0,TGO
+Trinidad e Tobago,1994,3912,8679,780.0,TTO
+Tunísia,1994,0,0,788.0,TUN
+Turquia,1994,0,0,792.0,TUR
+Tuvalu,1994,0,0,798.0,TUV
+Uruguai,1994,0,0,858.0,URY
+Vanuatu,1994,0,0,548.0,VUT
+Venezuela,1994,0,0,862.0,VEN
+Vietnã,1994,0,0,704.0,VNM
+Afeganistão,1995,0,0,4.0,AFG
+África do Sul,1995,0,0,710.0,ZAF
+Alemanha,1995,20700,40590,276.0,DEU
+Angola,1995,24,46,24.0,AGO
+Anguilla,1995,0,0,,
+Antígua e Barbuda,1995,0,0,28.0,ATG
+Antilhas Holandesas,1995,2288,5632,,
+Argentina,1995,0,0,32.0,ARG
+Aruba,1995,0,0,533.0,ABW
+Austrália,1995,755,1372,36.0,AUS
+Áustria,1995,0,0,40.0,AUT
+Bahamas,1995,0,0,44.0,BHS
+Bangladesh,1995,0,0,50.0,BGD
+Barbados,1995,0,0,52.0,BRB
+Barein,1995,0,0,48.0,BHR
+Bélgica,1995,0,0,56.0,BEL
+Belize,1995,0,0,84.0,BLZ
+Benim,1995,0,0,204.0,BEN
+Bolívia,1995,0,0,68.0,BOL
+Bósnia-Herzegovina,1995,0,0,70.0,BIH
+Brasil,1995,0,0,76.0,BRA
+Bulgária,1995,0,0,100.0,BGR
+Cabo Verde,1995,0,0,132.0,CPV
+Camarões,1995,0,0,120.0,CMR
+Canadá,1995,23291,32225,124.0,CAN
+Catar,1995,0,0,634.0,QAT
+Ilhas Cayman,1995,0,0,136.0,CYM
+Chile,1995,0,0,152.0,CHL
+China,1995,0,0,156.0,CHN
+Chipre,1995,0,0,196.0,CYP
+Singapura,1995,0,0,702.0,SGP
+Colômbia,1995,0,0,170.0,COL
+Comores,1995,0,0,174.0,COM
+Congo,1995,0,0,178.0,COG
+Coréia do Sul,1995,0,0,410.0,KOR
+Costa do Marfim,1995,0,0,384.0,CIV
+Costa Rica,1995,0,0,188.0,CRI
+Croácia,1995,0,0,191.0,HRV
+Cuba,1995,0,0,192.0,CUB
+Curaçao,1995,0,0,531.0,CUW
+Dinamarca,1995,12000,16350,208.0,DNK
+Dominica,1995,0,0,212.0,DMA
+El Salvador,1995,0,0,222.0,SLV
+Emirados Árabes Unidos,1995,0,0,784.0,ARE
+Equador,1995,0,0,218.0,ECU
+Eslováquia,1995,0,0,703.0,SVK
+Espanha,1995,0,0,724.0,ESP
+Estados Unidos,1995,6131483,7165188,840.0,USA
+Estônia,1995,0,0,233.0,EST
+Filipinas,1995,0,0,608.0,PHL
+Finlândia,1995,151632,269399,246.0,FIN
+França,1995,20580,48300,250.0,FRA
+Gana,1995,0,0,288.0,GHA
+Gibraltar,1995,0,0,292.0,GIB
+Grécia,1995,0,0,300.0,GRC
+Guatemala,1995,0,0,320.0,GTM
+Guiana,1995,0,0,328.0,GUY
+Guiana Francesa,1995,0,0,254.0,GUF
+Guiné-Bissau,1995,0,0,624.0,GNB
+Guiné Equatorial,1995,0,0,226.0,GNQ
+Haiti,1995,0,0,332.0,HTI
+Honduras,1995,8960,13575,340.0,HND
+Hong Kong,1995,0,0,344.0,HKG
+Hungria,1995,0,0,348.0,HUN
+Ilha de Man,1995,0,0,833.0,IMN
+Ilhas Virgens,1995,0,0,850.0,VIR
+Índia,1995,0,0,356.0,IND
+Indonésia,1995,0,0,360.0,IDN
+Irã,1995,0,0,364.0,IRN
+Iraque,1995,0,0,368.0,IRQ
+Irlanda,1995,0,0,372.0,IRL
+Itália,1995,0,0,380.0,ITA
+Jamaica,1995,0,0,388.0,JAM
+Japão,1995,43806,41012,392.0,JPN
+Jordânia,1995,0,0,400.0,JOR
+Letônia,1995,0,0,428.0,LVA
+Líbano,1995,0,0,422.0,LBN
+Libéria,1995,0,0,430.0,LBR
+Luxemburgo,1995,0,0,442.0,LUX
+Malásia,1995,0,0,458.0,MYS
+Malta,1995,0,0,470.0,MLT
+"Marshall, Ilhas",1995,0,0,584.0,MHL
+Mauritânia,1995,0,0,478.0,MRT
+México,1995,0,0,484.0,MEX
+Montenegro,1995,0,0,499.0,MNE
+Namíbia,1995,0,0,516.0,NAM
+Nicarágua,1995,0,0,558.0,NIC
+Nigéria,1995,6905,11900,566.0,NGA
+Noruega,1995,0,0,578.0,NOR
+Nova Caledônia,1995,0,0,540.0,NCL
+Nova Zelândia,1995,0,0,554.0,NZL
+Países Baixos,1995,0,0,528.0,NLD
+Panamá,1995,0,0,591.0,PAN
+Paraguai,1995,7740082,4237782,600.0,PRY
+Peru,1995,0,0,604.0,PER
+Polônia,1995,0,0,616.0,POL
+Porto Rico,1995,9990,14377,630.0,PRI
+Portugal,1995,0,0,620.0,PRT
+Quênia,1995,0,0,404.0,KEN
+Reino Unido,1995,419076,672817,826.0,GBR
+República Dominicana,1995,0,0,214.0,DOM
+Rússia,1995,0,0,643.0,RUS
+São Tomé e Príncipe,1995,0,0,678.0,STP
+São Vicente e Granadinas,1995,0,0,670.0,VCT
+Senegal,1995,0,0,686.0,SEN
+Serra Leoa,1995,0,0,694.0,SLE
+Singapura,1995,0,0,702.0,SGP
+Suazilândia,1995,0,0,,
+Suécia,1995,0,0,752.0,SWE
+Suíça,1995,0,0,756.0,CHE
+Suriname,1995,0,0,740.0,SUR
+Tailândia,1995,0,0,764.0,THA
+Taiwan,1995,0,0,158.0,TWN
+Tanzânia,1995,0,0,834.0,TZA
+República Tcheca,1995,0,0,203.0,CZE
+Togo,1995,0,0,768.0,TGO
+Trinidad e Tobago,1995,1715,4032,780.0,TTO
+Tunísia,1995,0,0,788.0,TUN
+Turquia,1995,0,0,792.0,TUR
+Tuvalu,1995,0,0,798.0,TUV
+Uruguai,1995,42042,21815,858.0,URY
+Vanuatu,1995,0,0,548.0,VUT
+Venezuela,1995,0,0,862.0,VEN
+Vietnã,1995,0,0,704.0,VNM
+Afeganistão,1996,0,0,4.0,AFG
+África do Sul,1996,0,0,710.0,ZAF
+Alemanha,1996,0,0,276.0,DEU
+Angola,1996,2118,6401,24.0,AGO
+Anguilla,1996,0,0,,
+Antígua e Barbuda,1996,0,0,28.0,ATG
+Antilhas Holandesas,1996,2287,5632,,
+Argentina,1996,2100,2576,32.0,ARG
+Aruba,1996,0,0,533.0,ABW
+Austrália,1996,0,0,36.0,AUS
+Áustria,1996,0,0,40.0,AUT
+Bahamas,1996,0,0,44.0,BHS
+Bangladesh,1996,0,0,50.0,BGD
+Barbados,1996,135,840,52.0,BRB
+Barein,1996,0,0,48.0,BHR
+Bélgica,1996,0,0,56.0,BEL
+Belize,1996,0,0,84.0,BLZ
+Benim,1996,0,0,204.0,BEN
+Bolívia,1996,21867,24868,68.0,BOL
+Bósnia-Herzegovina,1996,0,0,70.0,BIH
+Brasil,1996,0,0,76.0,BRA
+Bulgária,1996,0,0,100.0,BGR
+Cabo Verde,1996,0,0,132.0,CPV
+Camarões,1996,0,0,120.0,CMR
+Canadá,1996,15143,42068,124.0,CAN
+Catar,1996,0,0,634.0,QAT
+Ilhas Cayman,1996,0,0,136.0,CYM
+Chile,1996,0,0,152.0,CHL
+China,1996,0,0,156.0,CHN
+Chipre,1996,0,0,196.0,CYP
+Singapura,1996,0,0,702.0,SGP
+Colômbia,1996,0,0,170.0,COL
+Comores,1996,0,0,174.0,COM
+Congo,1996,0,0,178.0,COG
+Coréia do Sul,1996,0,0,410.0,KOR
+Costa do Marfim,1996,0,0,384.0,CIV
+Costa Rica,1996,0,0,188.0,CRI
+Croácia,1996,0,0,191.0,HRV
+Cuba,1996,0,0,192.0,CUB
+Curaçao,1996,0,0,531.0,CUW
+Dinamarca,1996,8550,25299,208.0,DNK
+Dominica,1996,0,0,212.0,DMA
+El Salvador,1996,0,0,222.0,SLV
+Emirados Árabes Unidos,1996,0,0,784.0,ARE
+Equador,1996,0,0,218.0,ECU
+Eslováquia,1996,0,0,703.0,SVK
+Espanha,1996,0,0,724.0,ESP
+Estados Unidos,1996,7874611,10170078,840.0,USA
+Estônia,1996,0,0,233.0,EST
+Filipinas,1996,0,0,608.0,PHL
+Finlândia,1996,104886,189483,246.0,FIN
+França,1996,24186,59100,250.0,FRA
+Gana,1996,0,0,288.0,GHA
+Gibraltar,1996,0,0,292.0,GIB
+Grécia,1996,0,0,300.0,GRC
+Guatemala,1996,0,0,320.0,GTM
+Guiana,1996,0,0,328.0,GUY
+Guiana Francesa,1996,0,0,254.0,GUF
+Guiné-Bissau,1996,0,0,624.0,GNB
+Guiné Equatorial,1996,0,0,226.0,GNQ
+Haiti,1996,0,0,332.0,HTI
+Honduras,1996,8953,13400,340.0,HND
+Hong Kong,1996,0,0,344.0,HKG
+Hungria,1996,0,0,348.0,HUN
+Ilha de Man,1996,0,0,833.0,IMN
+Ilhas Virgens,1996,0,0,850.0,VIR
+Índia,1996,0,0,356.0,IND
+Indonésia,1996,0,0,360.0,IDN
+Irã,1996,0,0,364.0,IRN
+Iraque,1996,0,0,368.0,IRQ
+Irlanda,1996,0,0,372.0,IRL
+Itália,1996,0,0,380.0,ITA
+Jamaica,1996,315,910,388.0,JAM
+Japão,1996,89562,76354,392.0,JPN
+Jordânia,1996,0,0,400.0,JOR
+Letônia,1996,0,0,428.0,LVA
+Líbano,1996,0,0,422.0,LBN
+Libéria,1996,0,0,430.0,LBR
+Luxemburgo,1996,0,0,442.0,LUX
+Malásia,1996,0,0,458.0,MYS
+Malta,1996,0,0,470.0,MLT
+"Marshall, Ilhas",1996,0,0,584.0,MHL
+Mauritânia,1996,0,0,478.0,MRT
+México,1996,0,0,484.0,MEX
+Montenegro,1996,0,0,499.0,MNE
+Namíbia,1996,0,0,516.0,NAM
+Nicarágua,1996,0,0,558.0,NIC
+Nigéria,1996,0,0,566.0,NGA
+Noruega,1996,15700,20266,578.0,NOR
+Nova Caledônia,1996,0,0,540.0,NCL
+Nova Zelândia,1996,0,0,554.0,NZL
+Países Baixos,1996,10071,16056,528.0,NLD
+Panamá,1996,0,0,591.0,PAN
+Paraguai,1996,5803671,3506945,600.0,PRY
+Peru,1996,0,0,604.0,PER
+Polônia,1996,0,0,616.0,POL
+Porto Rico,1996,0,0,630.0,PRI
+Portugal,1996,0,0,620.0,PRT
+Quênia,1996,0,0,404.0,KEN
+Reino Unido,1996,381488,630871,826.0,GBR
+República Dominicana,1996,17225,9944,214.0,DOM
+Rússia,1996,0,0,643.0,RUS
+São Tomé e Príncipe,1996,0,0,678.0,STP
+São Vicente e Granadinas,1996,0,0,670.0,VCT
+Senegal,1996,0,0,686.0,SEN
+Serra Leoa,1996,0,0,694.0,SLE
+Singapura,1996,0,0,702.0,SGP
+Suazilândia,1996,0,0,,
+Suécia,1996,70272,144000,752.0,SWE
+Suíça,1996,0,0,756.0,CHE
+Suriname,1996,0,0,740.0,SUR
+Tailândia,1996,0,0,764.0,THA
+Taiwan,1996,0,0,158.0,TWN
+Tanzânia,1996,0,0,834.0,TZA
+República Tcheca,1996,0,0,203.0,CZE
+Togo,1996,0,0,768.0,TGO
+Trinidad e Tobago,1996,0,0,780.0,TTO
+Tunísia,1996,0,0,788.0,TUN
+Turquia,1996,0,0,792.0,TUR
+Tuvalu,1996,0,0,798.0,TUV
+Uruguai,1996,12491,11233,858.0,URY
+Vanuatu,1996,0,0,548.0,VUT
+Venezuela,1996,0,0,862.0,VEN
+Vietnã,1996,0,0,704.0,VNM
+Afeganistão,1997,0,0,4.0,AFG
+África do Sul,1997,463,1673,710.0,ZAF
+Alemanha,1997,43,307,276.0,DEU
+Angola,1997,68494,146017,24.0,AGO
+Anguilla,1997,0,0,,
+Antígua e Barbuda,1997,0,0,28.0,ATG
+Antilhas Holandesas,1997,0,0,,
+Argentina,1997,40,369,32.0,ARG
+Aruba,1997,0,0,533.0,ABW
+Austrália,1997,0,0,36.0,AUS
+Áustria,1997,0,0,40.0,AUT
+Bahamas,1997,0,0,44.0,BHS
+Bangladesh,1997,0,0,50.0,BGD
+Barbados,1997,243,1647,52.0,BRB
+Barein,1997,0,0,48.0,BHR
+Bélgica,1997,0,0,56.0,BEL
+Belize,1997,0,0,84.0,BLZ
+Benim,1997,0,0,204.0,BEN
+Bolívia,1997,2074,2416,68.0,BOL
+Bósnia-Herzegovina,1997,0,0,70.0,BIH
+Brasil,1997,0,0,76.0,BRA
+Bulgária,1997,0,0,100.0,BGR
+Cabo Verde,1997,0,0,132.0,CPV
+Camarões,1997,0,0,120.0,CMR
+Canadá,1997,4475,9722,124.0,CAN
+Catar,1997,0,0,634.0,QAT
+Ilhas Cayman,1997,0,0,136.0,CYM
+Chile,1997,0,0,152.0,CHL
+China,1997,0,0,156.0,CHN
+Chipre,1997,0,0,196.0,CYP
+Singapura,1997,0,0,702.0,SGP
+Colômbia,1997,0,0,170.0,COL
+Comores,1997,0,0,174.0,COM
+Congo,1997,0,0,178.0,COG
+Coréia do Sul,1997,0,0,410.0,KOR
+Costa do Marfim,1997,0,0,384.0,CIV
+Costa Rica,1997,0,0,188.0,CRI
+Croácia,1997,0,0,191.0,HRV
+Cuba,1997,0,0,192.0,CUB
+Curaçao,1997,0,0,531.0,CUW
+Dinamarca,1997,19740,45641,208.0,DNK
+Dominica,1997,0,0,212.0,DMA
+El Salvador,1997,0,0,222.0,SLV
+Emirados Árabes Unidos,1997,0,0,784.0,ARE
+Equador,1997,0,0,218.0,ECU
+Eslováquia,1997,0,0,703.0,SVK
+Espanha,1997,0,0,724.0,ESP
+Estados Unidos,1997,8741057,11062358,840.0,USA
+Estônia,1997,0,0,233.0,EST
+Filipinas,1997,0,0,608.0,PHL
+Finlândia,1997,104004,196559,246.0,FIN
+França,1997,20586,48300,250.0,FRA
+Gana,1997,0,0,288.0,GHA
+Gibraltar,1997,0,0,292.0,GIB
+Grécia,1997,0,0,300.0,GRC
+Guatemala,1997,8509,13458,320.0,GTM
+Guiana,1997,0,0,328.0,GUY
+Guiana Francesa,1997,0,0,254.0,GUF
+Guiné-Bissau,1997,0,0,624.0,GNB
+Guiné Equatorial,1997,0,0,226.0,GNQ
+Haiti,1997,0,0,332.0,HTI
+Honduras,1997,0,0,340.0,HND
+Hong Kong,1997,0,0,344.0,HKG
+Hungria,1997,0,0,348.0,HUN
+Ilha de Man,1997,0,0,833.0,IMN
+Ilhas Virgens,1997,0,0,850.0,VIR
+Índia,1997,0,0,356.0,IND
+Indonésia,1997,0,0,360.0,IDN
+Irã,1997,0,0,364.0,IRN
+Iraque,1997,0,0,368.0,IRQ
+Irlanda,1997,0,0,372.0,IRL
+Itália,1997,0,0,380.0,ITA
+Jamaica,1997,0,0,388.0,JAM
+Japão,1997,294275,330025,392.0,JPN
+Jordânia,1997,0,0,400.0,JOR
+Letônia,1997,0,0,428.0,LVA
+Líbano,1997,0,0,422.0,LBN
+Libéria,1997,0,0,430.0,LBR
+Luxemburgo,1997,0,0,442.0,LUX
+Malásia,1997,0,0,458.0,MYS
+Malta,1997,0,0,470.0,MLT
+"Marshall, Ilhas",1997,0,0,584.0,MHL
+Mauritânia,1997,0,0,478.0,MRT
+México,1997,0,0,484.0,MEX
+Montenegro,1997,0,0,499.0,MNE
+Namíbia,1997,0,0,516.0,NAM
+Nicarágua,1997,0,0,558.0,NIC
+Nigéria,1997,0,0,566.0,NGA
+Noruega,1997,0,0,578.0,NOR
+Nova Caledônia,1997,0,0,540.0,NCL
+Nova Zelândia,1997,0,0,554.0,NZL
+Países Baixos,1997,0,0,528.0,NLD
+Panamá,1997,8378,12530,591.0,PAN
+Paraguai,1997,5323718,2837778,600.0,PRY
+Peru,1997,0,0,604.0,PER
+Polônia,1997,0,0,616.0,POL
+Porto Rico,1997,0,0,630.0,PRI
+Portugal,1997,0,0,620.0,PRT
+Quênia,1997,455,792,404.0,KEN
+Reino Unido,1997,634977,1024696,826.0,GBR
+República Dominicana,1997,0,0,214.0,DOM
+Rússia,1997,0,0,643.0,RUS
+São Tomé e Príncipe,1997,0,0,678.0,STP
+São Vicente e Granadinas,1997,0,0,670.0,VCT
+Senegal,1997,0,0,686.0,SEN
+Serra Leoa,1997,0,0,694.0,SLE
+Singapura,1997,0,0,702.0,SGP
+Suazilândia,1997,0,0,,
+Suécia,1997,9900,25352,752.0,SWE
+Suíça,1997,0,0,756.0,CHE
+Suriname,1997,0,0,740.0,SUR
+Tailândia,1997,0,0,764.0,THA
+Taiwan,1997,0,0,158.0,TWN
+Tanzânia,1997,0,0,834.0,TZA
+República Tcheca,1997,0,0,203.0,CZE
+Togo,1997,0,0,768.0,TGO
+Trinidad e Tobago,1997,0,0,780.0,TTO
+Tunísia,1997,0,0,788.0,TUN
+Turquia,1997,0,0,792.0,TUR
+Tuvalu,1997,0,0,798.0,TUV
+Uruguai,1997,46904,34226,858.0,URY
+Vanuatu,1997,0,0,548.0,VUT
+Venezuela,1997,0,0,862.0,VEN
+Vietnã,1997,0,0,704.0,VNM
+Afeganistão,1998,0,0,4.0,AFG
+África do Sul,1998,0,0,710.0,ZAF
+Alemanha,1998,504,700,276.0,DEU
+Angola,1998,15780,34732,24.0,AGO
+Anguilla,1998,0,0,,
+Antígua e Barbuda,1998,0,0,28.0,ATG
+Antilhas Holandesas,1998,0,0,,
+Argentina,1998,211,1178,32.0,ARG
+Aruba,1998,0,0,533.0,ABW
+Austrália,1998,0,0,36.0,AUS
+Áustria,1998,0,0,40.0,AUT
+Bahamas,1998,0,0,44.0,BHS
+Bangladesh,1998,0,0,50.0,BGD
+Barbados,1998,0,0,52.0,BRB
+Barein,1998,0,0,48.0,BHR
+Bélgica,1998,0,0,56.0,BEL
+Belize,1998,0,0,84.0,BLZ
+Benim,1998,0,0,204.0,BEN
+Bolívia,1998,3261,3644,68.0,BOL
+Bósnia-Herzegovina,1998,0,0,70.0,BIH
+Brasil,1998,0,0,76.0,BRA
+Bulgária,1998,0,0,100.0,BGR
+Cabo Verde,1998,0,0,132.0,CPV
+Camarões,1998,0,0,120.0,CMR
+Canadá,1998,4480,8956,124.0,CAN
+Catar,1998,0,0,634.0,QAT
+Ilhas Cayman,1998,0,0,136.0,CYM
+Chile,1998,0,0,152.0,CHL
+China,1998,0,0,156.0,CHN
+Chipre,1998,0,0,196.0,CYP
+Singapura,1998,0,0,702.0,SGP
+Colômbia,1998,0,0,170.0,COL
+Comores,1998,0,0,174.0,COM
+Congo,1998,0,0,178.0,COG
+Coréia do Sul,1998,0,0,410.0,KOR
+Costa do Marfim,1998,0,0,384.0,CIV
+Costa Rica,1998,0,0,188.0,CRI
+Croácia,1998,0,0,191.0,HRV
+Cuba,1998,0,0,192.0,CUB
+Curaçao,1998,0,0,531.0,CUW
+Dinamarca,1998,0,0,208.0,DNK
+Dominica,1998,0,0,212.0,DMA
+El Salvador,1998,0,0,222.0,SLV
+Emirados Árabes Unidos,1998,0,0,784.0,ARE
+Equador,1998,0,0,218.0,ECU
+Eslováquia,1998,0,0,703.0,SVK
+Espanha,1998,0,0,724.0,ESP
+Estados Unidos,1998,165010,228379,840.0,USA
+Estônia,1998,0,0,233.0,EST
+Filipinas,1998,0,0,608.0,PHL
+Finlândia,1998,58320,100440,246.0,FIN
+França,1998,0,0,250.0,FRA
+Gana,1998,0,0,288.0,GHA
+Gibraltar,1998,0,0,292.0,GIB
+Grécia,1998,0,0,300.0,GRC
+Guatemala,1998,0,0,320.0,GTM
+Guiana,1998,0,0,328.0,GUY
+Guiana Francesa,1998,0,0,254.0,GUF
+Guiné-Bissau,1998,0,0,624.0,GNB
+Guiné Equatorial,1998,0,0,226.0,GNQ
+Haiti,1998,0,0,332.0,HTI
+Honduras,1998,8963,13055,340.0,HND
+Hong Kong,1998,0,0,344.0,HKG
+Hungria,1998,0,0,348.0,HUN
+Ilha de Man,1998,0,0,833.0,IMN
+Ilhas Virgens,1998,0,0,850.0,VIR
+Índia,1998,0,0,356.0,IND
+Indonésia,1998,0,0,360.0,IDN
+Irã,1998,0,0,364.0,IRN
+Iraque,1998,0,0,368.0,IRQ
+Irlanda,1998,0,0,372.0,IRL
+Itália,1998,0,0,380.0,ITA
+Jamaica,1998,0,0,388.0,JAM
+Japão,1998,1914668,1186106,392.0,JPN
+Jordânia,1998,0,0,400.0,JOR
+Letônia,1998,0,0,428.0,LVA
+Líbano,1998,0,0,422.0,LBN
+Libéria,1998,0,0,430.0,LBR
+Luxemburgo,1998,0,0,442.0,LUX
+Malásia,1998,0,0,458.0,MYS
+Malta,1998,0,0,470.0,MLT
+"Marshall, Ilhas",1998,0,0,584.0,MHL
+Mauritânia,1998,0,0,478.0,MRT
+México,1998,0,0,484.0,MEX
+Montenegro,1998,0,0,499.0,MNE
+Namíbia,1998,0,0,516.0,NAM
+Nicarágua,1998,0,0,558.0,NIC
+Nigéria,1998,0,0,566.0,NGA
+Noruega,1998,0,0,578.0,NOR
+Nova Caledônia,1998,0,0,540.0,NCL
+Nova Zelândia,1998,0,0,554.0,NZL
+Países Baixos,1998,0,0,528.0,NLD
+Panamá,1998,0,0,591.0,PAN
+Paraguai,1998,5227268,3414233,600.0,PRY
+Peru,1998,0,0,604.0,PER
+Polônia,1998,0,0,616.0,POL
+Porto Rico,1998,0,0,630.0,PRI
+Portugal,1998,0,0,620.0,PRT
+Quênia,1998,0,0,404.0,KEN
+Reino Unido,1998,302771,482990,826.0,GBR
+República Dominicana,1998,0,0,214.0,DOM
+Rússia,1998,15,21,643.0,RUS
+São Tomé e Príncipe,1998,0,0,678.0,STP
+São Vicente e Granadinas,1998,0,0,670.0,VCT
+Senegal,1998,0,0,686.0,SEN
+Serra Leoa,1998,0,0,694.0,SLE
+Singapura,1998,0,0,702.0,SGP
+Suazilândia,1998,0,0,,
+Suécia,1998,0,0,752.0,SWE
+Suíça,1998,0,0,756.0,CHE
+Suriname,1998,0,0,740.0,SUR
+Tailândia,1998,0,0,764.0,THA
+Taiwan,1998,0,0,158.0,TWN
+Tanzânia,1998,0,0,834.0,TZA
+República Tcheca,1998,0,0,203.0,CZE
+Togo,1998,0,0,768.0,TGO
+Trinidad e Tobago,1998,0,0,780.0,TTO
+Tunísia,1998,0,0,788.0,TUN
+Turquia,1998,0,0,792.0,TUR
+Tuvalu,1998,0,0,798.0,TUV
+Uruguai,1998,49219,38244,858.0,URY
+Vanuatu,1998,0,0,548.0,VUT
+Venezuela,1998,0,0,862.0,VEN
+Vietnã,1998,0,0,704.0,VNM
+Afeganistão,1999,0,0,4.0,AFG
+África do Sul,1999,0,0,710.0,ZAF
+Alemanha,1999,0,0,276.0,DEU
+Angola,1999,10998,16738,24.0,AGO
+Anguilla,1999,0,0,,
+Antígua e Barbuda,1999,0,0,28.0,ATG
+Antilhas Holandesas,1999,0,0,,
+Argentina,1999,0,0,32.0,ARG
+Aruba,1999,0,0,533.0,ABW
+Austrália,1999,0,0,36.0,AUS
+Áustria,1999,0,0,40.0,AUT
+Bahamas,1999,0,0,44.0,BHS
+Bangladesh,1999,0,0,50.0,BGD
+Barbados,1999,0,0,52.0,BRB
+Barein,1999,0,0,48.0,BHR
+Bélgica,1999,0,0,56.0,BEL
+Belize,1999,0,0,84.0,BLZ
+Benim,1999,0,0,204.0,BEN
+Bolívia,1999,191912,67515,68.0,BOL
+Bósnia-Herzegovina,1999,0,0,70.0,BIH
+Brasil,1999,0,0,76.0,BRA
+Bulgária,1999,0,0,100.0,BGR
+Cabo Verde,1999,0,0,132.0,CPV
+Camarões,1999,0,0,120.0,CMR
+Canadá,1999,0,0,124.0,CAN
+Catar,1999,0,0,634.0,QAT
+Ilhas Cayman,1999,0,0,136.0,CYM
+Chile,1999,0,0,152.0,CHL
+China,1999,0,0,156.0,CHN
+Chipre,1999,0,0,196.0,CYP
+Singapura,1999,0,0,702.0,SGP
+Colômbia,1999,0,0,170.0,COL
+Comores,1999,0,0,174.0,COM
+Congo,1999,0,0,178.0,COG
+Coréia do Sul,1999,0,0,410.0,KOR
+Costa do Marfim,1999,0,0,384.0,CIV
+Costa Rica,1999,0,0,188.0,CRI
+Croácia,1999,0,0,191.0,HRV
+Cuba,1999,0,0,192.0,CUB
+Curaçao,1999,0,0,531.0,CUW
+Dinamarca,1999,6300,18641,208.0,DNK
+Dominica,1999,0,0,212.0,DMA
+El Salvador,1999,0,0,222.0,SLV
+Emirados Árabes Unidos,1999,0,0,784.0,ARE
+Equador,1999,0,0,218.0,ECU
+Eslováquia,1999,0,0,703.0,SVK
+Espanha,1999,0,0,724.0,ESP
+Estados Unidos,1999,1451,4293,840.0,USA
+Estônia,1999,0,0,233.0,EST
+Filipinas,1999,0,0,608.0,PHL
+Finlândia,1999,46656,94193,246.0,FIN
+França,1999,2213,4499,250.0,FRA
+Gana,1999,0,0,288.0,GHA
+Gibraltar,1999,0,0,292.0,GIB
+Grécia,1999,0,0,300.0,GRC
+Guatemala,1999,0,0,320.0,GTM
+Guiana,1999,0,0,328.0,GUY
+Guiana Francesa,1999,0,0,254.0,GUF
+Guiné-Bissau,1999,0,0,624.0,GNB
+Guiné Equatorial,1999,0,0,226.0,GNQ
+Haiti,1999,0,0,332.0,HTI
+Honduras,1999,8963,12890,340.0,HND
+Hong Kong,1999,0,0,344.0,HKG
+Hungria,1999,0,0,348.0,HUN
+Ilha de Man,1999,0,0,833.0,IMN
+Ilhas Virgens,1999,0,0,850.0,VIR
+Índia,1999,0,0,356.0,IND
+Indonésia,1999,0,0,360.0,IDN
+Irã,1999,0,0,364.0,IRN
+Iraque,1999,0,0,368.0,IRQ
+Irlanda,1999,0,0,372.0,IRL
+Itália,1999,0,0,380.0,ITA
+Jamaica,1999,0,0,388.0,JAM
+Japão,1999,1579024,885479,392.0,JPN
+Jordânia,1999,0,0,400.0,JOR
+Letônia,1999,0,0,428.0,LVA
+Líbano,1999,0,0,422.0,LBN
+Libéria,1999,0,0,430.0,LBR
+Luxemburgo,1999,0,0,442.0,LUX
+Malásia,1999,0,0,458.0,MYS
+Malta,1999,0,0,470.0,MLT
+"Marshall, Ilhas",1999,0,0,584.0,MHL
+Mauritânia,1999,0,0,478.0,MRT
+México,1999,8948,15700,484.0,MEX
+Montenegro,1999,0,0,499.0,MNE
+Namíbia,1999,0,0,516.0,NAM
+Nicarágua,1999,0,0,558.0,NIC
+Nigéria,1999,108,706,566.0,NGA
+Noruega,1999,0,0,578.0,NOR
+Nova Caledônia,1999,0,0,540.0,NCL
+Nova Zelândia,1999,0,0,554.0,NZL
+Países Baixos,1999,315,1398,528.0,NLD
+Panamá,1999,0,0,591.0,PAN
+Paraguai,1999,4753743,2732135,600.0,PRY
+Peru,1999,0,0,604.0,PER
+Polônia,1999,0,0,616.0,POL
+Porto Rico,1999,0,0,630.0,PRI
+Portugal,1999,0,0,620.0,PRT
+Quênia,1999,0,0,404.0,KEN
+Reino Unido,1999,77310,166413,826.0,GBR
+República Dominicana,1999,0,0,214.0,DOM
+Rússia,1999,0,0,643.0,RUS
+São Tomé e Príncipe,1999,0,0,678.0,STP
+São Vicente e Granadinas,1999,0,0,670.0,VCT
+Senegal,1999,0,0,686.0,SEN
+Serra Leoa,1999,0,0,694.0,SLE
+Singapura,1999,0,0,702.0,SGP
+Suazilândia,1999,0,0,,
+Suécia,1999,0,0,752.0,SWE
+Suíça,1999,0,0,756.0,CHE
+Suriname,1999,0,0,740.0,SUR
+Tailândia,1999,0,0,764.0,THA
+Taiwan,1999,0,0,158.0,TWN
+Tanzânia,1999,0,0,834.0,TZA
+República Tcheca,1999,0,0,203.0,CZE
+Togo,1999,0,0,768.0,TGO
+Trinidad e Tobago,1999,5463,12116,780.0,TTO
+Tunísia,1999,0,0,788.0,TUN
+Turquia,1999,0,0,792.0,TUR
+Tuvalu,1999,0,0,798.0,TUV
+Uruguai,1999,72533,41576,858.0,URY
+Vanuatu,1999,0,0,548.0,VUT
+Venezuela,1999,0,0,862.0,VEN
+Vietnã,1999,0,0,704.0,VNM
+Afeganistão,2000,0,0,4.0,AFG
+África do Sul,2000,0,0,710.0,ZAF
+Alemanha,2000,9900,15620,276.0,DEU
+Angola,2000,249717,368817,24.0,AGO
+Anguilla,2000,0,0,,
+Antígua e Barbuda,2000,0,0,28.0,ATG
+Antilhas Holandesas,2000,0,0,,
+Argentina,2000,0,0,32.0,ARG
+Aruba,2000,0,0,533.0,ABW
+Austrália,2000,0,0,36.0,AUS
+Áustria,2000,0,0,40.0,AUT
+Bahamas,2000,0,0,44.0,BHS
+Bangladesh,2000,0,0,50.0,BGD
+Barbados,2000,0,0,52.0,BRB
+Barein,2000,0,0,48.0,BHR
+Bélgica,2000,0,0,56.0,BEL
+Belize,2000,0,0,84.0,BLZ
+Benim,2000,0,0,204.0,BEN
+Bolívia,2000,265988,109714,68.0,BOL
+Bósnia-Herzegovina,2000,0,0,70.0,BIH
+Brasil,2000,0,0,76.0,BRA
+Bulgária,2000,0,0,100.0,BGR
+Cabo Verde,2000,0,0,132.0,CPV
+Camarões,2000,0,0,120.0,CMR
+Canadá,2000,4480,8538,124.0,CAN
+Catar,2000,0,0,634.0,QAT
+Ilhas Cayman,2000,0,0,136.0,CYM
+Chile,2000,0,0,152.0,CHL
+China,2000,0,0,156.0,CHN
+Chipre,2000,0,0,196.0,CYP
+Singapura,2000,0,0,702.0,SGP
+Colômbia,2000,0,0,170.0,COL
+Comores,2000,0,0,174.0,COM
+Congo,2000,0,0,178.0,COG
+Coréia do Sul,2000,0,0,410.0,KOR
+Costa do Marfim,2000,0,0,384.0,CIV
+Costa Rica,2000,0,0,188.0,CRI
+Croácia,2000,0,0,191.0,HRV
+Cuba,2000,0,0,192.0,CUB
+Curaçao,2000,0,0,531.0,CUW
+Dinamarca,2000,0,0,208.0,DNK
+Dominica,2000,0,0,212.0,DMA
+El Salvador,2000,0,0,222.0,SLV
+Emirados Árabes Unidos,2000,0,0,784.0,ARE
+Equador,2000,0,0,218.0,ECU
+Eslováquia,2000,0,0,703.0,SVK
+Espanha,2000,0,0,724.0,ESP
+Estados Unidos,2000,2151,4632,840.0,USA
+Estônia,2000,0,0,233.0,EST
+Filipinas,2000,0,0,608.0,PHL
+Finlândia,2000,40824,80740,246.0,FIN
+França,2000,600,1344,250.0,FRA
+Gana,2000,0,0,288.0,GHA
+Gibraltar,2000,0,0,292.0,GIB
+Grécia,2000,0,0,300.0,GRC
+Guatemala,2000,0,0,320.0,GTM
+Guiana,2000,0,0,328.0,GUY
+Guiana Francesa,2000,0,0,254.0,GUF
+Guiné-Bissau,2000,0,0,624.0,GNB
+Guiné Equatorial,2000,0,0,226.0,GNQ
+Haiti,2000,0,0,332.0,HTI
+Honduras,2000,0,0,340.0,HND
+Hong Kong,2000,0,0,344.0,HKG
+Hungria,2000,0,0,348.0,HUN
+Ilha de Man,2000,0,0,833.0,IMN
+Ilhas Virgens,2000,0,0,850.0,VIR
+Índia,2000,0,0,356.0,IND
+Indonésia,2000,0,0,360.0,IDN
+Irã,2000,0,0,364.0,IRN
+Iraque,2000,0,0,368.0,IRQ
+Irlanda,2000,0,0,372.0,IRL
+Itália,2000,0,0,380.0,ITA
+Jamaica,2000,0,0,388.0,JAM
+Japão,2000,672280,418175,392.0,JPN
+Jordânia,2000,0,0,400.0,JOR
+Letônia,2000,0,0,428.0,LVA
+Líbano,2000,0,0,422.0,LBN
+Libéria,2000,0,0,430.0,LBR
+Luxemburgo,2000,0,0,442.0,LUX
+Malásia,2000,0,0,458.0,MYS
+Malta,2000,0,0,470.0,MLT
+"Marshall, Ilhas",2000,0,0,584.0,MHL
+Mauritânia,2000,0,0,478.0,MRT
+México,2000,0,0,484.0,MEX
+Montenegro,2000,0,0,499.0,MNE
+Namíbia,2000,0,0,516.0,NAM
+Nicarágua,2000,0,0,558.0,NIC
+Nigéria,2000,396,695,566.0,NGA
+Noruega,2000,0,0,578.0,NOR
+Nova Caledônia,2000,0,0,540.0,NCL
+Nova Zelândia,2000,0,0,554.0,NZL
+Países Baixos,2000,0,0,528.0,NLD
+Panamá,2000,0,0,591.0,PAN
+Paraguai,2000,4997801,2424927,600.0,PRY
+Peru,2000,0,0,604.0,PER
+Polônia,2000,0,0,616.0,POL
+Porto Rico,2000,0,0,630.0,PRI
+Portugal,2000,0,0,620.0,PRT
+Quênia,2000,0,0,404.0,KEN
+Reino Unido,2000,0,0,826.0,GBR
+República Dominicana,2000,0,0,214.0,DOM
+Rússia,2000,0,0,643.0,RUS
+São Tomé e Príncipe,2000,0,0,678.0,STP
+São Vicente e Granadinas,2000,0,0,670.0,VCT
+Senegal,2000,0,0,686.0,SEN
+Serra Leoa,2000,0,0,694.0,SLE
+Singapura,2000,0,0,702.0,SGP
+Suazilândia,2000,0,0,,
+Suécia,2000,0,0,752.0,SWE
+Suíça,2000,0,0,756.0,CHE
+Suriname,2000,0,0,740.0,SUR
+Tailândia,2000,0,0,764.0,THA
+Taiwan,2000,0,0,158.0,TWN
+Tanzânia,2000,0,0,834.0,TZA
+República Tcheca,2000,0,0,203.0,CZE
+Togo,2000,0,0,768.0,TGO
+Trinidad e Tobago,2000,0,0,780.0,TTO
+Tunísia,2000,0,0,788.0,TUN
+Turquia,2000,0,0,792.0,TUR
+Tuvalu,2000,0,0,798.0,TUV
+Uruguai,2000,44476,30075,858.0,URY
+Vanuatu,2000,0,0,548.0,VUT
+Venezuela,2000,0,0,862.0,VEN
+Vietnã,2000,0,0,704.0,VNM
+Afeganistão,2001,0,0,4.0,AFG
+África do Sul,2001,0,0,710.0,ZAF
+Alemanha,2001,1673,11157,276.0,DEU
+Angola,2001,12150,15529,24.0,AGO
+Anguilla,2001,0,0,,
+Antígua e Barbuda,2001,0,0,28.0,ATG
+Antilhas Holandesas,2001,0,0,,
+Argentina,2001,1477,2393,32.0,ARG
+Aruba,2001,0,0,533.0,ABW
+Austrália,2001,0,0,36.0,AUS
+Áustria,2001,0,0,40.0,AUT
+Bahamas,2001,0,0,44.0,BHS
+Bangladesh,2001,0,0,50.0,BGD
+Barbados,2001,0,0,52.0,BRB
+Barein,2001,0,0,48.0,BHR
+Bélgica,2001,0,0,56.0,BEL
+Belize,2001,0,0,84.0,BLZ
+Benim,2001,0,0,204.0,BEN
+Bolívia,2001,109434,49151,68.0,BOL
+Bósnia-Herzegovina,2001,0,0,70.0,BIH
+Brasil,2001,0,0,76.0,BRA
+Bulgária,2001,0,0,100.0,BGR
+Cabo Verde,2001,0,0,132.0,CPV
+Camarões,2001,0,0,120.0,CMR
+Canadá,2001,0,0,124.0,CAN
+Catar,2001,0,0,634.0,QAT
+Ilhas Cayman,2001,0,0,136.0,CYM
+Chile,2001,0,0,152.0,CHL
+China,2001,0,0,156.0,CHN
+Chipre,2001,0,0,196.0,CYP
+Singapura,2001,0,0,702.0,SGP
+Colômbia,2001,0,0,170.0,COL
+Comores,2001,0,0,174.0,COM
+Congo,2001,0,0,178.0,COG
+Coréia do Sul,2001,0,0,410.0,KOR
+Costa do Marfim,2001,0,0,384.0,CIV
+Costa Rica,2001,0,0,188.0,CRI
+Croácia,2001,0,0,191.0,HRV
+Cuba,2001,0,0,192.0,CUB
+Curaçao,2001,0,0,531.0,CUW
+Dinamarca,2001,0,0,208.0,DNK
+Dominica,2001,0,0,212.0,DMA
+El Salvador,2001,0,0,222.0,SLV
+Emirados Árabes Unidos,2001,0,0,784.0,ARE
+Equador,2001,10666,4076,218.0,ECU
+Eslováquia,2001,0,0,703.0,SVK
+Espanha,2001,0,0,724.0,ESP
+Estados Unidos,2001,3576,7972,840.0,USA
+Estônia,2001,0,0,233.0,EST
+Filipinas,2001,0,0,608.0,PHL
+Finlândia,2001,31176,67060,246.0,FIN
+França,2001,4820,9639,250.0,FRA
+Gana,2001,259,389,288.0,GHA
+Gibraltar,2001,0,0,292.0,GIB
+Grécia,2001,0,0,300.0,GRC
+Guatemala,2001,0,0,320.0,GTM
+Guiana,2001,0,0,328.0,GUY
+Guiana Francesa,2001,0,0,254.0,GUF
+Guiné-Bissau,2001,0,0,624.0,GNB
+Guiné Equatorial,2001,0,0,226.0,GNQ
+Haiti,2001,0,0,332.0,HTI
+Honduras,2001,0,0,340.0,HND
+Hong Kong,2001,0,0,344.0,HKG
+Hungria,2001,0,0,348.0,HUN
+Ilha de Man,2001,0,0,833.0,IMN
+Ilhas Virgens,2001,0,0,850.0,VIR
+Índia,2001,0,0,356.0,IND
+Indonésia,2001,0,0,360.0,IDN
+Irã,2001,0,0,364.0,IRN
+Iraque,2001,0,0,368.0,IRQ
+Irlanda,2001,0,0,372.0,IRL
+Itália,2001,0,0,380.0,ITA
+Jamaica,2001,0,0,388.0,JAM
+Japão,2001,32073,40010,392.0,JPN
+Jordânia,2001,0,0,400.0,JOR
+Letônia,2001,0,0,428.0,LVA
+Líbano,2001,0,0,422.0,LBN
+Libéria,2001,0,0,430.0,LBR
+Luxemburgo,2001,0,0,442.0,LUX
+Malásia,2001,0,0,458.0,MYS
+Malta,2001,0,0,470.0,MLT
+"Marshall, Ilhas",2001,0,0,584.0,MHL
+Mauritânia,2001,0,0,478.0,MRT
+México,2001,0,0,484.0,MEX
+Montenegro,2001,0,0,499.0,MNE
+Namíbia,2001,0,0,516.0,NAM
+Nicarágua,2001,0,0,558.0,NIC
+Nigéria,2001,0,0,566.0,NGA
+Noruega,2001,0,0,578.0,NOR
+Nova Caledônia,2001,0,0,540.0,NCL
+Nova Zelândia,2001,0,0,554.0,NZL
+Países Baixos,2001,0,0,528.0,NLD
+Panamá,2001,0,0,591.0,PAN
+Paraguai,2001,2437964,1100645,600.0,PRY
+Peru,2001,2625,1938,604.0,PER
+Polônia,2001,0,0,616.0,POL
+Porto Rico,2001,0,0,630.0,PRI
+Portugal,2001,0,0,620.0,PRT
+Quênia,2001,0,0,404.0,KEN
+Reino Unido,2001,0,0,826.0,GBR
+República Dominicana,2001,0,0,214.0,DOM
+Rússia,2001,0,0,643.0,RUS
+São Tomé e Príncipe,2001,0,0,678.0,STP
+São Vicente e Granadinas,2001,0,0,670.0,VCT
+Senegal,2001,0,0,686.0,SEN
+Serra Leoa,2001,0,0,694.0,SLE
+Singapura,2001,0,0,702.0,SGP
+Suazilândia,2001,0,0,,
+Suécia,2001,0,0,752.0,SWE
+Suíça,2001,0,0,756.0,CHE
+Suriname,2001,0,0,740.0,SUR
+Tailândia,2001,0,0,764.0,THA
+Taiwan,2001,0,0,158.0,TWN
+Tanzânia,2001,0,0,834.0,TZA
+República Tcheca,2001,0,0,203.0,CZE
+Togo,2001,0,0,768.0,TGO
+Trinidad e Tobago,2001,0,0,780.0,TTO
+Tunísia,2001,0,0,788.0,TUN
+Turquia,2001,0,0,792.0,TUR
+Tuvalu,2001,0,0,798.0,TUV
+Uruguai,2001,6689,3270,858.0,URY
+Vanuatu,2001,0,0,548.0,VUT
+Venezuela,2001,0,0,862.0,VEN
+Vietnã,2001,0,0,704.0,VNM
+Afeganistão,2002,0,0,4.0,AFG
+África do Sul,2002,0,0,710.0,ZAF
+Alemanha,2002,1080,4626,276.0,DEU
+Angola,2002,9812,5290,24.0,AGO
+Anguilla,2002,0,0,,
+Antígua e Barbuda,2002,0,0,28.0,ATG
+Antilhas Holandesas,2002,0,0,,
+Argentina,2002,0,0,32.0,ARG
+Aruba,2002,0,0,533.0,ABW
+Austrália,2002,0,0,36.0,AUS
+Áustria,2002,0,0,40.0,AUT
+Bahamas,2002,120,480,44.0,BHS
+Bangladesh,2002,0,0,50.0,BGD
+Barbados,2002,0,0,52.0,BRB
+Barein,2002,0,0,48.0,BHR
+Bélgica,2002,1263,3900,56.0,BEL
+Belize,2002,0,0,84.0,BLZ
+Benim,2002,0,0,204.0,BEN
+Bolívia,2002,7545,8039,68.0,BOL
+Bósnia-Herzegovina,2002,0,0,70.0,BIH
+Brasil,2002,0,0,76.0,BRA
+Bulgária,2002,0,0,100.0,BGR
+Cabo Verde,2002,0,0,132.0,CPV
+Camarões,2002,0,0,120.0,CMR
+Canadá,2002,0,0,124.0,CAN
+Catar,2002,0,0,634.0,QAT
+Ilhas Cayman,2002,0,0,136.0,CYM
+Chile,2002,31,3,152.0,CHL
+China,2002,0,0,156.0,CHN
+Chipre,2002,0,0,196.0,CYP
+Singapura,2002,0,0,702.0,SGP
+Colômbia,2002,0,0,170.0,COL
+Comores,2002,0,0,174.0,COM
+Congo,2002,0,0,178.0,COG
+Coréia do Sul,2002,0,0,410.0,KOR
+Costa do Marfim,2002,0,0,384.0,CIV
+Costa Rica,2002,100,10,188.0,CRI
+Croácia,2002,0,0,191.0,HRV
+Cuba,2002,0,0,192.0,CUB
+Curaçao,2002,0,0,531.0,CUW
+Dinamarca,2002,0,0,208.0,DNK
+Dominica,2002,0,0,212.0,DMA
+El Salvador,2002,0,0,222.0,SLV
+Emirados Árabes Unidos,2002,0,0,784.0,ARE
+Equador,2002,0,0,218.0,ECU
+Eslováquia,2002,0,0,703.0,SVK
+Espanha,2002,0,0,724.0,ESP
+Estados Unidos,2002,6800,19641,840.0,USA
+Estônia,2002,0,0,233.0,EST
+Filipinas,2002,0,0,608.0,PHL
+Finlândia,2002,23328,46136,246.0,FIN
+França,2002,9000,17240,250.0,FRA
+Gana,2002,0,0,288.0,GHA
+Gibraltar,2002,0,0,292.0,GIB
+Grécia,2002,0,0,300.0,GRC
+Guatemala,2002,0,0,320.0,GTM
+Guiana,2002,0,0,328.0,GUY
+Guiana Francesa,2002,0,0,254.0,GUF
+Guiné-Bissau,2002,0,0,624.0,GNB
+Guiné Equatorial,2002,0,0,226.0,GNQ
+Haiti,2002,0,0,332.0,HTI
+Honduras,2002,7918,13470,340.0,HND
+Hong Kong,2002,0,0,344.0,HKG
+Hungria,2002,0,0,348.0,HUN
+Ilha de Man,2002,0,0,833.0,IMN
+Ilhas Virgens,2002,0,0,850.0,VIR
+Índia,2002,0,0,356.0,IND
+Indonésia,2002,0,0,360.0,IDN
+Irã,2002,0,0,364.0,IRN
+Iraque,2002,0,0,368.0,IRQ
+Irlanda,2002,0,0,372.0,IRL
+Itália,2002,0,0,380.0,ITA
+Jamaica,2002,0,0,388.0,JAM
+Japão,2002,135602,109557,392.0,JPN
+Jordânia,2002,0,0,400.0,JOR
+Letônia,2002,0,0,428.0,LVA
+Líbano,2002,0,0,422.0,LBN
+Libéria,2002,0,0,430.0,LBR
+Luxemburgo,2002,0,0,442.0,LUX
+Malásia,2002,0,0,458.0,MYS
+Malta,2002,0,0,470.0,MLT
+"Marshall, Ilhas",2002,0,0,584.0,MHL
+Mauritânia,2002,0,0,478.0,MRT
+México,2002,0,0,484.0,MEX
+Montenegro,2002,0,0,499.0,MNE
+Namíbia,2002,0,0,516.0,NAM
+Nicarágua,2002,0,0,558.0,NIC
+Nigéria,2002,0,0,566.0,NGA
+Noruega,2002,0,0,578.0,NOR
+Nova Caledônia,2002,0,0,540.0,NCL
+Nova Zelândia,2002,0,0,554.0,NZL
+Países Baixos,2002,0,0,528.0,NLD
+Panamá,2002,435,22,591.0,PAN
+Paraguai,2002,2013803,841589,600.0,PRY
+Peru,2002,5050,1008,604.0,PER
+Polônia,2002,0,0,616.0,POL
+Porto Rico,2002,0,0,630.0,PRI
+Portugal,2002,0,0,620.0,PRT
+Quênia,2002,0,0,404.0,KEN
+Reino Unido,2002,0,0,826.0,GBR
+República Dominicana,2002,0,0,214.0,DOM
+Rússia,2002,0,0,643.0,RUS
+São Tomé e Príncipe,2002,0,0,678.0,STP
+São Vicente e Granadinas,2002,0,0,670.0,VCT
+Senegal,2002,0,0,686.0,SEN
+Serra Leoa,2002,0,0,694.0,SLE
+Singapura,2002,0,0,702.0,SGP
+Suazilândia,2002,0,0,,
+Suécia,2002,0,0,752.0,SWE
+Suíça,2002,800,1920,756.0,CHE
+Suriname,2002,0,0,740.0,SUR
+Tailândia,2002,0,0,764.0,THA
+Taiwan,2002,0,0,158.0,TWN
+Tanzânia,2002,0,0,834.0,TZA
+República Tcheca,2002,0,0,203.0,CZE
+Togo,2002,0,0,768.0,TGO
+Trinidad e Tobago,2002,0,0,780.0,TTO
+Tunísia,2002,0,0,788.0,TUN
+Turquia,2002,0,0,792.0,TUR
+Tuvalu,2002,0,0,798.0,TUV
+Uruguai,2002,27350,10008,858.0,URY
+Vanuatu,2002,0,0,548.0,VUT
+Venezuela,2002,0,0,862.0,VEN
+Vietnã,2002,0,0,704.0,VNM
+Afeganistão,2003,0,0,4.0,AFG
+África do Sul,2003,0,0,710.0,ZAF
+Alemanha,2003,0,0,276.0,DEU
+Angola,2003,19937,11437,24.0,AGO
+Anguilla,2003,0,0,,
+Antígua e Barbuda,2003,0,0,28.0,ATG
+Antilhas Holandesas,2003,0,0,,
+Argentina,2003,0,0,32.0,ARG
+Aruba,2003,0,0,533.0,ABW
+Austrália,2003,0,0,36.0,AUS
+Áustria,2003,0,0,40.0,AUT
+Bahamas,2003,0,0,44.0,BHS
+Bangladesh,2003,0,0,50.0,BGD
+Barbados,2003,0,0,52.0,BRB
+Barein,2003,0,0,48.0,BHR
+Bélgica,2003,0,0,56.0,BEL
+Belize,2003,0,0,84.0,BLZ
+Benim,2003,0,0,204.0,BEN
+Bolívia,2003,0,0,68.0,BOL
+Bósnia-Herzegovina,2003,0,0,70.0,BIH
+Brasil,2003,0,0,76.0,BRA
+Bulgária,2003,0,0,100.0,BGR
+Cabo Verde,2003,0,0,132.0,CPV
+Camarões,2003,0,0,120.0,CMR
+Canadá,2003,0,0,124.0,CAN
+Catar,2003,0,0,634.0,QAT
+Ilhas Cayman,2003,0,0,136.0,CYM
+Chile,2003,0,0,152.0,CHL
+China,2003,0,0,156.0,CHN
+Chipre,2003,0,0,196.0,CYP
+Singapura,2003,0,0,702.0,SGP
+Colômbia,2003,0,0,170.0,COL
+Comores,2003,0,0,174.0,COM
+Congo,2003,0,0,178.0,COG
+Coréia do Sul,2003,0,0,410.0,KOR
+Costa do Marfim,2003,0,0,384.0,CIV
+Costa Rica,2003,31,21,188.0,CRI
+Croácia,2003,0,0,191.0,HRV
+Cuba,2003,0,0,192.0,CUB
+Curaçao,2003,0,0,531.0,CUW
+Dinamarca,2003,0,0,208.0,DNK
+Dominica,2003,0,0,212.0,DMA
+El Salvador,2003,0,0,222.0,SLV
+Emirados Árabes Unidos,2003,0,0,784.0,ARE
+Equador,2003,0,0,218.0,ECU
+Eslováquia,2003,0,0,703.0,SVK
+Espanha,2003,0,0,724.0,ESP
+Estados Unidos,2003,25467,72289,840.0,USA
+Estônia,2003,0,0,233.0,EST
+Filipinas,2003,0,0,608.0,PHL
+Finlândia,2003,17496,34602,246.0,FIN
+França,2003,0,0,250.0,FRA
+Gana,2003,270,1655,288.0,GHA
+Gibraltar,2003,0,0,292.0,GIB
+Grécia,2003,0,0,300.0,GRC
+Guatemala,2003,0,0,320.0,GTM
+Guiana,2003,0,0,328.0,GUY
+Guiana Francesa,2003,0,0,254.0,GUF
+Guiné-Bissau,2003,0,0,624.0,GNB
+Guiné Equatorial,2003,0,0,226.0,GNQ
+Haiti,2003,0,0,332.0,HTI
+Honduras,2003,0,0,340.0,HND
+Hong Kong,2003,0,0,344.0,HKG
+Hungria,2003,0,0,348.0,HUN
+Ilha de Man,2003,0,0,833.0,IMN
+Ilhas Virgens,2003,0,0,850.0,VIR
+Índia,2003,0,0,356.0,IND
+Indonésia,2003,0,0,360.0,IDN
+Irã,2003,0,0,364.0,IRN
+Iraque,2003,0,0,368.0,IRQ
+Irlanda,2003,0,0,372.0,IRL
+Itália,2003,0,0,380.0,ITA
+Jamaica,2003,0,0,388.0,JAM
+Japão,2003,166028,87286,392.0,JPN
+Jordânia,2003,0,0,400.0,JOR
+Letônia,2003,0,0,428.0,LVA
+Líbano,2003,0,0,422.0,LBN
+Libéria,2003,0,0,430.0,LBR
+Luxemburgo,2003,0,0,442.0,LUX
+Malásia,2003,0,0,458.0,MYS
+Malta,2003,0,0,470.0,MLT
+"Marshall, Ilhas",2003,0,0,584.0,MHL
+Mauritânia,2003,0,0,478.0,MRT
+México,2003,20,20,484.0,MEX
+Montenegro,2003,0,0,499.0,MNE
+Namíbia,2003,0,0,516.0,NAM
+Nicarágua,2003,0,0,558.0,NIC
+Nigéria,2003,0,0,566.0,NGA
+Noruega,2003,0,0,578.0,NOR
+Nova Caledônia,2003,0,0,540.0,NCL
+Nova Zelândia,2003,0,0,554.0,NZL
+Países Baixos,2003,0,0,528.0,NLD
+Panamá,2003,0,0,591.0,PAN
+Paraguai,2003,1121672,397471,600.0,PRY
+Peru,2003,0,0,604.0,PER
+Polônia,2003,0,0,616.0,POL
+Porto Rico,2003,0,0,630.0,PRI
+Portugal,2003,2100,1340,620.0,PRT
+Quênia,2003,0,0,404.0,KEN
+Reino Unido,2003,0,0,826.0,GBR
+República Dominicana,2003,0,0,214.0,DOM
+Rússia,2003,0,0,643.0,RUS
+São Tomé e Príncipe,2003,0,0,678.0,STP
+São Vicente e Granadinas,2003,0,0,670.0,VCT
+Senegal,2003,0,0,686.0,SEN
+Serra Leoa,2003,0,0,694.0,SLE
+Singapura,2003,0,0,702.0,SGP
+Suazilândia,2003,0,0,,
+Suécia,2003,0,0,752.0,SWE
+Suíça,2003,7614,29607,756.0,CHE
+Suriname,2003,0,0,740.0,SUR
+Tailândia,2003,0,0,764.0,THA
+Taiwan,2003,180,300,158.0,TWN
+Tanzânia,2003,0,0,834.0,TZA
+República Tcheca,2003,7370,31791,203.0,CZE
+Togo,2003,0,0,768.0,TGO
+Trinidad e Tobago,2003,10,4,780.0,TTO
+Tunísia,2003,0,0,788.0,TUN
+Turquia,2003,0,0,792.0,TUR
+Tuvalu,2003,0,0,798.0,TUV
+Uruguai,2003,12250,4701,858.0,URY
+Vanuatu,2003,0,0,548.0,VUT
+Venezuela,2003,0,0,862.0,VEN
+Vietnã,2003,0,0,704.0,VNM
+Afeganistão,2004,0,0,4.0,AFG
+África do Sul,2004,0,0,710.0,ZAF
+Alemanha,2004,13589,28140,276.0,DEU
+Angola,2004,37573,50382,24.0,AGO
+Anguilla,2004,0,0,,
+Antígua e Barbuda,2004,0,0,28.0,ATG
+Antilhas Holandesas,2004,0,0,,
+Argentina,2004,0,0,32.0,ARG
+Aruba,2004,0,0,533.0,ABW
+Austrália,2004,0,0,36.0,AUS
+Áustria,2004,0,0,40.0,AUT
+Bahamas,2004,0,0,44.0,BHS
+Bangladesh,2004,0,0,50.0,BGD
+Barbados,2004,0,0,52.0,BRB
+Barein,2004,0,0,48.0,BHR
+Bélgica,2004,0,0,56.0,BEL
+Belize,2004,0,0,84.0,BLZ
+Benim,2004,0,0,204.0,BEN
+Bolívia,2004,18536,10655,68.0,BOL
+Bósnia-Herzegovina,2004,0,0,70.0,BIH
+Brasil,2004,0,0,76.0,BRA
+Bulgária,2004,0,0,100.0,BGR
+Cabo Verde,2004,0,0,132.0,CPV
+Camarões,2004,0,0,120.0,CMR
+Canadá,2004,675,3138,124.0,CAN
+Catar,2004,0,0,634.0,QAT
+Ilhas Cayman,2004,0,0,136.0,CYM
+Chile,2004,0,0,152.0,CHL
+China,2004,404,1118,156.0,CHN
+Chipre,2004,0,0,196.0,CYP
+Singapura,2004,31,369,702.0,SGP
+Colômbia,2004,280,595,170.0,COL
+Comores,2004,0,0,174.0,COM
+Congo,2004,0,0,178.0,COG
+Coréia do Sul,2004,0,0,410.0,KOR
+Costa do Marfim,2004,0,0,384.0,CIV
+Costa Rica,2004,0,0,188.0,CRI
+Croácia,2004,0,0,191.0,HRV
+Cuba,2004,0,0,192.0,CUB
+Curaçao,2004,0,0,531.0,CUW
+Dinamarca,2004,3780,11088,208.0,DNK
+Dominica,2004,0,0,212.0,DMA
+El Salvador,2004,0,0,222.0,SLV
+Emirados Árabes Unidos,2004,0,0,784.0,ARE
+Equador,2004,0,0,218.0,ECU
+Eslováquia,2004,0,0,703.0,SVK
+Espanha,2004,0,0,724.0,ESP
+Estados Unidos,2004,98265,293491,840.0,USA
+Estônia,2004,0,0,233.0,EST
+Filipinas,2004,0,0,608.0,PHL
+Finlândia,2004,16335,32307,246.0,FIN
+França,2004,1497,7788,250.0,FRA
+Gana,2004,162,774,288.0,GHA
+Gibraltar,2004,0,0,292.0,GIB
+Grécia,2004,0,0,300.0,GRC
+Guatemala,2004,0,0,320.0,GTM
+Guiana,2004,0,0,328.0,GUY
+Guiana Francesa,2004,0,0,254.0,GUF
+Guiné-Bissau,2004,0,0,624.0,GNB
+Guiné Equatorial,2004,0,0,226.0,GNQ
+Haiti,2004,0,0,332.0,HTI
+Honduras,2004,0,0,340.0,HND
+Hong Kong,2004,0,0,344.0,HKG
+Hungria,2004,0,0,348.0,HUN
+Ilha de Man,2004,0,0,833.0,IMN
+Ilhas Virgens,2004,0,0,850.0,VIR
+Índia,2004,0,0,356.0,IND
+Indonésia,2004,0,0,360.0,IDN
+Irã,2004,0,0,364.0,IRN
+Iraque,2004,0,0,368.0,IRQ
+Irlanda,2004,0,0,372.0,IRL
+Itália,2004,420,1217,380.0,ITA
+Jamaica,2004,0,0,388.0,JAM
+Japão,2004,426482,216282,392.0,JPN
+Jordânia,2004,0,0,400.0,JOR
+Letônia,2004,0,0,428.0,LVA
+Líbano,2004,0,0,422.0,LBN
+Libéria,2004,0,0,430.0,LBR
+Luxemburgo,2004,4308,16804,442.0,LUX
+Malásia,2004,0,0,458.0,MYS
+Malta,2004,0,0,470.0,MLT
+"Marshall, Ilhas",2004,0,0,584.0,MHL
+Mauritânia,2004,0,0,478.0,MRT
+México,2004,0,0,484.0,MEX
+Montenegro,2004,0,0,499.0,MNE
+Namíbia,2004,0,0,516.0,NAM
+Nicarágua,2004,0,0,558.0,NIC
+Nigéria,2004,0,0,566.0,NGA
+Noruega,2004,0,0,578.0,NOR
+Nova Caledônia,2004,0,0,540.0,NCL
+Nova Zelândia,2004,0,0,554.0,NZL
+Países Baixos,2004,17688,29556,528.0,NLD
+Panamá,2004,360,390,591.0,PAN
+Paraguai,2004,2108658,760987,600.0,PRY
+Peru,2004,0,0,604.0,PER
+Polônia,2004,0,0,616.0,POL
+Porto Rico,2004,0,0,630.0,PRI
+Portugal,2004,16080,21864,620.0,PRT
+Quênia,2004,212,431,404.0,KEN
+Reino Unido,2004,0,0,826.0,GBR
+República Dominicana,2004,0,0,214.0,DOM
+Rússia,2004,0,0,643.0,RUS
+São Tomé e Príncipe,2004,0,0,678.0,STP
+São Vicente e Granadinas,2004,0,0,670.0,VCT
+Senegal,2004,0,0,686.0,SEN
+Serra Leoa,2004,0,0,694.0,SLE
+Singapura,2004,0,0,702.0,SGP
+Suazilândia,2004,0,0,,
+Suécia,2004,4995,12880,752.0,SWE
+Suíça,2004,5188,18199,756.0,CHE
+Suriname,2004,12026,5423,740.0,SUR
+Tailândia,2004,0,0,764.0,THA
+Taiwan,2004,0,0,158.0,TWN
+Tanzânia,2004,0,0,834.0,TZA
+República Tcheca,2004,11855,64927,203.0,CZE
+Togo,2004,0,0,768.0,TGO
+Trinidad e Tobago,2004,0,0,780.0,TTO
+Tunísia,2004,1300,1042,788.0,TUN
+Turquia,2004,0,0,792.0,TUR
+Tuvalu,2004,0,0,798.0,TUV
+Uruguai,2004,1296,766,858.0,URY
+Vanuatu,2004,0,0,548.0,VUT
+Venezuela,2004,0,0,862.0,VEN
+Vietnã,2004,0,0,704.0,VNM
+Afeganistão,2005,0,0,4.0,AFG
+África do Sul,2005,0,0,710.0,ZAF
+Alemanha,2005,57393,106702,276.0,DEU
+Angola,2005,24056,33039,24.0,AGO
+Anguilla,2005,0,0,,
+Antígua e Barbuda,2005,0,0,28.0,ATG
+Antilhas Holandesas,2005,4259,6206,,
+Argentina,2005,0,0,32.0,ARG
+Aruba,2005,0,0,533.0,ABW
+Austrália,2005,0,0,36.0,AUS
+Áustria,2005,0,0,40.0,AUT
+Bahamas,2005,0,0,44.0,BHS
+Bangladesh,2005,0,0,50.0,BGD
+Barbados,2005,0,0,52.0,BRB
+Barein,2005,0,0,48.0,BHR
+Bélgica,2005,6750,28743,56.0,BEL
+Belize,2005,0,0,84.0,BLZ
+Benim,2005,0,0,204.0,BEN
+Bolívia,2005,8306,4452,68.0,BOL
+Bósnia-Herzegovina,2005,0,0,70.0,BIH
+Brasil,2005,0,0,76.0,BRA
+Bulgária,2005,0,0,100.0,BGR
+Cabo Verde,2005,0,0,132.0,CPV
+Camarões,2005,0,0,120.0,CMR
+Canadá,2005,117,801,124.0,CAN
+Catar,2005,0,0,634.0,QAT
+Ilhas Cayman,2005,0,0,136.0,CYM
+Chile,2005,0,0,152.0,CHL
+China,2005,0,0,156.0,CHN
+Chipre,2005,0,0,196.0,CYP
+Singapura,2005,0,0,702.0,SGP
+Colômbia,2005,312,463,170.0,COL
+Comores,2005,0,0,174.0,COM
+Congo,2005,0,0,178.0,COG
+Coréia do Sul,2005,0,0,410.0,KOR
+Costa do Marfim,2005,0,0,384.0,CIV
+Costa Rica,2005,0,0,188.0,CRI
+Croácia,2005,0,0,191.0,HRV
+Cuba,2005,0,0,192.0,CUB
+Curaçao,2005,0,0,531.0,CUW
+Dinamarca,2005,29172,29405,208.0,DNK
+Dominica,2005,0,0,212.0,DMA
+El Salvador,2005,0,0,222.0,SLV
+Emirados Árabes Unidos,2005,0,0,784.0,ARE
+Equador,2005,0,0,218.0,ECU
+Eslováquia,2005,0,0,703.0,SVK
+Espanha,2005,0,0,724.0,ESP
+Estados Unidos,2005,338497,588568,840.0,USA
+Estônia,2005,0,0,233.0,EST
+Filipinas,2005,0,0,608.0,PHL
+Finlândia,2005,16830,33286,246.0,FIN
+França,2005,91166,240529,250.0,FRA
+Gana,2005,95,525,288.0,GHA
+Gibraltar,2005,0,0,292.0,GIB
+Grécia,2005,0,0,300.0,GRC
+Guatemala,2005,0,0,320.0,GTM
+Guiana,2005,0,0,328.0,GUY
+Guiana Francesa,2005,0,0,254.0,GUF
+Guiné-Bissau,2005,13000,11182,624.0,GNB
+Guiné Equatorial,2005,0,0,226.0,GNQ
+Haiti,2005,0,0,332.0,HTI
+Honduras,2005,0,0,340.0,HND
+Hong Kong,2005,0,0,344.0,HKG
+Hungria,2005,0,0,348.0,HUN
+Ilha de Man,2005,0,0,833.0,IMN
+Ilhas Virgens,2005,0,0,850.0,VIR
+Índia,2005,0,0,356.0,IND
+Indonésia,2005,0,0,360.0,IDN
+Irã,2005,0,0,364.0,IRN
+Iraque,2005,0,0,368.0,IRQ
+Irlanda,2005,0,0,372.0,IRL
+Itália,2005,54953,79397,380.0,ITA
+Jamaica,2005,0,0,388.0,JAM
+Japão,2005,561411,249932,392.0,JPN
+Jordânia,2005,0,0,400.0,JOR
+Letônia,2005,0,0,428.0,LVA
+Líbano,2005,0,0,422.0,LBN
+Libéria,2005,0,0,430.0,LBR
+Luxemburgo,2005,5850,23842,442.0,LUX
+Malásia,2005,0,0,458.0,MYS
+Malta,2005,0,0,470.0,MLT
+"Marshall, Ilhas",2005,0,0,584.0,MHL
+Mauritânia,2005,0,0,478.0,MRT
+México,2005,0,0,484.0,MEX
+Montenegro,2005,0,0,499.0,MNE
+Namíbia,2005,0,0,516.0,NAM
+Nicarágua,2005,0,0,558.0,NIC
+Nigéria,2005,2025,2600,566.0,NGA
+Noruega,2005,22361,42270,578.0,NOR
+Nova Caledônia,2005,0,0,540.0,NCL
+Nova Zelândia,2005,0,0,554.0,NZL
+Países Baixos,2005,17688,22385,528.0,NLD
+Panamá,2005,1125,1213,591.0,PAN
+Paraguai,2005,1967909,714154,600.0,PRY
+Peru,2005,0,0,604.0,PER
+Polônia,2005,9909,10184,616.0,POL
+Porto Rico,2005,0,0,630.0,PRI
+Portugal,2005,17741,28733,620.0,PRT
+Quênia,2005,7661,31314,404.0,KEN
+Reino Unido,2005,6102,25225,826.0,GBR
+República Dominicana,2005,50,1188,214.0,DOM
+Rússia,2005,177600,71988,643.0,RUS
+São Tomé e Príncipe,2005,0,0,678.0,STP
+São Vicente e Granadinas,2005,0,0,670.0,VCT
+Senegal,2005,0,0,686.0,SEN
+Serra Leoa,2005,0,0,694.0,SLE
+Singapura,2005,0,0,702.0,SGP
+Suazilândia,2005,0,0,,
+Suécia,2005,0,0,752.0,SWE
+Suíça,2005,22217,48532,756.0,CHE
+Suriname,2005,0,0,740.0,SUR
+Tailândia,2005,0,0,764.0,THA
+Taiwan,2005,0,0,158.0,TWN
+Tanzânia,2005,0,0,834.0,TZA
+República Tcheca,2005,65180,129082,203.0,CZE
+Togo,2005,0,0,768.0,TGO
+Trinidad e Tobago,2005,54,60,780.0,TTO
+Tunísia,2005,0,0,788.0,TUN
+Turquia,2005,0,0,792.0,TUR
+Tuvalu,2005,0,0,798.0,TUV
+Uruguai,2005,0,0,858.0,URY
+Vanuatu,2005,0,0,548.0,VUT
+Venezuela,2005,0,0,862.0,VEN
+Vietnã,2005,0,0,704.0,VNM
+Afeganistão,2006,0,0,4.0,AFG
+África do Sul,2006,0,0,710.0,ZAF
+Alemanha,2006,38302,89231,276.0,DEU
+Angola,2006,3766,18293,24.0,AGO
+Anguilla,2006,0,0,,
+Antígua e Barbuda,2006,0,0,28.0,ATG
+Antilhas Holandesas,2006,19116,24419,,
+Argentina,2006,0,0,32.0,ARG
+Aruba,2006,0,0,533.0,ABW
+Austrália,2006,0,0,36.0,AUS
+Áustria,2006,0,0,40.0,AUT
+Bahamas,2006,0,0,44.0,BHS
+Bangladesh,2006,0,0,50.0,BGD
+Barbados,2006,0,0,52.0,BRB
+Barein,2006,0,0,48.0,BHR
+Bélgica,2006,56571,52799,56.0,BEL
+Belize,2006,0,0,84.0,BLZ
+Benim,2006,10350,12075,204.0,BEN
+Bolívia,2006,5822,6961,68.0,BOL
+Bósnia-Herzegovina,2006,0,0,70.0,BIH
+Brasil,2006,0,0,76.0,BRA
+Bulgária,2006,0,0,100.0,BGR
+Cabo Verde,2006,0,0,132.0,CPV
+Camarões,2006,0,0,120.0,CMR
+Canadá,2006,450,2202,124.0,CAN
+Catar,2006,0,0,634.0,QAT
+Ilhas Cayman,2006,0,0,136.0,CYM
+Chile,2006,1988,2893,152.0,CHL
+China,2006,0,0,156.0,CHN
+Chipre,2006,134,96,196.0,CYP
+Singapura,2006,0,0,702.0,SGP
+Colômbia,2006,0,0,170.0,COL
+Comores,2006,0,0,174.0,COM
+Congo,2006,0,0,178.0,COG
+Coréia do Sul,2006,0,0,410.0,KOR
+Costa do Marfim,2006,0,0,384.0,CIV
+Costa Rica,2006,0,0,188.0,CRI
+Croácia,2006,0,0,191.0,HRV
+Cuba,2006,0,0,192.0,CUB
+Curaçao,2006,0,0,531.0,CUW
+Dinamarca,2006,2805,8417,208.0,DNK
+Dominica,2006,0,0,212.0,DMA
+El Salvador,2006,0,0,222.0,SLV
+Emirados Árabes Unidos,2006,363,1446,784.0,ARE
+Equador,2006,0,0,218.0,ECU
+Eslováquia,2006,0,0,703.0,SVK
+Espanha,2006,0,0,724.0,ESP
+Estados Unidos,2006,392590,591729,840.0,USA
+Estônia,2006,1974,4581,233.0,EST
+Filipinas,2006,0,0,608.0,PHL
+Finlândia,2006,11088,7920,246.0,FIN
+França,2006,17010,34838,250.0,FRA
+Gana,2006,0,0,288.0,GHA
+Gibraltar,2006,0,0,292.0,GIB
+Grécia,2006,142,1535,300.0,GRC
+Guatemala,2006,0,0,320.0,GTM
+Guiana,2006,0,0,328.0,GUY
+Guiana Francesa,2006,0,0,254.0,GUF
+Guiné-Bissau,2006,0,0,624.0,GNB
+Guiné Equatorial,2006,0,0,226.0,GNQ
+Haiti,2006,0,0,332.0,HTI
+Honduras,2006,0,0,340.0,HND
+Hong Kong,2006,0,0,344.0,HKG
+Hungria,2006,0,0,348.0,HUN
+Ilha de Man,2006,0,0,833.0,IMN
+Ilhas Virgens,2006,0,0,850.0,VIR
+Índia,2006,14,33,356.0,IND
+Indonésia,2006,0,0,360.0,IDN
+Irã,2006,0,0,364.0,IRN
+Iraque,2006,0,0,368.0,IRQ
+Irlanda,2006,0,0,372.0,IRL
+Itália,2006,2709,5423,380.0,ITA
+Jamaica,2006,0,0,388.0,JAM
+Japão,2006,325031,240334,392.0,JPN
+Jordânia,2006,0,0,400.0,JOR
+Letônia,2006,0,0,428.0,LVA
+Líbano,2006,0,0,422.0,LBN
+Libéria,2006,0,0,430.0,LBR
+Luxemburgo,2006,1220,5354,442.0,LUX
+Malásia,2006,0,0,458.0,MYS
+Malta,2006,0,0,470.0,MLT
+"Marshall, Ilhas",2006,0,0,584.0,MHL
+Mauritânia,2006,0,0,478.0,MRT
+México,2006,0,0,484.0,MEX
+Montenegro,2006,0,0,499.0,MNE
+Namíbia,2006,0,0,516.0,NAM
+Nicarágua,2006,0,0,558.0,NIC
+Nigéria,2006,0,0,566.0,NGA
+Noruega,2006,0,0,578.0,NOR
+Nova Caledônia,2006,0,0,540.0,NCL
+Nova Zelândia,2006,0,0,554.0,NZL
+Países Baixos,2006,451,1898,528.0,NLD
+Panamá,2006,13,55,591.0,PAN
+Paraguai,2006,1947106,873636,600.0,PRY
+Peru,2006,0,0,604.0,PER
+Polônia,2006,0,0,616.0,POL
+Porto Rico,2006,0,0,630.0,PRI
+Portugal,2006,17732,13200,620.0,PRT
+Quênia,2006,10600,15069,404.0,KEN
+Reino Unido,2006,38281,49826,826.0,GBR
+República Dominicana,2006,0,0,214.0,DOM
+Rússia,2006,334200,164744,643.0,RUS
+São Tomé e Príncipe,2006,0,0,678.0,STP
+São Vicente e Granadinas,2006,0,0,670.0,VCT
+Senegal,2006,0,0,686.0,SEN
+Serra Leoa,2006,0,0,694.0,SLE
+Singapura,2006,0,0,702.0,SGP
+Suazilândia,2006,0,0,,
+Suécia,2006,16120,12000,752.0,SWE
+Suíça,2006,131073,305131,756.0,CHE
+Suriname,2006,1000,2325,740.0,SUR
+Tailândia,2006,0,0,764.0,THA
+Taiwan,2006,0,0,158.0,TWN
+Tanzânia,2006,0,0,834.0,TZA
+República Tcheca,2006,24250,105576,203.0,CZE
+Togo,2006,24,21,768.0,TGO
+Trinidad e Tobago,2006,0,0,780.0,TTO
+Tunísia,2006,0,0,788.0,TUN
+Turquia,2006,0,0,792.0,TUR
+Tuvalu,2006,0,0,798.0,TUV
+Uruguai,2006,1008,1685,858.0,URY
+Vanuatu,2006,0,0,548.0,VUT
+Venezuela,2006,0,0,862.0,VEN
+Vietnã,2006,2013,2362,704.0,VNM
+Afeganistão,2007,0,0,4.0,AFG
+África do Sul,2007,0,0,710.0,ZAF
+Alemanha,2007,119512,238052,276.0,DEU
+Angola,2007,25931,49753,24.0,AGO
+Anguilla,2007,0,0,,
+Antígua e Barbuda,2007,0,0,28.0,ATG
+Antilhas Holandesas,2007,17025,17949,,
+Argentina,2007,0,0,32.0,ARG
+Aruba,2007,0,0,533.0,ABW
+Austrália,2007,60,281,36.0,AUS
+Áustria,2007,0,0,40.0,AUT
+Bahamas,2007,0,0,44.0,BHS
+Bangladesh,2007,0,0,50.0,BGD
+Barbados,2007,0,0,52.0,BRB
+Barein,2007,0,0,48.0,BHR
+Bélgica,2007,1077,3751,56.0,BEL
+Belize,2007,0,0,84.0,BLZ
+Benim,2007,0,0,204.0,BEN
+Bolívia,2007,4985,3550,68.0,BOL
+Bósnia-Herzegovina,2007,0,0,70.0,BIH
+Brasil,2007,0,0,76.0,BRA
+Bulgária,2007,0,0,100.0,BGR
+Cabo Verde,2007,0,0,132.0,CPV
+Camarões,2007,0,0,120.0,CMR
+Canadá,2007,4172,18838,124.0,CAN
+Catar,2007,0,0,634.0,QAT
+Ilhas Cayman,2007,0,0,136.0,CYM
+Chile,2007,60930,67353,152.0,CHL
+China,2007,7638,30390,156.0,CHN
+Chipre,2007,0,0,196.0,CYP
+Singapura,2007,7270,17864,702.0,SGP
+Colômbia,2007,0,0,170.0,COL
+Comores,2007,0,0,174.0,COM
+Congo,2007,0,0,178.0,COG
+Coréia do Sul,2007,1012,4650,410.0,KOR
+Costa do Marfim,2007,0,0,384.0,CIV
+Costa Rica,2007,0,0,188.0,CRI
+Croácia,2007,0,0,191.0,HRV
+Cuba,2007,2669,5118,192.0,CUB
+Curaçao,2007,0,0,531.0,CUW
+Dinamarca,2007,3480,11176,208.0,DNK
+Dominica,2007,0,0,212.0,DMA
+El Salvador,2007,0,0,222.0,SLV
+Emirados Árabes Unidos,2007,0,0,784.0,ARE
+Equador,2007,2700,3585,218.0,ECU
+Eslováquia,2007,0,0,703.0,SVK
+Espanha,2007,0,0,724.0,ESP
+Estados Unidos,2007,479269,810038,840.0,USA
+Estônia,2007,77697,54056,233.0,EST
+Filipinas,2007,0,0,608.0,PHL
+Finlândia,2007,0,0,246.0,FIN
+França,2007,6349,11231,250.0,FRA
+Gana,2007,0,0,288.0,GHA
+Gibraltar,2007,0,0,292.0,GIB
+Grécia,2007,0,0,300.0,GRC
+Guatemala,2007,0,0,320.0,GTM
+Guiana,2007,0,0,328.0,GUY
+Guiana Francesa,2007,0,0,254.0,GUF
+Guiné-Bissau,2007,0,0,624.0,GNB
+Guiné Equatorial,2007,0,0,226.0,GNQ
+Haiti,2007,0,0,332.0,HTI
+Honduras,2007,0,0,340.0,HND
+Hong Kong,2007,0,0,344.0,HKG
+Hungria,2007,0,0,348.0,HUN
+Ilha de Man,2007,0,0,833.0,IMN
+Ilhas Virgens,2007,0,0,850.0,VIR
+Índia,2007,0,0,356.0,IND
+Indonésia,2007,0,0,360.0,IDN
+Irã,2007,0,0,364.0,IRN
+Iraque,2007,0,0,368.0,IRQ
+Irlanda,2007,0,0,372.0,IRL
+Itália,2007,7209,19860,380.0,ITA
+Jamaica,2007,0,0,388.0,JAM
+Japão,2007,357943,316867,392.0,JPN
+Jordânia,2007,0,0,400.0,JOR
+Letônia,2007,0,0,428.0,LVA
+Líbano,2007,0,0,422.0,LBN
+Libéria,2007,0,0,430.0,LBR
+Luxemburgo,2007,785,2033,442.0,LUX
+Malásia,2007,0,0,458.0,MYS
+Malta,2007,0,0,470.0,MLT
+"Marshall, Ilhas",2007,0,0,584.0,MHL
+Mauritânia,2007,0,0,478.0,MRT
+México,2007,2453,15425,484.0,MEX
+Montenegro,2007,0,0,499.0,MNE
+Namíbia,2007,0,0,516.0,NAM
+Nicarágua,2007,0,0,558.0,NIC
+Nigéria,2007,0,0,566.0,NGA
+Noruega,2007,10044,10044,578.0,NOR
+Nova Caledônia,2007,0,0,540.0,NCL
+Nova Zelândia,2007,0,0,554.0,NZL
+Países Baixos,2007,181046,364751,528.0,NLD
+Panamá,2007,810,1030,591.0,PAN
+Paraguai,2007,1285459,801519,600.0,PRY
+Peru,2007,0,0,604.0,PER
+Polônia,2007,0,0,616.0,POL
+Porto Rico,2007,0,0,630.0,PRI
+Portugal,2007,109074,165282,620.0,PRT
+Quênia,2007,10600,13860,404.0,KEN
+Reino Unido,2007,84613,144244,826.0,GBR
+República Dominicana,2007,601,2438,214.0,DOM
+Rússia,2007,266400,173160,643.0,RUS
+São Tomé e Príncipe,2007,0,0,678.0,STP
+São Vicente e Granadinas,2007,0,0,670.0,VCT
+Senegal,2007,0,0,686.0,SEN
+Serra Leoa,2007,0,0,694.0,SLE
+Singapura,2007,0,0,702.0,SGP
+Suazilândia,2007,0,0,,
+Suécia,2007,919,2448,752.0,SWE
+Suíça,2007,26090,70716,756.0,CHE
+Suriname,2007,2700,4603,740.0,SUR
+Tailândia,2007,839,2020,764.0,THA
+Taiwan,2007,6377,11214,158.0,TWN
+Tanzânia,2007,0,0,834.0,TZA
+República Tcheca,2007,85303,189620,203.0,CZE
+Togo,2007,11,11,768.0,TGO
+Trinidad e Tobago,2007,0,0,780.0,TTO
+Tunísia,2007,0,0,788.0,TUN
+Turquia,2007,0,0,792.0,TUR
+Tuvalu,2007,0,0,798.0,TUV
+Uruguai,2007,0,0,858.0,URY
+Vanuatu,2007,0,0,548.0,VUT
+Venezuela,2007,20700,27370,862.0,VEN
+Vietnã,2007,0,0,704.0,VNM
+Afeganistão,2008,0,0,4.0,AFG
+África do Sul,2008,0,0,710.0,ZAF
+Alemanha,2008,265742,429970,276.0,DEU
+Angola,2008,25721,71083,24.0,AGO
+Anguilla,2008,0,0,,
+Antígua e Barbuda,2008,0,0,28.0,ATG
+Antilhas Holandesas,2008,17938,22908,,
+Argentina,2008,0,0,32.0,ARG
+Aruba,2008,0,0,533.0,ABW
+Austrália,2008,218726,99280,36.0,AUS
+Áustria,2008,0,0,40.0,AUT
+Bahamas,2008,0,0,44.0,BHS
+Bangladesh,2008,0,0,50.0,BGD
+Barbados,2008,0,0,52.0,BRB
+Barein,2008,0,0,48.0,BHR
+Bélgica,2008,3523,12969,56.0,BEL
+Belize,2008,0,0,84.0,BLZ
+Benim,2008,10350,17423,204.0,BEN
+Bolívia,2008,3979,3990,68.0,BOL
+Bósnia-Herzegovina,2008,0,0,70.0,BIH
+Brasil,2008,0,0,76.0,BRA
+Bulgária,2008,0,0,100.0,BGR
+Cabo Verde,2008,0,0,132.0,CPV
+Camarões,2008,0,0,120.0,CMR
+Canadá,2008,20949,80476,124.0,CAN
+Catar,2008,0,0,634.0,QAT
+Ilhas Cayman,2008,0,0,136.0,CYM
+Chile,2008,0,0,152.0,CHL
+China,2008,8689,25926,156.0,CHN
+Chipre,2008,0,0,196.0,CYP
+Singapura,2008,1233,4699,702.0,SGP
+Colômbia,2008,0,0,170.0,COL
+Comores,2008,0,0,174.0,COM
+Congo,2008,0,0,178.0,COG
+Coréia do Sul,2008,3520,14366,410.0,KOR
+Costa do Marfim,2008,0,0,384.0,CIV
+Costa Rica,2008,55,200,188.0,CRI
+Croácia,2008,0,0,191.0,HRV
+Cuba,2008,0,0,192.0,CUB
+Curaçao,2008,0,0,531.0,CUW
+Dinamarca,2008,518,15905,208.0,DNK
+Dominica,2008,0,0,212.0,DMA
+El Salvador,2008,0,0,222.0,SLV
+Emirados Árabes Unidos,2008,2437,12298,784.0,ARE
+Equador,2008,0,0,218.0,ECU
+Eslováquia,2008,585,16063,703.0,SVK
+Espanha,2008,2942,6834,724.0,ESP
+Estados Unidos,2008,443895,804607,840.0,USA
+Estônia,2008,4114,9730,233.0,EST
+Filipinas,2008,0,0,608.0,PHL
+Finlândia,2008,0,0,246.0,FIN
+França,2008,11078,27500,250.0,FRA
+Gana,2008,18168,25642,288.0,GHA
+Gibraltar,2008,0,0,292.0,GIB
+Grécia,2008,0,0,300.0,GRC
+Guatemala,2008,0,0,320.0,GTM
+Guiana,2008,0,0,328.0,GUY
+Guiana Francesa,2008,0,0,254.0,GUF
+Guiné-Bissau,2008,0,0,624.0,GNB
+Guiné Equatorial,2008,548,1417,226.0,GNQ
+Haiti,2008,20,20,332.0,HTI
+Honduras,2008,162,580,340.0,HND
+Hong Kong,2008,2430,13460,344.0,HKG
+Hungria,2008,0,0,348.0,HUN
+Ilha de Man,2008,0,0,833.0,IMN
+Ilhas Virgens,2008,0,0,850.0,VIR
+Índia,2008,0,0,356.0,IND
+Indonésia,2008,0,0,360.0,IDN
+Irã,2008,0,0,364.0,IRN
+Iraque,2008,0,0,368.0,IRQ
+Irlanda,2008,0,0,372.0,IRL
+Itália,2008,0,0,380.0,ITA
+Jamaica,2008,0,0,388.0,JAM
+Japão,2008,232293,178333,392.0,JPN
+Jordânia,2008,0,0,400.0,JOR
+Letônia,2008,0,0,428.0,LVA
+Líbano,2008,0,0,422.0,LBN
+Libéria,2008,0,0,430.0,LBR
+Luxemburgo,2008,13606,42341,442.0,LUX
+Malásia,2008,0,0,458.0,MYS
+Malta,2008,0,0,470.0,MLT
+"Marshall, Ilhas",2008,0,0,584.0,MHL
+Mauritânia,2008,0,0,478.0,MRT
+México,2008,0,0,484.0,MEX
+Montenegro,2008,0,0,499.0,MNE
+Namíbia,2008,340,722,516.0,NAM
+Nicarágua,2008,0,0,558.0,NIC
+Nigéria,2008,7560,10920,566.0,NGA
+Noruega,2008,0,0,578.0,NOR
+Nova Caledônia,2008,0,0,540.0,NCL
+Nova Zelândia,2008,0,0,554.0,NZL
+Países Baixos,2008,340412,783635,528.0,NLD
+Panamá,2008,1161,1882,591.0,PAN
+Paraguai,2008,2191901,1374088,600.0,PRY
+Peru,2008,0,0,604.0,PER
+Polônia,2008,20290,58353,616.0,POL
+Porto Rico,2008,0,0,630.0,PRI
+Portugal,2008,49090,48942,620.0,PRT
+Quênia,2008,0,0,404.0,KEN
+Reino Unido,2008,100097,155076,826.0,GBR
+República Dominicana,2008,0,0,214.0,DOM
+Rússia,2008,6207658,2352768,643.0,RUS
+São Tomé e Príncipe,2008,0,0,678.0,STP
+São Vicente e Granadinas,2008,0,0,670.0,VCT
+Senegal,2008,0,0,686.0,SEN
+Serra Leoa,2008,0,0,694.0,SLE
+Singapura,2008,0,0,702.0,SGP
+Suazilândia,2008,0,0,,
+Suécia,2008,26984,84564,752.0,SWE
+Suíça,2008,54384,216317,756.0,CHE
+Suriname,2008,900,1625,740.0,SUR
+Tailândia,2008,0,0,764.0,THA
+Taiwan,2008,10030,18679,158.0,TWN
+Tanzânia,2008,0,0,834.0,TZA
+República Tcheca,2008,17135,64709,203.0,CZE
+Togo,2008,5160,7800,768.0,TGO
+Trinidad e Tobago,2008,0,0,780.0,TTO
+Tunísia,2008,0,0,788.0,TUN
+Turquia,2008,0,0,792.0,TUR
+Tuvalu,2008,0,0,798.0,TUV
+Uruguai,2008,0,0,858.0,URY
+Vanuatu,2008,0,0,548.0,VUT
+Venezuela,2008,0,0,862.0,VEN
+Vietnã,2008,0,0,704.0,VNM
+Afeganistão,2009,0,0,4.0,AFG
+África do Sul,2009,0,0,710.0,ZAF
+Alemanha,2009,225086,393482,276.0,DEU
+Angola,2009,54786,84235,24.0,AGO
+Anguilla,2009,0,0,,
+Antígua e Barbuda,2009,0,0,28.0,ATG
+Antilhas Holandesas,2009,8235,10651,,
+Argentina,2009,162,4523,32.0,ARG
+Aruba,2009,0,0,533.0,ABW
+Austrália,2009,1014,9195,36.0,AUS
+Áustria,2009,0,0,40.0,AUT
+Bahamas,2009,0,0,44.0,BHS
+Bangladesh,2009,0,0,50.0,BGD
+Barbados,2009,0,0,52.0,BRB
+Barein,2009,0,0,48.0,BHR
+Bélgica,2009,125962,58764,56.0,BEL
+Belize,2009,0,0,84.0,BLZ
+Benim,2009,0,0,204.0,BEN
+Bolívia,2009,40463,20729,68.0,BOL
+Bósnia-Herzegovina,2009,0,0,70.0,BIH
+Brasil,2009,0,0,76.0,BRA
+Bulgária,2009,0,0,100.0,BGR
+Cabo Verde,2009,0,0,132.0,CPV
+Camarões,2009,0,0,120.0,CMR
+Canadá,2009,15664,73445,124.0,CAN
+Catar,2009,0,0,634.0,QAT
+Ilhas Cayman,2009,0,0,136.0,CYM
+Chile,2009,1475,4297,152.0,CHL
+China,2009,1553416,482400,156.0,CHN
+Chipre,2009,0,0,196.0,CYP
+Singapura,2009,2419,6110,702.0,SGP
+Colômbia,2009,0,0,170.0,COL
+Comores,2009,0,0,174.0,COM
+Congo,2009,0,0,178.0,COG
+Coréia do Sul,2009,0,0,410.0,KOR
+Costa do Marfim,2009,0,0,384.0,CIV
+Costa Rica,2009,0,0,188.0,CRI
+Croácia,2009,0,0,191.0,HRV
+Cuba,2009,0,0,192.0,CUB
+Curaçao,2009,0,0,531.0,CUW
+Dinamarca,2009,1980,21780,208.0,DNK
+Dominica,2009,0,0,212.0,DMA
+El Salvador,2009,55,100,222.0,SLV
+Emirados Árabes Unidos,2009,1398,4032,784.0,ARE
+Equador,2009,0,0,218.0,ECU
+Eslováquia,2009,0,0,703.0,SVK
+Espanha,2009,2181,4050,724.0,ESP
+Estados Unidos,2009,372319,660066,840.0,USA
+Estônia,2009,5438,10802,233.0,EST
+Filipinas,2009,0,0,608.0,PHL
+Finlândia,2009,0,0,246.0,FIN
+França,2009,0,0,250.0,FRA
+Gana,2009,0,0,288.0,GHA
+Gibraltar,2009,0,0,292.0,GIB
+Grécia,2009,0,0,300.0,GRC
+Guatemala,2009,20,20,320.0,GTM
+Guiana,2009,0,0,328.0,GUY
+Guiana Francesa,2009,0,0,254.0,GUF
+Guiné-Bissau,2009,0,0,624.0,GNB
+Guiné Equatorial,2009,169,272,226.0,GNQ
+Haiti,2009,4500,5863,332.0,HTI
+Honduras,2009,14,30,340.0,HND
+Hong Kong,2009,50319,27188,344.0,HKG
+Hungria,2009,0,0,348.0,HUN
+Ilha de Man,2009,0,0,833.0,IMN
+Ilhas Virgens,2009,0,0,850.0,VIR
+Índia,2009,0,0,356.0,IND
+Indonésia,2009,0,0,360.0,IDN
+Irã,2009,0,0,364.0,IRN
+Iraque,2009,0,0,368.0,IRQ
+Irlanda,2009,0,0,372.0,IRL
+Itália,2009,1817,5251,380.0,ITA
+Jamaica,2009,0,0,388.0,JAM
+Japão,2009,217974,283436,392.0,JPN
+Jordânia,2009,0,0,400.0,JOR
+Letônia,2009,0,0,428.0,LVA
+Líbano,2009,0,0,422.0,LBN
+Libéria,2009,0,0,430.0,LBR
+Luxemburgo,2009,7845,42124,442.0,LUX
+Malásia,2009,0,0,458.0,MYS
+Malta,2009,0,0,470.0,MLT
+"Marshall, Ilhas",2009,0,0,584.0,MHL
+Mauritânia,2009,0,0,478.0,MRT
+México,2009,0,0,484.0,MEX
+Montenegro,2009,0,0,499.0,MNE
+Namíbia,2009,0,0,516.0,NAM
+Nicarágua,2009,24,24,558.0,NIC
+Nigéria,2009,41,115,566.0,NGA
+Noruega,2009,0,0,578.0,NOR
+Nova Caledônia,2009,0,0,540.0,NCL
+Nova Zelândia,2009,0,0,554.0,NZL
+Países Baixos,2009,171654,136991,528.0,NLD
+Panamá,2009,24,30,591.0,PAN
+Paraguai,2009,486927,392087,600.0,PRY
+Peru,2009,0,0,604.0,PER
+Polônia,2009,6982,35797,616.0,POL
+Porto Rico,2009,0,0,630.0,PRI
+Portugal,2009,141000,168923,620.0,PRT
+Quênia,2009,0,0,404.0,KEN
+Reino Unido,2009,30092,68788,826.0,GBR
+República Dominicana,2009,0,0,214.0,DOM
+Rússia,2009,21912914,5732280,643.0,RUS
+São Tomé e Príncipe,2009,0,0,678.0,STP
+São Vicente e Granadinas,2009,0,0,670.0,VCT
+Senegal,2009,0,0,686.0,SEN
+Serra Leoa,2009,0,0,694.0,SLE
+Singapura,2009,0,0,702.0,SGP
+Suazilândia,2009,0,0,,
+Suécia,2009,28334,52826,752.0,SWE
+Suíça,2009,27653,81319,756.0,CHE
+Suriname,2009,3830,12918,740.0,SUR
+Tailândia,2009,0,0,764.0,THA
+Taiwan,2009,0,0,158.0,TWN
+Tanzânia,2009,0,0,834.0,TZA
+República Tcheca,2009,9269,43902,203.0,CZE
+Togo,2009,0,0,768.0,TGO
+Trinidad e Tobago,2009,0,0,780.0,TTO
+Tunísia,2009,0,0,788.0,TUN
+Turquia,2009,0,0,792.0,TUR
+Tuvalu,2009,0,0,798.0,TUV
+Uruguai,2009,0,0,858.0,URY
+Vanuatu,2009,0,0,548.0,VUT
+Venezuela,2009,0,0,862.0,VEN
+Vietnã,2009,743,2143,704.0,VNM
+Afeganistão,2010,0,0,4.0,AFG
+África do Sul,2010,0,0,710.0,ZAF
+Alemanha,2010,27715,138666,276.0,DEU
+Angola,2010,33557,189891,24.0,AGO
+Anguilla,2010,0,0,,
+Antígua e Barbuda,2010,0,0,28.0,ATG
+Antilhas Holandesas,2010,9810,12808,,
+Argentina,2010,0,0,32.0,ARG
+Aruba,2010,0,0,533.0,ABW
+Austrália,2010,1823,17960,36.0,AUS
+Áustria,2010,0,0,40.0,AUT
+Bahamas,2010,3175,12759,44.0,BHS
+Bangladesh,2010,0,0,50.0,BGD
+Barbados,2010,0,0,52.0,BRB
+Barein,2010,0,0,48.0,BHR
+Bélgica,2010,42532,185411,56.0,BEL
+Belize,2010,0,0,84.0,BLZ
+Benim,2010,0,0,204.0,BEN
+Bolívia,2010,54,282,68.0,BOL
+Bósnia-Herzegovina,2010,0,0,70.0,BIH
+Brasil,2010,0,0,76.0,BRA
+Bulgária,2010,0,0,100.0,BGR
+Cabo Verde,2010,11991,49366,132.0,CPV
+Camarões,2010,0,0,120.0,CMR
+Canadá,2010,0,0,124.0,CAN
+Catar,2010,0,0,634.0,QAT
+Ilhas Cayman,2010,0,0,136.0,CYM
+Chile,2010,0,0,152.0,CHL
+China,2010,795,2358,156.0,CHN
+Chipre,2010,0,0,196.0,CYP
+Singapura,2010,1533,5504,702.0,SGP
+Colômbia,2010,0,0,170.0,COL
+Comores,2010,0,0,174.0,COM
+Congo,2010,0,0,178.0,COG
+Coréia do Sul,2010,0,0,410.0,KOR
+Costa do Marfim,2010,0,0,384.0,CIV
+Costa Rica,2010,0,0,188.0,CRI
+Croácia,2010,0,0,191.0,HRV
+Cuba,2010,0,0,192.0,CUB
+Curaçao,2010,0,0,531.0,CUW
+Dinamarca,2010,7034,69161,208.0,DNK
+Dominica,2010,0,0,212.0,DMA
+El Salvador,2010,0,0,222.0,SLV
+Emirados Árabes Unidos,2010,1035,3206,784.0,ARE
+Equador,2010,0,0,218.0,ECU
+Eslováquia,2010,0,0,703.0,SVK
+Espanha,2010,0,0,724.0,ESP
+Estados Unidos,2010,228968,478630,840.0,USA
+Estônia,2010,15848,40778,233.0,EST
+Filipinas,2010,0,0,608.0,PHL
+Finlândia,2010,0,0,246.0,FIN
+França,2010,3614,18904,250.0,FRA
+Gana,2010,0,0,288.0,GHA
+Gibraltar,2010,0,0,292.0,GIB
+Grécia,2010,0,0,300.0,GRC
+Guatemala,2010,0,0,320.0,GTM
+Guiana,2010,783,3654,328.0,GUY
+Guiana Francesa,2010,0,0,254.0,GUF
+Guiné-Bissau,2010,0,0,624.0,GNB
+Guiné Equatorial,2010,410,1015,226.0,GNQ
+Haiti,2010,2700,3750,332.0,HTI
+Honduras,2010,0,0,340.0,HND
+Hong Kong,2010,0,0,344.0,HKG
+Hungria,2010,540,4103,348.0,HUN
+Ilha de Man,2010,0,0,833.0,IMN
+Ilhas Virgens,2010,0,0,850.0,VIR
+Índia,2010,0,0,356.0,IND
+Indonésia,2010,0,0,360.0,IDN
+Irã,2010,0,0,364.0,IRN
+Iraque,2010,0,0,368.0,IRQ
+Irlanda,2010,3969,42795,372.0,IRL
+Itália,2010,1458,4828,380.0,ITA
+Jamaica,2010,0,0,388.0,JAM
+Japão,2010,112178,74628,392.0,JPN
+Jordânia,2010,0,0,400.0,JOR
+Letônia,2010,0,0,428.0,LVA
+Líbano,2010,0,0,422.0,LBN
+Libéria,2010,0,0,430.0,LBR
+Luxemburgo,2010,7344,32549,442.0,LUX
+Malásia,2010,0,0,458.0,MYS
+Malta,2010,0,0,470.0,MLT
+"Marshall, Ilhas",2010,0,0,584.0,MHL
+Mauritânia,2010,0,0,478.0,MRT
+México,2010,0,0,484.0,MEX
+Montenegro,2010,0,0,499.0,MNE
+Namíbia,2010,0,0,516.0,NAM
+Nicarágua,2010,0,0,558.0,NIC
+Nigéria,2010,0,0,566.0,NGA
+Noruega,2010,0,0,578.0,NOR
+Nova Caledônia,2010,0,0,540.0,NCL
+Nova Zelândia,2010,0,0,554.0,NZL
+Países Baixos,2010,87368,302182,528.0,NLD
+Panamá,2010,0,0,591.0,PAN
+Paraguai,2010,510989,449197,600.0,PRY
+Peru,2010,0,0,604.0,PER
+Polônia,2010,20464,95198,616.0,POL
+Porto Rico,2010,0,0,630.0,PRI
+Portugal,2010,4577,18970,620.0,PRT
+Quênia,2010,0,0,404.0,KEN
+Reino Unido,2010,123624,295690,826.0,GBR
+República Dominicana,2010,0,0,214.0,DOM
+Rússia,2010,0,0,643.0,RUS
+São Tomé e Príncipe,2010,0,0,678.0,STP
+São Vicente e Granadinas,2010,0,0,670.0,VCT
+Senegal,2010,0,0,686.0,SEN
+Serra Leoa,2010,0,0,694.0,SLE
+Singapura,2010,0,0,702.0,SGP
+Suazilândia,2010,0,0,,
+Suécia,2010,0,0,752.0,SWE
+Suíça,2010,2025,21600,756.0,CHE
+Suriname,2010,1836,1269,740.0,SUR
+Tailândia,2010,0,0,764.0,THA
+Taiwan,2010,0,0,158.0,TWN
+Tanzânia,2010,0,0,834.0,TZA
+República Tcheca,2010,1091,5285,203.0,CZE
+Togo,2010,0,0,768.0,TGO
+Trinidad e Tobago,2010,0,0,780.0,TTO
+Tunísia,2010,0,0,788.0,TUN
+Turquia,2010,0,0,792.0,TUR
+Tuvalu,2010,0,0,798.0,TUV
+Uruguai,2010,914,2929,858.0,URY
+Vanuatu,2010,0,0,548.0,VUT
+Venezuela,2010,0,0,862.0,VEN
+Vietnã,2010,8820,9977,704.0,VNM
+Afeganistão,2011,0,0,4.0,AFG
+África do Sul,2011,0,0,710.0,ZAF
+Alemanha,2011,36070,144150,276.0,DEU
+Angola,2011,13889,69001,24.0,AGO
+Anguilla,2011,0,0,,
+Antígua e Barbuda,2011,0,0,28.0,ATG
+Antilhas Holandesas,2011,7335,10188,,
+Argentina,2011,13253,55460,32.0,ARG
+Aruba,2011,900,1680,533.0,ABW
+Austrália,2011,3632,40704,36.0,AUS
+Áustria,2011,0,0,40.0,AUT
+Bahamas,2011,4529,28810,44.0,BHS
+Bangladesh,2011,0,0,50.0,BGD
+Barbados,2011,0,0,52.0,BRB
+Barein,2011,0,0,48.0,BHR
+Bélgica,2011,11802,62339,56.0,BEL
+Belize,2011,0,0,84.0,BLZ
+Benim,2011,0,0,204.0,BEN
+Bolívia,2011,12775,20215,68.0,BOL
+Bósnia-Herzegovina,2011,0,0,70.0,BIH
+Brasil,2011,0,0,76.0,BRA
+Bulgária,2011,0,0,100.0,BGR
+Cabo Verde,2011,600,825,132.0,CPV
+Camarões,2011,0,0,120.0,CMR
+Canadá,2011,28906,128076,124.0,CAN
+Catar,2011,0,0,634.0,QAT
+Ilhas Cayman,2011,0,0,136.0,CYM
+Chile,2011,0,0,152.0,CHL
+China,2011,54156,334867,156.0,CHN
+Chipre,2011,0,0,196.0,CYP
+Singapura,2011,911,3317,702.0,SGP
+Colômbia,2011,0,0,170.0,COL
+Comores,2011,0,0,174.0,COM
+Congo,2011,360,570,178.0,COG
+Coréia do Sul,2011,0,0,410.0,KOR
+Costa do Marfim,2011,0,0,384.0,CIV
+Costa Rica,2011,0,0,188.0,CRI
+Croácia,2011,0,0,191.0,HRV
+Cuba,2011,2880,4899,192.0,CUB
+Curaçao,2011,0,0,531.0,CUW
+Dinamarca,2011,32797,83057,208.0,DNK
+Dominica,2011,0,0,212.0,DMA
+El Salvador,2011,0,0,222.0,SLV
+Emirados Árabes Unidos,2011,2120,6594,784.0,ARE
+Equador,2011,0,0,218.0,ECU
+Eslováquia,2011,0,0,703.0,SVK
+Espanha,2011,5206,24618,724.0,ESP
+Estados Unidos,2011,306787,1030254,840.0,USA
+Estônia,2011,450,5336,233.0,EST
+Filipinas,2011,0,0,608.0,PHL
+Finlândia,2011,12404,50394,246.0,FIN
+França,2011,0,0,250.0,FRA
+Gana,2011,0,0,288.0,GHA
+Gibraltar,2011,0,0,292.0,GIB
+Grécia,2011,0,0,300.0,GRC
+Guatemala,2011,0,0,320.0,GTM
+Guiana,2011,0,0,328.0,GUY
+Guiana Francesa,2011,0,0,254.0,GUF
+Guiné-Bissau,2011,0,0,624.0,GNB
+Guiné Equatorial,2011,956,1979,226.0,GNQ
+Haiti,2011,0,0,332.0,HTI
+Honduras,2011,0,0,340.0,HND
+Hong Kong,2011,2063,7975,344.0,HKG
+Hungria,2011,0,0,348.0,HUN
+Ilha de Man,2011,0,0,833.0,IMN
+Ilhas Virgens,2011,0,0,850.0,VIR
+Índia,2011,0,0,356.0,IND
+Indonésia,2011,0,0,360.0,IDN
+Irã,2011,0,0,364.0,IRN
+Iraque,2011,0,0,368.0,IRQ
+Irlanda,2011,5376,35690,372.0,IRL
+Itália,2011,11999,80298,380.0,ITA
+Jamaica,2011,0,0,388.0,JAM
+Japão,2011,100835,144662,392.0,JPN
+Jordânia,2011,0,0,400.0,JOR
+Letônia,2011,0,0,428.0,LVA
+Líbano,2011,0,0,422.0,LBN
+Libéria,2011,0,0,430.0,LBR
+Luxemburgo,2011,9547,65592,442.0,LUX
+Malásia,2011,0,0,458.0,MYS
+Malta,2011,0,0,470.0,MLT
+"Marshall, Ilhas",2011,0,0,584.0,MHL
+Mauritânia,2011,0,0,478.0,MRT
+México,2011,1350,7200,484.0,MEX
+Montenegro,2011,0,0,499.0,MNE
+Namíbia,2011,0,0,516.0,NAM
+Nicarágua,2011,0,0,558.0,NIC
+Nigéria,2011,54,210,566.0,NGA
+Noruega,2011,10268,78688,578.0,NOR
+Nova Caledônia,2011,0,0,540.0,NCL
+Nova Zelândia,2011,2587,7992,554.0,NZL
+Países Baixos,2011,125414,395356,528.0,NLD
+Panamá,2011,0,0,591.0,PAN
+Paraguai,2011,240168,276281,600.0,PRY
+Peru,2011,0,0,604.0,PER
+Polônia,2011,11732,50684,616.0,POL
+Porto Rico,2011,0,0,630.0,PRI
+Portugal,2011,95,1031,620.0,PRT
+Quênia,2011,0,0,404.0,KEN
+Reino Unido,2011,122629,285642,826.0,GBR
+República Dominicana,2011,0,0,214.0,DOM
+Rússia,2011,0,0,643.0,RUS
+São Tomé e Príncipe,2011,0,0,678.0,STP
+São Vicente e Granadinas,2011,0,0,670.0,VCT
+Senegal,2011,0,0,686.0,SEN
+Serra Leoa,2011,0,0,694.0,SLE
+Singapura,2011,0,0,702.0,SGP
+Suazilândia,2011,0,0,,
+Suécia,2011,1641,14476,752.0,SWE
+Suíça,2011,0,0,756.0,CHE
+Suriname,2011,3774,3735,740.0,SUR
+Tailândia,2011,0,0,764.0,THA
+Taiwan,2011,4500,10600,158.0,TWN
+Tanzânia,2011,0,0,834.0,TZA
+República Tcheca,2011,6846,37271,203.0,CZE
+Togo,2011,0,0,768.0,TGO
+Trinidad e Tobago,2011,0,0,780.0,TTO
+Tunísia,2011,0,0,788.0,TUN
+Turquia,2011,0,0,792.0,TUR
+Tuvalu,2011,0,0,798.0,TUV
+Uruguai,2011,1238,4404,858.0,URY
+Vanuatu,2011,0,0,548.0,VUT
+Venezuela,2011,0,0,862.0,VEN
+Vietnã,2011,0,0,704.0,VNM
+Afeganistão,2012,0,0,4.0,AFG
+África do Sul,2012,0,0,710.0,ZAF
+Alemanha,2012,8189,56342,276.0,DEU
+Angola,2012,2833,8861,24.0,AGO
+Anguilla,2012,0,0,,
+Antígua e Barbuda,2012,0,0,28.0,ATG
+Antilhas Holandesas,2012,9247,14081,,
+Argentina,2012,0,0,32.0,ARG
+Aruba,2012,0,0,533.0,ABW
+Austrália,2012,9345,56045,36.0,AUS
+Áustria,2012,0,0,40.0,AUT
+Bahamas,2012,1374,12087,44.0,BHS
+Bangladesh,2012,0,0,50.0,BGD
+Barbados,2012,0,0,52.0,BRB
+Barein,2012,0,0,48.0,BHR
+Bélgica,2012,16132,90718,56.0,BEL
+Belize,2012,0,0,84.0,BLZ
+Benim,2012,0,0,204.0,BEN
+Bolívia,2012,11868,16804,68.0,BOL
+Bósnia-Herzegovina,2012,0,0,70.0,BIH
+Brasil,2012,0,0,76.0,BRA
+Bulgária,2012,0,0,100.0,BGR
+Cabo Verde,2012,0,0,132.0,CPV
+Camarões,2012,0,0,120.0,CMR
+Canadá,2012,14304,146035,124.0,CAN
+Catar,2012,0,0,634.0,QAT
+Ilhas Cayman,2012,0,0,136.0,CYM
+Chile,2012,8550,15438,152.0,CHL
+China,2012,87905,642177,156.0,CHN
+Chipre,2012,0,0,196.0,CYP
+Singapura,2012,1212,5310,702.0,SGP
+Colômbia,2012,0,0,170.0,COL
+Comores,2012,0,0,174.0,COM
+Congo,2012,0,0,178.0,COG
+Coréia do Sul,2012,0,0,410.0,KOR
+Costa do Marfim,2012,0,0,384.0,CIV
+Costa Rica,2012,0,0,188.0,CRI
+Croácia,2012,0,0,191.0,HRV
+Cuba,2012,0,0,192.0,CUB
+Curaçao,2012,0,0,531.0,CUW
+Dinamarca,2012,4716,23802,208.0,DNK
+Dominica,2012,0,0,212.0,DMA
+El Salvador,2012,0,0,222.0,SLV
+Emirados Árabes Unidos,2012,675,3300,784.0,ARE
+Equador,2012,0,0,218.0,ECU
+Eslováquia,2012,0,0,703.0,SVK
+Espanha,2012,0,0,724.0,ESP
+Estados Unidos,2012,146585,303986,840.0,USA
+Estônia,2012,3321,19384,233.0,EST
+Filipinas,2012,0,0,608.0,PHL
+Finlândia,2012,17100,67959,246.0,FIN
+França,2012,195604,185791,250.0,FRA
+Gana,2012,0,0,288.0,GHA
+Gibraltar,2012,0,0,292.0,GIB
+Grécia,2012,0,0,300.0,GRC
+Guatemala,2012,0,0,320.0,GTM
+Guiana,2012,0,0,328.0,GUY
+Guiana Francesa,2012,0,0,254.0,GUF
+Guiné-Bissau,2012,0,0,624.0,GNB
+Guiné Equatorial,2012,819,2530,226.0,GNQ
+Haiti,2012,0,0,332.0,HTI
+Honduras,2012,0,0,340.0,HND
+Hong Kong,2012,1609,7653,344.0,HKG
+Hungria,2012,0,0,348.0,HUN
+Ilha de Man,2012,0,0,833.0,IMN
+Ilhas Virgens,2012,0,0,850.0,VIR
+Índia,2012,0,0,356.0,IND
+Indonésia,2012,0,0,360.0,IDN
+Irã,2012,0,0,364.0,IRN
+Iraque,2012,0,0,368.0,IRQ
+Irlanda,2012,0,0,372.0,IRL
+Itália,2012,792,5622,380.0,ITA
+Jamaica,2012,0,0,388.0,JAM
+Japão,2012,29281,116961,392.0,JPN
+Jordânia,2012,0,0,400.0,JOR
+Letônia,2012,0,0,428.0,LVA
+Líbano,2012,0,0,422.0,LBN
+Libéria,2012,0,0,430.0,LBR
+Luxemburgo,2012,2444,16547,442.0,LUX
+Malásia,2012,0,0,458.0,MYS
+Malta,2012,0,0,470.0,MLT
+"Marshall, Ilhas",2012,0,0,584.0,MHL
+Mauritânia,2012,0,0,478.0,MRT
+México,2012,0,0,484.0,MEX
+Montenegro,2012,0,0,499.0,MNE
+Namíbia,2012,0,0,516.0,NAM
+Nicarágua,2012,0,0,558.0,NIC
+Nigéria,2012,6449,10196,566.0,NGA
+Noruega,2012,5104,31515,578.0,NOR
+Nova Caledônia,2012,0,0,540.0,NCL
+Nova Zelândia,2012,2364,8817,554.0,NZL
+Países Baixos,2012,134879,539641,528.0,NLD
+Panamá,2012,39,2262,591.0,PAN
+Paraguai,2012,354824,428279,600.0,PRY
+Peru,2012,0,0,604.0,PER
+Polônia,2012,21663,89158,616.0,POL
+Porto Rico,2012,0,0,630.0,PRI
+Portugal,2012,47172,47022,620.0,PRT
+Quênia,2012,94,458,404.0,KEN
+Reino Unido,2012,82937,334856,826.0,GBR
+República Dominicana,2012,0,0,214.0,DOM
+Rússia,2012,4528176,2103968,643.0,RUS
+São Tomé e Príncipe,2012,0,0,678.0,STP
+São Vicente e Granadinas,2012,0,0,670.0,VCT
+Senegal,2012,0,0,686.0,SEN
+Serra Leoa,2012,0,0,694.0,SLE
+Singapura,2012,0,0,702.0,SGP
+Suazilândia,2012,0,0,,
+Suécia,2012,2705,17280,752.0,SWE
+Suíça,2012,4014,47240,756.0,CHE
+Suriname,2012,396,1288,740.0,SUR
+Tailândia,2012,0,0,764.0,THA
+Taiwan,2012,0,0,158.0,TWN
+Tanzânia,2012,0,0,834.0,TZA
+República Tcheca,2012,7960,27789,203.0,CZE
+Togo,2012,0,0,768.0,TGO
+Trinidad e Tobago,2012,531,2720,780.0,TTO
+Tunísia,2012,0,0,788.0,TUN
+Turquia,2012,0,0,792.0,TUR
+Tuvalu,2012,0,0,798.0,TUV
+Uruguai,2012,1135,3879,858.0,URY
+Vanuatu,2012,0,0,548.0,VUT
+Venezuela,2012,1029,7492,862.0,VEN
+Vietnã,2012,0,0,704.0,VNM
+Afeganistão,2013,0,0,4.0,AFG
+África do Sul,2013,0,0,710.0,ZAF
+Alemanha,2013,61699,265978,276.0,DEU
+Angola,2013,1573,9300,24.0,AGO
+Anguilla,2013,0,0,,
+Antígua e Barbuda,2013,0,0,28.0,ATG
+Antilhas Holandesas,2013,11281,19565,,
+Argentina,2013,0,0,32.0,ARG
+Aruba,2013,0,0,533.0,ABW
+Austrália,2013,16707,101715,36.0,AUS
+Áustria,2013,0,0,40.0,AUT
+Bahamas,2013,581,5145,44.0,BHS
+Bangladesh,2013,0,0,50.0,BGD
+Barbados,2013,0,0,52.0,BRB
+Barein,2013,0,0,48.0,BHR
+Bélgica,2013,22461,95893,56.0,BEL
+Belize,2013,0,0,84.0,BLZ
+Benim,2013,0,0,204.0,BEN
+Bolívia,2013,19147,25998,68.0,BOL
+Bósnia-Herzegovina,2013,0,0,70.0,BIH
+Brasil,2013,0,0,76.0,BRA
+Bulgária,2013,0,0,100.0,BGR
+Cabo Verde,2013,0,0,132.0,CPV
+Camarões,2013,0,0,120.0,CMR
+Canadá,2013,25329,174643,124.0,CAN
+Catar,2013,0,0,634.0,QAT
+Ilhas Cayman,2013,0,0,136.0,CYM
+Chile,2013,0,0,152.0,CHL
+China,2013,40929,279956,156.0,CHN
+Chipre,2013,0,0,196.0,CYP
+Singapura,2013,766,5779,702.0,SGP
+Colômbia,2013,8,30,170.0,COL
+Comores,2013,0,0,174.0,COM
+Congo,2013,0,0,178.0,COG
+Coréia do Sul,2013,0,0,410.0,KOR
+Costa do Marfim,2013,0,0,384.0,CIV
+Costa Rica,2013,0,0,188.0,CRI
+Croácia,2013,0,0,191.0,HRV
+Cuba,2013,0,0,192.0,CUB
+Curaçao,2013,0,0,531.0,CUW
+Dinamarca,2013,17892,101915,208.0,DNK
+Dominica,2013,0,0,212.0,DMA
+El Salvador,2013,0,0,222.0,SLV
+Emirados Árabes Unidos,2013,0,0,784.0,ARE
+Equador,2013,0,0,218.0,ECU
+Eslováquia,2013,0,0,703.0,SVK
+Espanha,2013,1972980,3748940,724.0,ESP
+Estados Unidos,2013,245368,786556,840.0,USA
+Estônia,2013,0,0,233.0,EST
+Filipinas,2013,0,0,608.0,PHL
+Finlândia,2013,36682,283114,246.0,FIN
+França,2013,6885,42256,250.0,FRA
+Gana,2013,0,0,288.0,GHA
+Gibraltar,2013,0,0,292.0,GIB
+Grécia,2013,0,0,300.0,GRC
+Guatemala,2013,0,0,320.0,GTM
+Guiana,2013,0,0,328.0,GUY
+Guiana Francesa,2013,0,0,254.0,GUF
+Guiné-Bissau,2013,0,0,624.0,GNB
+Guiné Equatorial,2013,1108,5336,226.0,GNQ
+Haiti,2013,0,0,332.0,HTI
+Honduras,2013,0,0,340.0,HND
+Hong Kong,2013,16013,61224,344.0,HKG
+Hungria,2013,0,0,348.0,HUN
+Ilha de Man,2013,0,0,833.0,IMN
+Ilhas Virgens,2013,0,0,850.0,VIR
+Índia,2013,0,0,356.0,IND
+Indonésia,2013,0,0,360.0,IDN
+Irã,2013,0,0,364.0,IRN
+Iraque,2013,0,0,368.0,IRQ
+Irlanda,2013,0,0,372.0,IRL
+Itália,2013,1710,11967,380.0,ITA
+Jamaica,2013,0,0,388.0,JAM
+Japão,2013,91988,429088,392.0,JPN
+Jordânia,2013,0,0,400.0,JOR
+Letônia,2013,0,0,428.0,LVA
+Líbano,2013,0,0,422.0,LBN
+Libéria,2013,0,0,430.0,LBR
+Luxemburgo,2013,5135,29474,442.0,LUX
+Malásia,2013,0,0,458.0,MYS
+Malta,2013,0,0,470.0,MLT
+"Marshall, Ilhas",2013,0,0,584.0,MHL
+Mauritânia,2013,0,0,478.0,MRT
+México,2013,0,0,484.0,MEX
+Montenegro,2013,0,0,499.0,MNE
+Namíbia,2013,0,0,516.0,NAM
+Nicarágua,2013,0,0,558.0,NIC
+Nigéria,2013,1350,2245,566.0,NGA
+Noruega,2013,2375,19008,578.0,NOR
+Nova Caledônia,2013,0,0,540.0,NCL
+Nova Zelândia,2013,1004,4092,554.0,NZL
+Países Baixos,2013,57792,255690,528.0,NLD
+Panamá,2013,0,0,591.0,PAN
+Paraguai,2013,481564,680828,600.0,PRY
+Peru,2013,0,0,604.0,PER
+Polônia,2013,19249,90960,616.0,POL
+Porto Rico,2013,0,0,630.0,PRI
+Portugal,2013,23810,17627,620.0,PRT
+Quênia,2013,6,4,404.0,KEN
+Reino Unido,2013,59161,305005,826.0,GBR
+República Dominicana,2013,0,0,214.0,DOM
+Rússia,2013,5893291,14795694,643.0,RUS
+São Tomé e Príncipe,2013,0,0,678.0,STP
+São Vicente e Granadinas,2013,0,0,670.0,VCT
+Senegal,2013,0,0,686.0,SEN
+Serra Leoa,2013,0,0,694.0,SLE
+Singapura,2013,0,0,702.0,SGP
+Suazilândia,2013,0,0,,
+Suécia,2013,3195,20183,752.0,SWE
+Suíça,2013,2997,29785,756.0,CHE
+Suriname,2013,1800,2960,740.0,SUR
+Tailândia,2013,0,0,764.0,THA
+Taiwan,2013,0,0,158.0,TWN
+Tanzânia,2013,0,0,834.0,TZA
+República Tcheca,2013,3697,23549,203.0,CZE
+Togo,2013,0,0,768.0,TGO
+Trinidad e Tobago,2013,0,0,780.0,TTO
+Tunísia,2013,0,0,788.0,TUN
+Turquia,2013,0,0,792.0,TUR
+Tuvalu,2013,0,0,798.0,TUV
+Uruguai,2013,1526,13343,858.0,URY
+Vanuatu,2013,0,0,548.0,VUT
+Venezuela,2013,0,0,862.0,VEN
+Vietnã,2013,0,0,704.0,VNM
+Afeganistão,2014,0,0,4.0,AFG
+África do Sul,2014,0,0,710.0,ZAF
+Alemanha,2014,213348,761653,276.0,DEU
+Angola,2014,12182,23124,24.0,AGO
+Anguilla,2014,0,0,,
+Antígua e Barbuda,2014,0,0,28.0,ATG
+Antilhas Holandesas,2014,4455,7169,,
+Argentina,2014,20385,95130,32.0,ARG
+Aruba,2014,450,755,533.0,ABW
+Austrália,2014,6308,43709,36.0,AUS
+Áustria,2014,0,0,40.0,AUT
+Bahamas,2014,0,0,44.0,BHS
+Bangladesh,2014,0,0,50.0,BGD
+Barbados,2014,0,0,52.0,BRB
+Barein,2014,0,0,48.0,BHR
+Bélgica,2014,151320,704093,56.0,BEL
+Belize,2014,0,0,84.0,BLZ
+Benim,2014,0,0,204.0,BEN
+Bolívia,2014,12534,18303,68.0,BOL
+Bósnia-Herzegovina,2014,0,0,70.0,BIH
+Brasil,2014,0,0,76.0,BRA
+Bulgária,2014,0,0,100.0,BGR
+Cabo Verde,2014,0,0,132.0,CPV
+Camarões,2014,0,0,120.0,CMR
+Canadá,2014,35082,226875,124.0,CAN
+Catar,2014,0,0,634.0,QAT
+Ilhas Cayman,2014,0,0,136.0,CYM
+Chile,2014,0,0,152.0,CHL
+China,2014,64040,455340,156.0,CHN
+Chipre,2014,0,0,196.0,CYP
+Singapura,2014,541,3887,702.0,SGP
+Colômbia,2014,0,0,170.0,COL
+Comores,2014,0,0,174.0,COM
+Congo,2014,0,0,178.0,COG
+Coréia do Sul,2014,0,0,410.0,KOR
+Costa do Marfim,2014,0,0,384.0,CIV
+Costa Rica,2014,0,0,188.0,CRI
+Croácia,2014,0,0,191.0,HRV
+Cuba,2014,38875,43200,192.0,CUB
+Curaçao,2014,0,0,531.0,CUW
+Dinamarca,2014,3240,16871,208.0,DNK
+Dominica,2014,0,0,212.0,DMA
+El Salvador,2014,0,0,222.0,SLV
+Emirados Árabes Unidos,2014,640,3381,784.0,ARE
+Equador,2014,0,0,218.0,ECU
+Eslováquia,2014,0,0,703.0,SVK
+Espanha,2014,0,0,724.0,ESP
+Estados Unidos,2014,222267,494216,840.0,USA
+Estônia,2014,0,0,233.0,EST
+Filipinas,2014,0,0,608.0,PHL
+Finlândia,2014,12960,94962,246.0,FIN
+França,2014,33755,167807,250.0,FRA
+Gana,2014,0,0,288.0,GHA
+Gibraltar,2014,0,0,292.0,GIB
+Grécia,2014,0,0,300.0,GRC
+Guatemala,2014,0,0,320.0,GTM
+Guiana,2014,0,0,328.0,GUY
+Guiana Francesa,2014,0,0,254.0,GUF
+Guiné-Bissau,2014,0,0,624.0,GNB
+Guiné Equatorial,2014,5646,11983,226.0,GNQ
+Haiti,2014,0,0,332.0,HTI
+Honduras,2014,0,0,340.0,HND
+Hong Kong,2014,18130,63534,344.0,HKG
+Hungria,2014,0,0,348.0,HUN
+Ilha de Man,2014,0,0,833.0,IMN
+Ilhas Virgens,2014,0,0,850.0,VIR
+Índia,2014,0,0,356.0,IND
+Indonésia,2014,0,0,360.0,IDN
+Irã,2014,0,0,364.0,IRN
+Iraque,2014,0,0,368.0,IRQ
+Irlanda,2014,0,0,372.0,IRL
+Itália,2014,604,2492,380.0,ITA
+Jamaica,2014,0,0,388.0,JAM
+Japão,2014,106426,401774,392.0,JPN
+Jordânia,2014,0,0,400.0,JOR
+Letônia,2014,0,0,428.0,LVA
+Líbano,2014,0,0,422.0,LBN
+Libéria,2014,0,0,430.0,LBR
+Luxemburgo,2014,8281,52400,442.0,LUX
+Malásia,2014,0,0,458.0,MYS
+Malta,2014,0,0,470.0,MLT
+"Marshall, Ilhas",2014,0,0,584.0,MHL
+Mauritânia,2014,0,0,478.0,MRT
+México,2014,1521,24336,484.0,MEX
+Montenegro,2014,0,0,499.0,MNE
+Namíbia,2014,0,0,516.0,NAM
+Nicarágua,2014,0,0,558.0,NIC
+Nigéria,2014,0,0,566.0,NGA
+Noruega,2014,7179,50464,578.0,NOR
+Nova Caledônia,2014,0,0,540.0,NCL
+Nova Zelândia,2014,2800,13675,554.0,NZL
+Países Baixos,2014,165289,773767,528.0,NLD
+Panamá,2014,0,0,591.0,PAN
+Paraguai,2014,521847,908028,600.0,PRY
+Peru,2014,0,0,604.0,PER
+Polônia,2014,30181,107957,616.0,POL
+Porto Rico,2014,0,0,630.0,PRI
+Portugal,2014,71544,79141,620.0,PRT
+Quênia,2014,0,0,404.0,KEN
+Reino Unido,2014,305807,1373747,826.0,GBR
+República Dominicana,2014,0,0,214.0,DOM
+Rússia,2014,190656,61440,643.0,RUS
+São Tomé e Príncipe,2014,0,0,678.0,STP
+São Vicente e Granadinas,2014,0,0,670.0,VCT
+Senegal,2014,0,0,686.0,SEN
+Serra Leoa,2014,0,0,694.0,SLE
+Singapura,2014,0,0,702.0,SGP
+Suazilândia,2014,0,0,,
+Suécia,2014,10404,51057,752.0,SWE
+Suíça,2014,27933,231762,756.0,CHE
+Suriname,2014,6,19,740.0,SUR
+Tailândia,2014,0,0,764.0,THA
+Taiwan,2014,12519,67907,158.0,TWN
+Tanzânia,2014,0,0,834.0,TZA
+República Tcheca,2014,4500,35005,203.0,CZE
+Togo,2014,0,0,768.0,TGO
+Trinidad e Tobago,2014,360,1600,780.0,TTO
+Tunísia,2014,0,0,788.0,TUN
+Turquia,2014,0,0,792.0,TUR
+Tuvalu,2014,0,0,798.0,TUV
+Uruguai,2014,0,0,858.0,URY
+Vanuatu,2014,0,0,548.0,VUT
+Venezuela,2014,14,232,862.0,VEN
+Vietnã,2014,0,0,704.0,VNM
+Afeganistão,2015,0,0,4.0,AFG
+África do Sul,2015,0,0,710.0,ZAF
+Alemanha,2015,10680,44780,276.0,DEU
+Angola,2015,1908,17089,24.0,AGO
+Anguilla,2015,0,0,,
+Antígua e Barbuda,2015,0,0,28.0,ATG
+Antilhas Holandesas,2015,6660,10545,,
+Argentina,2015,0,0,32.0,ARG
+Aruba,2015,0,0,533.0,ABW
+Austrália,2015,7437,48011,36.0,AUS
+Áustria,2015,0,0,40.0,AUT
+Bahamas,2015,0,0,44.0,BHS
+Bangladesh,2015,0,0,50.0,BGD
+Barbados,2015,0,0,52.0,BRB
+Barein,2015,0,0,48.0,BHR
+Bélgica,2015,4473,26399,56.0,BEL
+Belize,2015,0,0,84.0,BLZ
+Benim,2015,0,0,204.0,BEN
+Bolívia,2015,10674,12990,68.0,BOL
+Bósnia-Herzegovina,2015,0,0,70.0,BIH
+Brasil,2015,0,0,76.0,BRA
+Bulgária,2015,0,0,100.0,BGR
+Cabo Verde,2015,0,0,132.0,CPV
+Camarões,2015,0,0,120.0,CMR
+Canadá,2015,24547,118394,124.0,CAN
+Catar,2015,0,0,634.0,QAT
+Ilhas Cayman,2015,0,0,136.0,CYM
+Chile,2015,0,0,152.0,CHL
+China,2015,47609,222866,156.0,CHN
+Chipre,2015,0,0,196.0,CYP
+Singapura,2015,1116,2774,702.0,SGP
+Colômbia,2015,0,0,170.0,COL
+Comores,2015,0,0,174.0,COM
+Congo,2015,0,0,178.0,COG
+Coréia do Sul,2015,0,0,410.0,KOR
+Costa do Marfim,2015,0,0,384.0,CIV
+Costa Rica,2015,0,0,188.0,CRI
+Croácia,2015,0,0,191.0,HRV
+Cuba,2015,97965,108864,192.0,CUB
+Curaçao,2015,0,0,531.0,CUW
+Dinamarca,2015,7080,29306,208.0,DNK
+Dominica,2015,0,0,212.0,DMA
+El Salvador,2015,0,0,222.0,SLV
+Emirados Árabes Unidos,2015,765,3740,784.0,ARE
+Equador,2015,0,0,218.0,ECU
+Eslováquia,2015,0,0,703.0,SVK
+Espanha,2015,0,0,724.0,ESP
+Estados Unidos,2015,195896,524109,840.0,USA
+Estônia,2015,0,0,233.0,EST
+Filipinas,2015,0,0,608.0,PHL
+Finlândia,2015,0,0,246.0,FIN
+França,2015,1596,4749,250.0,FRA
+Gana,2015,0,0,288.0,GHA
+Gibraltar,2015,0,0,292.0,GIB
+Grécia,2015,0,0,300.0,GRC
+Guatemala,2015,0,0,320.0,GTM
+Guiana,2015,0,0,328.0,GUY
+Guiana Francesa,2015,0,0,254.0,GUF
+Guiné-Bissau,2015,0,0,624.0,GNB
+Guiné Equatorial,2015,0,0,226.0,GNQ
+Haiti,2015,0,0,332.0,HTI
+Honduras,2015,0,0,340.0,HND
+Hong Kong,2015,1229,7837,344.0,HKG
+Hungria,2015,0,0,348.0,HUN
+Ilha de Man,2015,0,0,833.0,IMN
+Ilhas Virgens,2015,0,0,850.0,VIR
+Índia,2015,0,0,356.0,IND
+Indonésia,2015,0,0,360.0,IDN
+Irã,2015,0,0,364.0,IRN
+Iraque,2015,0,0,368.0,IRQ
+Irlanda,2015,0,0,372.0,IRL
+Itália,2015,0,0,380.0,ITA
+Jamaica,2015,0,0,388.0,JAM
+Japão,2015,31597,87853,392.0,JPN
+Jordânia,2015,0,0,400.0,JOR
+Letônia,2015,0,0,428.0,LVA
+Líbano,2015,0,0,422.0,LBN
+Libéria,2015,0,0,430.0,LBR
+Luxemburgo,2015,2295,17358,442.0,LUX
+Malásia,2015,0,0,458.0,MYS
+Malta,2015,0,0,470.0,MLT
+"Marshall, Ilhas",2015,0,0,584.0,MHL
+Mauritânia,2015,0,0,478.0,MRT
+México,2015,0,0,484.0,MEX
+Montenegro,2015,0,0,499.0,MNE
+Namíbia,2015,0,0,516.0,NAM
+Nicarágua,2015,0,0,558.0,NIC
+Nigéria,2015,0,0,566.0,NGA
+Noruega,2015,1058,6021,578.0,NOR
+Nova Caledônia,2015,0,0,540.0,NCL
+Nova Zelândia,2015,809,3476,554.0,NZL
+Países Baixos,2015,44987,186464,528.0,NLD
+Panamá,2015,0,0,591.0,PAN
+Paraguai,2015,495428,741370,600.0,PRY
+Peru,2015,0,0,604.0,PER
+Polônia,2015,11654,42781,616.0,POL
+Porto Rico,2015,0,0,630.0,PRI
+Portugal,2015,47736,42586,620.0,PRT
+Quênia,2015,0,0,404.0,KEN
+Reino Unido,2015,68382,308407,826.0,GBR
+República Dominicana,2015,0,0,214.0,DOM
+Rússia,2015,47664,18240,643.0,RUS
+São Tomé e Príncipe,2015,0,0,678.0,STP
+São Vicente e Granadinas,2015,0,0,670.0,VCT
+Senegal,2015,0,0,686.0,SEN
+Serra Leoa,2015,0,0,694.0,SLE
+Singapura,2015,0,0,702.0,SGP
+Suazilândia,2015,0,0,,
+Suécia,2015,1412,6404,752.0,SWE
+Suíça,2015,15872,85790,756.0,CHE
+Suriname,2015,453,713,740.0,SUR
+Tailândia,2015,0,0,764.0,THA
+Taiwan,2015,7200,23940,158.0,TWN
+Tanzânia,2015,0,0,834.0,TZA
+República Tcheca,2015,2297,15304,203.0,CZE
+Togo,2015,0,0,768.0,TGO
+Trinidad e Tobago,2015,0,0,780.0,TTO
+Tunísia,2015,0,0,788.0,TUN
+Turquia,2015,0,0,792.0,TUR
+Tuvalu,2015,0,0,798.0,TUV
+Uruguai,2015,0,0,858.0,URY
+Vanuatu,2015,0,0,548.0,VUT
+Venezuela,2015,0,0,862.0,VEN
+Vietnã,2015,0,0,704.0,VNM
+Afeganistão,2016,0,0,4.0,AFG
+África do Sul,2016,0,0,710.0,ZAF
+Alemanha,2016,14012,68109,276.0,DEU
+Angola,2016,7359,35390,24.0,AGO
+Anguilla,2016,0,0,,
+Antígua e Barbuda,2016,0,0,28.0,ATG
+Antilhas Holandesas,2016,16641,26450,,
+Argentina,2016,0,0,32.0,ARG
+Aruba,2016,0,0,533.0,ABW
+Austrália,2016,1954,13799,36.0,AUS
+Áustria,2016,675,5220,40.0,AUT
+Bahamas,2016,0,0,44.0,BHS
+Bangladesh,2016,0,0,50.0,BGD
+Barbados,2016,0,0,52.0,BRB
+Barein,2016,0,0,48.0,BHR
+Bélgica,2016,7200,46534,56.0,BEL
+Belize,2016,0,0,84.0,BLZ
+Benim,2016,5040,20333,204.0,BEN
+Bolívia,2016,13586,16902,68.0,BOL
+Bósnia-Herzegovina,2016,0,0,70.0,BIH
+Brasil,2016,0,0,76.0,BRA
+Bulgária,2016,0,0,100.0,BGR
+Cabo Verde,2016,0,0,132.0,CPV
+Camarões,2016,0,0,120.0,CMR
+Canadá,2016,13711,71096,124.0,CAN
+Catar,2016,0,0,634.0,QAT
+Ilhas Cayman,2016,0,0,136.0,CYM
+Chile,2016,0,0,152.0,CHL
+China,2016,134106,499622,156.0,CHN
+Chipre,2016,0,0,196.0,CYP
+Singapura,2016,5445,13199,702.0,SGP
+Colômbia,2016,0,0,170.0,COL
+Comores,2016,0,0,174.0,COM
+Congo,2016,0,0,178.0,COG
+Coréia do Sul,2016,8,20,410.0,KOR
+Costa do Marfim,2016,0,0,384.0,CIV
+Costa Rica,2016,0,0,188.0,CRI
+Croácia,2016,0,0,191.0,HRV
+Cuba,2016,63741,69830,192.0,CUB
+Curaçao,2016,0,0,531.0,CUW
+Dinamarca,2016,1278,8171,208.0,DNK
+Dominica,2016,0,0,212.0,DMA
+El Salvador,2016,0,0,222.0,SLV
+Emirados Árabes Unidos,2016,585,2760,784.0,ARE
+Equador,2016,0,0,218.0,ECU
+Eslováquia,2016,0,0,703.0,SVK
+Espanha,2016,0,0,724.0,ESP
+Estados Unidos,2016,258072,687411,840.0,USA
+Estônia,2016,900,4800,233.0,EST
+Filipinas,2016,0,0,608.0,PHL
+Finlândia,2016,7617,41003,246.0,FIN
+França,2016,6037,30055,250.0,FRA
+Gana,2016,0,0,288.0,GHA
+Gibraltar,2016,0,0,292.0,GIB
+Grécia,2016,0,0,300.0,GRC
+Guatemala,2016,0,0,320.0,GTM
+Guiana,2016,0,0,328.0,GUY
+Guiana Francesa,2016,0,0,254.0,GUF
+Guiné-Bissau,2016,0,0,624.0,GNB
+Guiné Equatorial,2016,0,0,226.0,GNQ
+Haiti,2016,0,0,332.0,HTI
+Honduras,2016,0,0,340.0,HND
+Hong Kong,2016,6975,86199,344.0,HKG
+Hungria,2016,0,0,348.0,HUN
+Ilha de Man,2016,0,0,833.0,IMN
+Ilhas Virgens,2016,0,0,850.0,VIR
+Índia,2016,0,0,356.0,IND
+Indonésia,2016,0,0,360.0,IDN
+Irã,2016,0,0,364.0,IRN
+Iraque,2016,0,0,368.0,IRQ
+Irlanda,2016,0,0,372.0,IRL
+Itália,2016,585,3465,380.0,ITA
+Jamaica,2016,0,0,388.0,JAM
+Japão,2016,34341,90954,392.0,JPN
+Jordânia,2016,0,0,400.0,JOR
+Letônia,2016,0,0,428.0,LVA
+Líbano,2016,0,0,422.0,LBN
+Libéria,2016,0,0,430.0,LBR
+Luxemburgo,2016,2759,21426,442.0,LUX
+Malásia,2016,0,0,458.0,MYS
+Malta,2016,0,0,470.0,MLT
+"Marshall, Ilhas",2016,0,0,584.0,MHL
+Mauritânia,2016,0,0,478.0,MRT
+México,2016,0,0,484.0,MEX
+Montenegro,2016,0,0,499.0,MNE
+Namíbia,2016,0,0,516.0,NAM
+Nicarágua,2016,0,0,558.0,NIC
+Nigéria,2016,0,0,566.0,NGA
+Noruega,2016,0,0,578.0,NOR
+Nova Caledônia,2016,0,0,540.0,NCL
+Nova Zelândia,2016,504,9472,554.0,NZL
+Países Baixos,2016,42953,190203,528.0,NLD
+Panamá,2016,0,0,591.0,PAN
+Paraguai,2016,985739,1655417,600.0,PRY
+Peru,2016,0,0,604.0,PER
+Polônia,2016,11457,35402,616.0,POL
+Porto Rico,2016,0,0,630.0,PRI
+Portugal,2016,0,0,620.0,PRT
+Quênia,2016,0,0,404.0,KEN
+Reino Unido,2016,117044,536681,826.0,GBR
+República Dominicana,2016,0,0,214.0,DOM
+Rússia,2016,0,0,643.0,RUS
+São Tomé e Príncipe,2016,0,0,678.0,STP
+São Vicente e Granadinas,2016,0,0,670.0,VCT
+Senegal,2016,0,0,686.0,SEN
+Serra Leoa,2016,0,0,694.0,SLE
+Singapura,2016,0,0,702.0,SGP
+Suazilândia,2016,0,0,,
+Suécia,2016,291,1214,752.0,SWE
+Suíça,2016,4230,33340,756.0,CHE
+Suriname,2016,900,1375,740.0,SUR
+Tailândia,2016,0,0,764.0,THA
+Taiwan,2016,16967,80379,158.0,TWN
+Tanzânia,2016,0,0,834.0,TZA
+República Tcheca,2016,3837,28473,203.0,CZE
+Togo,2016,0,0,768.0,TGO
+Trinidad e Tobago,2016,0,0,780.0,TTO
+Tunísia,2016,0,0,788.0,TUN
+Turquia,2016,0,0,792.0,TUR
+Tuvalu,2016,0,0,798.0,TUV
+Uruguai,2016,0,0,858.0,URY
+Vanuatu,2016,0,0,548.0,VUT
+Venezuela,2016,0,0,862.0,VEN
+Vietnã,2016,0,0,704.0,VNM
+Afeganistão,2017,0,0,4.0,AFG
+África do Sul,2017,0,0,710.0,ZAF
+Alemanha,2017,15467,87702,276.0,DEU
+Angola,2017,10170,61680,24.0,AGO
+Anguilla,2017,0,0,,
+Antígua e Barbuda,2017,0,0,28.0,ATG
+Antilhas Holandesas,2017,5400,8550,,
+Argentina,2017,0,0,32.0,ARG
+Aruba,2017,0,0,533.0,ABW
+Austrália,2017,1350,7500,36.0,AUS
+Áustria,2017,0,0,40.0,AUT
+Bahamas,2017,0,0,44.0,BHS
+Bangladesh,2017,0,0,50.0,BGD
+Barbados,2017,0,0,52.0,BRB
+Barein,2017,0,0,48.0,BHR
+Bélgica,2017,2790,16405,56.0,BEL
+Belize,2017,0,0,84.0,BLZ
+Benim,2017,0,0,204.0,BEN
+Bolívia,2017,9495,23085,68.0,BOL
+Bósnia-Herzegovina,2017,0,0,70.0,BIH
+Brasil,2017,0,0,76.0,BRA
+Bulgária,2017,117,1579,100.0,BGR
+Cabo Verde,2017,0,0,132.0,CPV
+Camarões,2017,1749,7476,120.0,CMR
+Canadá,2017,6075,30658,124.0,CAN
+Catar,2017,13338,81606,634.0,QAT
+Ilhas Cayman,2017,0,0,136.0,CYM
+Chile,2017,0,0,152.0,CHL
+China,2017,67594,266086,156.0,CHN
+Chipre,2017,0,0,196.0,CYP
+Singapura,2017,0,0,702.0,SGP
+Colômbia,2017,0,0,170.0,COL
+Comores,2017,0,0,174.0,COM
+Congo,2017,0,0,178.0,COG
+Coréia do Sul,2017,0,0,410.0,KOR
+Costa do Marfim,2017,0,0,384.0,CIV
+Costa Rica,2017,0,0,188.0,CRI
+Croácia,2017,0,0,191.0,HRV
+Cuba,2017,62791,72229,192.0,CUB
+Curaçao,2017,12340,23011,531.0,CUW
+Dinamarca,2017,581,2829,208.0,DNK
+Dominica,2017,0,0,212.0,DMA
+El Salvador,2017,0,0,222.0,SLV
+Emirados Árabes Unidos,2017,675,3302,784.0,ARE
+Equador,2017,0,0,218.0,ECU
+Eslováquia,2017,0,0,703.0,SVK
+Espanha,2017,0,0,724.0,ESP
+Estados Unidos,2017,132688,1523699,840.0,USA
+Estônia,2017,0,0,233.0,EST
+Filipinas,2017,0,0,608.0,PHL
+Finlândia,2017,0,0,246.0,FIN
+França,2017,4253,21654,250.0,FRA
+Gana,2017,0,0,288.0,GHA
+Gibraltar,2017,0,0,292.0,GIB
+Grécia,2017,0,0,300.0,GRC
+Guatemala,2017,0,0,320.0,GTM
+Guiana,2017,0,0,328.0,GUY
+Guiana Francesa,2017,0,0,254.0,GUF
+Guiné-Bissau,2017,48,90,624.0,GNB
+Guiné Equatorial,2017,2639,30563,226.0,GNQ
+Haiti,2017,0,0,332.0,HTI
+Honduras,2017,0,0,340.0,HND
+Hong Kong,2017,1934,8180,344.0,HKG
+Hungria,2017,0,0,348.0,HUN
+Ilha de Man,2017,0,0,833.0,IMN
+Ilhas Virgens,2017,0,0,850.0,VIR
+Índia,2017,0,0,356.0,IND
+Indonésia,2017,0,0,360.0,IDN
+Irã,2017,0,0,364.0,IRN
+Iraque,2017,0,0,368.0,IRQ
+Irlanda,2017,0,0,372.0,IRL
+Itália,2017,468,2248,380.0,ITA
+Jamaica,2017,0,0,388.0,JAM
+Japão,2017,33909,92886,392.0,JPN
+Jordânia,2017,0,0,400.0,JOR
+Letônia,2017,387,3723,428.0,LVA
+Líbano,2017,0,0,422.0,LBN
+Libéria,2017,0,0,430.0,LBR
+Luxemburgo,2017,2719,21947,442.0,LUX
+Malásia,2017,0,0,458.0,MYS
+Malta,2017,0,0,470.0,MLT
+"Marshall, Ilhas",2017,0,0,584.0,MHL
+Mauritânia,2017,0,0,478.0,MRT
+México,2017,664,2292,484.0,MEX
+Montenegro,2017,0,0,499.0,MNE
+Namíbia,2017,0,0,516.0,NAM
+Nicarágua,2017,0,0,558.0,NIC
+Nigéria,2017,0,0,566.0,NGA
+Noruega,2017,0,0,578.0,NOR
+Nova Caledônia,2017,0,0,540.0,NCL
+Nova Zelândia,2017,1678,8140,554.0,NZL
+Países Baixos,2017,0,0,528.0,NLD
+Panamá,2017,0,0,591.0,PAN
+Paraguai,2017,2393468,4274650,600.0,PRY
+Peru,2017,0,0,604.0,PER
+Polônia,2017,0,0,616.0,POL
+Porto Rico,2017,0,0,630.0,PRI
+Portugal,2017,0,0,620.0,PRT
+Quênia,2017,0,0,404.0,KEN
+Reino Unido,2017,60711,242883,826.0,GBR
+República Dominicana,2017,0,0,214.0,DOM
+Rússia,2017,0,0,643.0,RUS
+São Tomé e Príncipe,2017,0,0,678.0,STP
+São Vicente e Granadinas,2017,0,0,670.0,VCT
+Senegal,2017,0,0,686.0,SEN
+Serra Leoa,2017,0,0,694.0,SLE
+Singapura,2017,0,0,702.0,SGP
+Suazilândia,2017,0,0,,
+Suécia,2017,15445,64953,752.0,SWE
+Suíça,2017,6525,74816,756.0,CHE
+Suriname,2017,3690,5638,740.0,SUR
+Tailândia,2017,0,0,764.0,THA
+Taiwan,2017,14988,43954,158.0,TWN
+Tanzânia,2017,0,0,834.0,TZA
+República Tcheca,2017,2746,16947,203.0,CZE
+Togo,2017,0,0,768.0,TGO
+Trinidad e Tobago,2017,0,0,780.0,TTO
+Tunísia,2017,0,0,788.0,TUN
+Turquia,2017,0,0,792.0,TUR
+Tuvalu,2017,0,0,798.0,TUV
+Uruguai,2017,0,0,858.0,URY
+Vanuatu,2017,0,0,548.0,VUT
+Venezuela,2017,680,2646,862.0,VEN
+Vietnã,2017,0,0,704.0,VNM
+Afeganistão,2018,0,0,4.0,AFG
+África do Sul,2018,0,0,710.0,ZAF
+Alemanha,2018,10794,45382,276.0,DEU
+Angola,2018,477,709,24.0,AGO
+Anguilla,2018,0,0,,
+Antígua e Barbuda,2018,37,191,28.0,ATG
+Antilhas Holandesas,2018,0,0,,
+Argentina,2018,15711,59150,32.0,ARG
+Aruba,2018,0,0,533.0,ABW
+Austrália,2018,2055,6902,36.0,AUS
+Áustria,2018,0,0,40.0,AUT
+Bahamas,2018,141,634,44.0,BHS
+Bangladesh,2018,0,0,50.0,BGD
+Barbados,2018,0,0,52.0,BRB
+Barein,2018,0,0,48.0,BHR
+Bélgica,2018,7497,52799,56.0,BEL
+Belize,2018,0,0,84.0,BLZ
+Benim,2018,0,0,204.0,BEN
+Bolívia,2018,21566,57424,68.0,BOL
+Bósnia-Herzegovina,2018,0,0,70.0,BIH
+Brasil,2018,0,0,76.0,BRA
+Bulgária,2018,0,0,100.0,BGR
+Cabo Verde,2018,18,48,132.0,CPV
+Camarões,2018,0,0,120.0,CMR
+Canadá,2018,5308,20414,124.0,CAN
+Catar,2018,0,0,634.0,QAT
+Ilhas Cayman,2018,19,203,136.0,CYM
+Chile,2018,11049,42832,152.0,CHL
+China,2018,30835,126336,156.0,CHN
+Chipre,2018,279,480,196.0,CYP
+Singapura,2018,3298,11616,702.0,SGP
+Colômbia,2018,6944,26273,170.0,COL
+Comores,2018,0,0,174.0,COM
+Congo,2018,0,0,178.0,COG
+Coréia do Sul,2018,120,109,410.0,KOR
+Costa do Marfim,2018,0,0,384.0,CIV
+Costa Rica,2018,0,0,188.0,CRI
+Croácia,2018,0,0,191.0,HRV
+Cuba,2018,4776,5584,192.0,CUB
+Curaçao,2018,23930,43676,531.0,CUW
+Dinamarca,2018,0,0,208.0,DNK
+Dominica,2018,0,0,212.0,DMA
+El Salvador,2018,0,0,222.0,SLV
+Emirados Árabes Unidos,2018,360,1762,784.0,ARE
+Equador,2018,0,0,218.0,ECU
+Eslováquia,2018,0,0,703.0,SVK
+Espanha,2018,6123,22631,724.0,ESP
+Estados Unidos,2018,169109,512519,840.0,USA
+Estônia,2018,0,0,233.0,EST
+Filipinas,2018,9608,16205,608.0,PHL
+Finlândia,2018,0,0,246.0,FIN
+França,2018,11077,48677,250.0,FRA
+Gana,2018,9000,13502,288.0,GHA
+Gibraltar,2018,0,0,292.0,GIB
+Grécia,2018,232,730,300.0,GRC
+Guatemala,2018,0,0,320.0,GTM
+Guiana,2018,0,0,328.0,GUY
+Guiana Francesa,2018,0,0,254.0,GUF
+Guiné-Bissau,2018,0,0,624.0,GNB
+Guiné Equatorial,2018,8389,26808,226.0,GNQ
+Haiti,2018,79500,144425,332.0,HTI
+Honduras,2018,0,0,340.0,HND
+Hong Kong,2018,1742,9029,344.0,HKG
+Hungria,2018,0,0,348.0,HUN
+Ilha de Man,2018,0,0,833.0,IMN
+Ilhas Virgens,2018,0,0,850.0,VIR
+Índia,2018,0,0,356.0,IND
+Indonésia,2018,0,0,360.0,IDN
+Irã,2018,0,0,364.0,IRN
+Iraque,2018,0,0,368.0,IRQ
+Irlanda,2018,7560,25767,372.0,IRL
+Itália,2018,3661,13260,380.0,ITA
+Jamaica,2018,0,0,388.0,JAM
+Japão,2018,36992,112342,392.0,JPN
+Jordânia,2018,0,0,400.0,JOR
+Letônia,2018,0,0,428.0,LVA
+Líbano,2018,0,0,422.0,LBN
+Libéria,2018,658,3100,430.0,LBR
+Luxemburgo,2018,1778,11053,442.0,LUX
+Malásia,2018,15,33,458.0,MYS
+Malta,2018,503,1192,470.0,MLT
+"Marshall, Ilhas",2018,923,2436,584.0,MHL
+Mauritânia,2018,0,0,478.0,MRT
+México,2018,2748,9744,484.0,MEX
+Montenegro,2018,0,0,499.0,MNE
+Namíbia,2018,0,0,516.0,NAM
+Nicarágua,2018,0,0,558.0,NIC
+Nigéria,2018,5175,6250,566.0,NGA
+Noruega,2018,1295,9847,578.0,NOR
+Nova Caledônia,2018,0,0,540.0,NCL
+Nova Zelândia,2018,969,5565,554.0,NZL
+Países Baixos,2018,9451,32395,528.0,NLD
+Panamá,2018,1183,3117,591.0,PAN
+Paraguai,2018,3234168,5494321,600.0,PRY
+Peru,2018,5193,19372,604.0,PER
+Polônia,2018,720,4679,616.0,POL
+Porto Rico,2018,0,0,630.0,PRI
+Portugal,2018,0,0,620.0,PRT
+Quênia,2018,6771,31225,404.0,KEN
+Reino Unido,2018,67708,296827,826.0,GBR
+República Dominicana,2018,0,0,214.0,DOM
+Rússia,2018,0,0,643.0,RUS
+São Tomé e Príncipe,2018,2184,2357,678.0,STP
+São Vicente e Granadinas,2018,0,0,670.0,VCT
+Senegal,2018,0,0,686.0,SEN
+Serra Leoa,2018,0,0,694.0,SLE
+Singapura,2018,0,0,702.0,SGP
+Suazilândia,2018,0,0,,
+Suécia,2018,8062,34563,752.0,SWE
+Suíça,2018,0,0,756.0,CHE
+Suriname,2018,0,0,740.0,SUR
+Tailândia,2018,8,45,764.0,THA
+Taiwan,2018,7589,18421,158.0,TWN
+Tanzânia,2018,0,0,834.0,TZA
+República Tcheca,2018,2712,20980,203.0,CZE
+Togo,2018,0,0,768.0,TGO
+Trinidad e Tobago,2018,0,0,780.0,TTO
+Tunísia,2018,0,0,788.0,TUN
+Turquia,2018,360,150,792.0,TUR
+Tuvalu,2018,0,0,798.0,TUV
+Uruguai,2018,7711,29617,858.0,URY
+Vanuatu,2018,0,0,548.0,VUT
+Venezuela,2018,71,355,862.0,VEN
+Vietnã,2018,0,0,704.0,VNM
+Afeganistão,2019,0,0,4.0,AFG
+África do Sul,2019,26,95,710.0,ZAF
+Alemanha,2019,3660,25467,276.0,DEU
+Angola,2019,345,1065,24.0,AGO
+Anguilla,2019,0,0,,
+Antígua e Barbuda,2019,219,1549,28.0,ATG
+Antilhas Holandesas,2019,0,0,,
+Argentina,2019,0,0,32.0,ARG
+Aruba,2019,0,0,533.0,ABW
+Austrália,2019,1161,4682,36.0,AUS
+Áustria,2019,0,0,40.0,AUT
+Bahamas,2019,791,3124,44.0,BHS
+Bangladesh,2019,0,0,50.0,BGD
+Barbados,2019,36,394,52.0,BRB
+Barein,2019,482,2144,48.0,BHR
+Bélgica,2019,2498,12548,56.0,BEL
+Belize,2019,9,29,84.0,BLZ
+Benim,2019,9,9,204.0,BEN
+Bolívia,2019,0,0,68.0,BOL
+Bósnia-Herzegovina,2019,0,0,70.0,BIH
+Brasil,2019,0,0,76.0,BRA
+Bulgária,2019,0,0,100.0,BGR
+Cabo Verde,2019,0,0,132.0,CPV
+Camarões,2019,0,0,120.0,CMR
+Canadá,2019,1589,6933,124.0,CAN
+Catar,2019,0,0,634.0,QAT
+Ilhas Cayman,2019,19,106,136.0,CYM
+Chile,2019,0,0,152.0,CHL
+China,2019,129852,376828,156.0,CHN
+Chipre,2019,672,1843,196.0,CYP
+Singapura,2019,5044,19099,702.0,SGP
+Colômbia,2019,897,1999,170.0,COL
+Comores,2019,0,0,174.0,COM
+Congo,2019,0,0,178.0,COG
+Coréia do Sul,2019,70,194,410.0,KOR
+Costa do Marfim,2019,0,0,384.0,CIV
+Costa Rica,2019,0,0,188.0,CRI
+Croácia,2019,0,0,191.0,HRV
+Cuba,2019,0,0,192.0,CUB
+Curaçao,2019,33951,62067,531.0,CUW
+Dinamarca,2019,240,306,208.0,DNK
+Dominica,2019,0,0,212.0,DMA
+El Salvador,2019,0,0,222.0,SLV
+Emirados Árabes Unidos,2019,450,2202,784.0,ARE
+Equador,2019,2,3,218.0,ECU
+Eslováquia,2019,0,0,703.0,SVK
+Espanha,2019,3540,1353,724.0,ESP
+Estados Unidos,2019,209765,616274,840.0,USA
+Estônia,2019,0,0,233.0,EST
+Filipinas,2019,736,2486,608.0,PHL
+Finlândia,2019,0,0,246.0,FIN
+França,2019,18286,67072,250.0,FRA
+Gana,2019,7673,10010,288.0,GHA
+Gibraltar,2019,23,93,292.0,GIB
+Grécia,2019,561,1994,300.0,GRC
+Guatemala,2019,1597,8719,320.0,GTM
+Guiana,2019,424,1311,328.0,GUY
+Guiana Francesa,2019,0,0,254.0,GUF
+Guiné-Bissau,2019,0,0,624.0,GNB
+Guiné Equatorial,2019,0,0,226.0,GNQ
+Haiti,2019,81873,129803,332.0,HTI
+Honduras,2019,0,0,340.0,HND
+Hong Kong,2019,9651,42020,344.0,HKG
+Hungria,2019,0,0,348.0,HUN
+Ilha de Man,2019,28,175,833.0,IMN
+Ilhas Virgens,2019,0,0,850.0,VIR
+Índia,2019,51,273,356.0,IND
+Indonésia,2019,0,0,360.0,IDN
+Irã,2019,0,0,364.0,IRN
+Iraque,2019,0,0,368.0,IRQ
+Irlanda,2019,0,0,372.0,IRL
+Itália,2019,587,1625,380.0,ITA
+Jamaica,2019,0,0,388.0,JAM
+Japão,2019,40621,99642,392.0,JPN
+Jordânia,2019,0,0,400.0,JOR
+Letônia,2019,0,0,428.0,LVA
+Líbano,2019,0,0,422.0,LBN
+Libéria,2019,4441,20068,430.0,LBR
+Luxemburgo,2019,1666,11211,442.0,LUX
+Malásia,2019,48,110,458.0,MYS
+Malta,2019,3661,8828,470.0,MLT
+"Marshall, Ilhas",2019,7276,15786,584.0,MHL
+Mauritânia,2019,0,0,478.0,MRT
+México,2019,4,4,484.0,MEX
+Montenegro,2019,9,46,499.0,MNE
+Namíbia,2019,0,0,516.0,NAM
+Nicarágua,2019,0,0,558.0,NIC
+Nigéria,2019,28437,38555,566.0,NGA
+Noruega,2019,628,3139,578.0,NOR
+Nova Caledônia,2019,0,0,540.0,NCL
+Nova Zelândia,2019,500,2832,554.0,NZL
+Países Baixos,2019,44882,148031,528.0,NLD
+Panamá,2019,7918,29017,591.0,PAN
+Paraguai,2019,2419537,3826587,600.0,PRY
+Peru,2019,9755,17310,604.0,PER
+Polônia,2019,5,11,616.0,POL
+Porto Rico,2019,0,0,630.0,PRI
+Portugal,2019,18328,72413,620.0,PRT
+Quênia,2019,0,0,404.0,KEN
+Reino Unido,2019,34295,164592,826.0,GBR
+República Dominicana,2019,0,0,214.0,DOM
+Rússia,2019,0,0,643.0,RUS
+São Tomé e Príncipe,2019,0,0,678.0,STP
+São Vicente e Granadinas,2019,0,0,670.0,VCT
+Senegal,2019,0,0,686.0,SEN
+Serra Leoa,2019,18,717,694.0,SLE
+Singapura,2019,0,0,702.0,SGP
+Suazilândia,2019,0,0,,
+Suécia,2019,28,761,752.0,SWE
+Suíça,2019,2223,28503,756.0,CHE
+Suriname,2019,3206,4741,740.0,SUR
+Tailândia,2019,128,832,764.0,THA
+Taiwan,2019,12,67,158.0,TWN
+Tanzânia,2019,0,0,834.0,TZA
+República Tcheca,2019,2115,16391,203.0,CZE
+Togo,2019,0,0,768.0,TGO
+Trinidad e Tobago,2019,0,0,780.0,TTO
+Tunísia,2019,0,0,788.0,TUN
+Turquia,2019,115,209,792.0,TUR
+Tuvalu,2019,0,0,798.0,TUV
+Uruguai,2019,6180,18497,858.0,URY
+Vanuatu,2019,0,0,548.0,VUT
+Venezuela,2019,0,0,862.0,VEN
+Vietnã,2019,20,32,704.0,VNM
+Afeganistão,2020,0,0,4.0,AFG
+África do Sul,2020,4,21,710.0,ZAF
+Alemanha,2020,6261,32605,276.0,DEU
+Angola,2020,0,0,24.0,AGO
+Anguilla,2020,0,0,,
+Antígua e Barbuda,2020,624,1864,28.0,ATG
+Antilhas Holandesas,2020,0,0,,
+Argentina,2020,1015,4176,32.0,ARG
+Aruba,2020,0,0,533.0,ABW
+Austrália,2020,1013,3413,36.0,AUS
+Áustria,2020,0,0,40.0,AUT
+Bahamas,2020,1212,3703,44.0,BHS
+Bangladesh,2020,3,29,50.0,BGD
+Barbados,2020,143,169,52.0,BRB
+Barein,2020,8,28,48.0,BHR
+Bélgica,2020,3166,20460,56.0,BEL
+Belize,2020,0,0,84.0,BLZ
+Benim,2020,0,0,204.0,BEN
+Bolívia,2020,9900,16025,68.0,BOL
+Bósnia-Herzegovina,2020,45,52,70.0,BIH
+Brasil,2020,0,0,76.0,BRA
+Bulgária,2020,0,0,100.0,BGR
+Cabo Verde,2020,0,0,132.0,CPV
+Camarões,2020,0,178,120.0,CMR
+Canadá,2020,1672,8431,124.0,CAN
+Catar,2020,0,0,634.0,QAT
+Ilhas Cayman,2020,123,339,136.0,CYM
+Chile,2020,11,13,152.0,CHL
+China,2020,122253,363000,156.0,CHN
+Chipre,2020,2478,6785,196.0,CYP
+Singapura,2020,4049,9316,702.0,SGP
+Colômbia,2020,15660,23780,170.0,COL
+Comores,2020,9,25,174.0,COM
+Congo,2020,0,0,178.0,COG
+Coréia do Sul,2020,103,433,410.0,KOR
+Costa do Marfim,2020,0,0,384.0,CIV
+Costa Rica,2020,0,0,188.0,CRI
+Croácia,2020,21,123,191.0,HRV
+Cuba,2020,0,0,192.0,CUB
+Curaçao,2020,47962,65986,531.0,CUW
+Dinamarca,2020,659,1962,208.0,DNK
+Dominica,2020,0,0,212.0,DMA
+El Salvador,2020,0,0,222.0,SLV
+Emirados Árabes Unidos,2020,581,2279,784.0,ARE
+Equador,2020,3780,3824,218.0,ECU
+Eslováquia,2020,0,0,703.0,SVK
+Espanha,2020,28,126,724.0,ESP
+Estados Unidos,2020,300178,610793,840.0,USA
+Estônia,2020,0,0,233.0,EST
+Filipinas,2020,719,1548,608.0,PHL
+Finlândia,2020,0,0,246.0,FIN
+França,2020,12622,57144,250.0,FRA
+Gana,2020,18810,22027,288.0,GHA
+Gibraltar,2020,769,2860,292.0,GIB
+Grécia,2020,6859,18092,300.0,GRC
+Guatemala,2020,0,0,320.0,GTM
+Guiana,2020,990,2577,328.0,GUY
+Guiana Francesa,2020,0,0,254.0,GUF
+Guiné-Bissau,2020,0,0,624.0,GNB
+Guiné Equatorial,2020,0,0,226.0,GNQ
+Haiti,2020,399128,471152,332.0,HTI
+Honduras,2020,0,0,340.0,HND
+Hong Kong,2020,15159,41987,344.0,HKG
+Hungria,2020,0,0,348.0,HUN
+Ilha de Man,2020,11,121,833.0,IMN
+Ilhas Virgens,2020,0,0,850.0,VIR
+Índia,2020,7,10,356.0,IND
+Indonésia,2020,5,6,360.0,IDN
+Irã,2020,21,35,364.0,IRN
+Iraque,2020,0,0,368.0,IRQ
+Irlanda,2020,29,257,372.0,IRL
+Itália,2020,91,376,380.0,ITA
+Jamaica,2020,0,0,388.0,JAM
+Japão,2020,36442,92674,392.0,JPN
+Jordânia,2020,12,52,400.0,JOR
+Letônia,2020,0,0,428.0,LVA
+Líbano,2020,0,0,422.0,LBN
+Libéria,2020,5155,17624,430.0,LBR
+Luxemburgo,2020,1086,5110,442.0,LUX
+Malásia,2020,0,0,458.0,MYS
+Malta,2020,3490,9688,470.0,MLT
+"Marshall, Ilhas",2020,6270,19639,584.0,MHL
+Mauritânia,2020,0,0,478.0,MRT
+México,2020,24,226,484.0,MEX
+Montenegro,2020,9,20,499.0,MNE
+Namíbia,2020,0,0,516.0,NAM
+Nicarágua,2020,0,0,558.0,NIC
+Nigéria,2020,12094,26514,566.0,NGA
+Noruega,2020,1859,15134,578.0,NOR
+Nova Caledônia,2020,0,0,540.0,NCL
+Nova Zelândia,2020,95,515,554.0,NZL
+Países Baixos,2020,248,1532,528.0,NLD
+Panamá,2020,10821,28372,591.0,PAN
+Paraguai,2020,3299013,3869243,600.0,PRY
+Peru,2020,0,0,604.0,PER
+Polônia,2020,74,86,616.0,POL
+Porto Rico,2020,0,0,630.0,PRI
+Portugal,2020,7958,34518,620.0,PRT
+Quênia,2020,0,0,404.0,KEN
+Reino Unido,2020,22913,82722,826.0,GBR
+República Dominicana,2020,0,0,214.0,DOM
+Rússia,2020,1463,8550,643.0,RUS
+São Tomé e Príncipe,2020,0,0,678.0,STP
+São Vicente e Granadinas,2020,0,0,670.0,VCT
+Senegal,2020,0,0,686.0,SEN
+Serra Leoa,2020,9240,13050,694.0,SLE
+Singapura,2020,0,0,702.0,SGP
+Suazilândia,2020,0,0,,
+Suécia,2020,6,24,752.0,SWE
+Suíça,2020,2827,27930,756.0,CHE
+Suriname,2020,4185,5277,740.0,SUR
+Tailândia,2020,534,1753,764.0,THA
+Taiwan,2020,963,4673,158.0,TWN
+Tanzânia,2020,0,0,834.0,TZA
+República Tcheca,2020,563,4805,203.0,CZE
+Togo,2020,0,0,768.0,TGO
+Trinidad e Tobago,2020,0,0,780.0,TTO
+Tunísia,2020,0,0,788.0,TUN
+Turquia,2020,0,0,792.0,TUR
+Tuvalu,2020,2,4,798.0,TUV
+Uruguai,2020,0,0,858.0,URY
+Vanuatu,2020,18,31,548.0,VUT
+Venezuela,2020,4086,9808,862.0,VEN
+Vietnã,2020,86,584,704.0,VNM
+Afeganistão,2021,11,46,4.0,AFG
+África do Sul,2021,0,0,710.0,ZAF
+Alemanha,2021,2698,6741,276.0,DEU
+Angola,2021,0,0,24.0,AGO
+Anguilla,2021,0,0,,
+Antígua e Barbuda,2021,805,2268,28.0,ATG
+Antilhas Holandesas,2021,0,0,,
+Argentina,2021,6,13,32.0,ARG
+Aruba,2021,0,0,533.0,ABW
+Austrália,2021,705,4034,36.0,AUS
+Áustria,2021,0,0,40.0,AUT
+Bahamas,2021,1083,4567,44.0,BHS
+Bangladesh,2021,2,20,50.0,BGD
+Barbados,2021,216,844,52.0,BRB
+Barein,2021,302,894,48.0,BHR
+Bélgica,2021,483,3749,56.0,BEL
+Belize,2021,0,0,84.0,BLZ
+Benim,2021,0,0,204.0,BEN
+Bolívia,2021,5850,8360,68.0,BOL
+Bósnia-Herzegovina,2021,0,0,70.0,BIH
+Brasil,2021,31,46,76.0,BRA
+Bulgária,2021,0,0,100.0,BGR
+Cabo Verde,2021,16,124,132.0,CPV
+Camarões,2021,0,0,120.0,CMR
+Canadá,2021,1172,6157,124.0,CAN
+Catar,2021,1,2,634.0,QAT
+Ilhas Cayman,2021,104,356,136.0,CYM
+Chile,2021,26,6,152.0,CHL
+China,2021,61884,264116,156.0,CHN
+Chipre,2021,1855,4530,196.0,CYP
+Singapura,2021,0,0,702.0,SGP
+Colômbia,2021,12160,21867,170.0,COL
+Comores,2021,0,0,174.0,COM
+Congo,2021,0,0,178.0,COG
+Coréia do Sul,2021,67,100,410.0,KOR
+Costa do Marfim,2021,0,0,384.0,CIV
+Costa Rica,2021,0,0,188.0,CRI
+Croácia,2021,0,0,191.0,HRV
+Cuba,2021,0,0,192.0,CUB
+Curaçao,2021,32263,58993,531.0,CUW
+Dinamarca,2021,87,504,208.0,DNK
+Dominica,2021,460,634,212.0,DMA
+El Salvador,2021,0,0,222.0,SLV
+Emirados Árabes Unidos,2021,810,10522,784.0,ARE
+Equador,2021,0,0,218.0,ECU
+Eslováquia,2021,0,0,703.0,SVK
+Espanha,2021,0,0,724.0,ESP
+Estados Unidos,2021,111085,203554,840.0,USA
+Estônia,2021,0,0,233.0,EST
+Filipinas,2021,2784,10368,608.0,PHL
+Finlândia,2021,0,0,246.0,FIN
+França,2021,7052,23742,250.0,FRA
+Gana,2021,12578,19196,288.0,GHA
+Gibraltar,2021,0,0,292.0,GIB
+Grécia,2021,908,3014,300.0,GRC
+Guatemala,2021,17347,29100,320.0,GTM
+Guiana,2021,2372,6525,328.0,GUY
+Guiana Francesa,2021,90,32,254.0,GUF
+Guiné-Bissau,2021,0,0,624.0,GNB
+Guiné Equatorial,2021,0,0,226.0,GNQ
+Haiti,2021,670379,831181,332.0,HTI
+Honduras,2021,0,0,340.0,HND
+Hong Kong,2021,12507,39390,344.0,HKG
+Hungria,2021,87,583,348.0,HUN
+Ilha de Man,2021,97,445,833.0,IMN
+Ilhas Virgens,2021,0,0,850.0,VIR
+Índia,2021,13,86,356.0,IND
+Indonésia,2021,0,0,360.0,IDN
+Irã,2021,116,287,364.0,IRN
+Iraque,2021,0,0,368.0,IRQ
+Irlanda,2021,36,208,372.0,IRL
+Itália,2021,696,3715,380.0,ITA
+Jamaica,2021,0,0,388.0,JAM
+Japão,2021,39491,90275,392.0,JPN
+Jordânia,2021,0,0,400.0,JOR
+Letônia,2021,0,0,428.0,LVA
+Líbano,2021,0,0,422.0,LBN
+Libéria,2021,7554,23060,430.0,LBR
+Luxemburgo,2021,0,0,442.0,LUX
+Malásia,2021,0,0,458.0,MYS
+Malta,2021,3441,15454,470.0,MLT
+"Marshall, Ilhas",2021,8644,22561,584.0,MHL
+Mauritânia,2021,9,85,478.0,MRT
+México,2021,9,2,484.0,MEX
+Montenegro,2021,14,65,499.0,MNE
+Namíbia,2021,0,0,516.0,NAM
+Nicarágua,2021,0,0,558.0,NIC
+Nigéria,2021,68247,113172,566.0,NGA
+Noruega,2021,1878,8320,578.0,NOR
+Nova Caledônia,2021,7227,11924,540.0,NCL
+Nova Zelândia,2021,657,10477,554.0,NZL
+Países Baixos,2021,3791,8484,528.0,NLD
+Panamá,2021,29520,48444,591.0,PAN
+Paraguai,2021,6522527,7192362,600.0,PRY
+Peru,2021,9720,17107,604.0,PER
+Polônia,2021,4,14,616.0,POL
+Porto Rico,2021,0,0,630.0,PRI
+Portugal,2021,6358,42633,620.0,PRT
+Quênia,2021,0,0,404.0,KEN
+Reino Unido,2021,25316,122394,826.0,GBR
+República Dominicana,2021,0,0,214.0,DOM
+Rússia,2021,181931,312926,643.0,RUS
+São Tomé e Príncipe,2021,0,0,678.0,STP
+São Vicente e Granadinas,2021,8,48,670.0,VCT
+Senegal,2021,0,0,686.0,SEN
+Serra Leoa,2021,6525,12955,694.0,SLE
+Singapura,2021,4504,14346,702.0,SGP
+Suazilândia,2021,10,24,,
+Suécia,2021,23,74,752.0,SWE
+Suíça,2021,627,6999,756.0,CHE
+Suriname,2021,900,1472,740.0,SUR
+Tailândia,2021,1334,2529,764.0,THA
+Taiwan,2021,1313,8153,158.0,TWN
+Tanzânia,2021,0,0,834.0,TZA
+República Tcheca,2021,456,5988,203.0,CZE
+Togo,2021,1890,2012,768.0,TGO
+Trinidad e Tobago,2021,0,0,780.0,TTO
+Tunísia,2021,0,0,788.0,TUN
+Turquia,2021,343,878,792.0,TUR
+Tuvalu,2021,0,0,798.0,TUV
+Uruguai,2021,136774,149842,858.0,URY
+Vanuatu,2021,0,0,548.0,VUT
+Venezuela,2021,26415,35944,862.0,VEN
+Vietnã,2021,0,0,704.0,VNM
