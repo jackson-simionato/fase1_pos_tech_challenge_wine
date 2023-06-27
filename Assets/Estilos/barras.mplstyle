@@ -2,6 +2,7 @@ axes.spines.right: False
 axes.spines.top: False 
 axes.spines.bottom: True
 axes.spines.left: True
+axes.edgecolor: black
 xtick.bottom : True
 xtick.labelbottom : True
 ytick.left : True
